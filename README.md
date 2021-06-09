@@ -21,11 +21,11 @@
 脚本兼容: QuantumultX, Surge, Loon, 小火箭, JSBox, Node.js
 
 #### 1、获取cookie
-  + [浏览器获取京东cookie教程](GetJdCookie.md)
+  + [浏览器获取cookie教程](GetJdCookie.md)
     
-  + [插件获取京东cookie教程](GetJdCookie2.md)
+  + [插件获取cookie教程](GetJdCookie2.md)
     
-  + 京东APP扫码获取cookie(此种方式获取的cookie有效期为30天)(执行`node getJDCookie.js`即可,前提已配置好node环境,在当前工程下npm i下载好依赖包,本项目已下载好所以直接运行就可以)
+  + APP扫码获取cookie(此种方式获取的cookie有效期为30天)(执行`node getJDCookie.js`即可,前提已配置好node环境,在当前工程下npm i下载好依赖包,本项目已下载好所以直接运行就可以)
   
   + iOS代理软件获取cookie请查看下面配置
 
