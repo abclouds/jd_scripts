@@ -7,7 +7,7 @@
 cron 24 9 * 10-11 *
 * * */
 const $ = new Env('幸运扭蛋');
-const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
+const jdCookieNode = $.isNode() ? require('../jdCookie.js') : '';
 let cookiesArr = [];
 if ($.isNode()) {
     Object.keys(jdCookieNode).forEach((item) => {
