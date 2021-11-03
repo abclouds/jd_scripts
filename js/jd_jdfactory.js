@@ -30,4 +30,752 @@ cron "10 * * * *" script-path=https://raw.githubusercontent.com/abclouds/jd_scri
 东东工厂 = type=cron,script-path=https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_jdfactory.js, cronexpr="10 * * * *", timeout=3600, enable=true
  */
 
-const _0x3883=['由于您第','isNode','zh-cn','headers','timeout','\x20\x20\x20\x20\x20\x20','toString','sellOut','hasProduceName','sort','此京东账号','newUser','\x20\x20\x20\x20\x20\x20\x20\x20\x20','length','所需的\x20','./help/jdFactoryShareCodes.js','totalScore','JDFACTORY_FORBID_ACCOUNT','jdapp;iPhone;9.3.4;14.3;88732f840b77821b345bf07fd71f609e6ff12f43;network/4g;ADID/1C141FDD-C62F-425B-8033-9AAB7E4AE6A3;supportApplePay/0;hasUPPay/0;hasOCPay/0;model/iPhone11,8;addressid/2005183373;supportBestPay/0;appBuild/167502;jdSupportDarkMode/0;pv/414.19;apprpd/Babel_Native;ref/TTTChannelViewContoller;psq/5;ads/;psn/88732f840b77821b345bf07fd71f609e6ff12f43|1701;jdv/0|iosapp|t_335139774|appshare|CopyURL|1610885480412|1610885486;adk/;app_device/IOS;pap/JA2015_311210|9.3.4|IOS\x2014.3;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_3\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148;supportJDSHWK/1','JD_DEBUG','http','sendNotify','https://api.m.jd.com/client.action?functionId=queryVkComponent','userName','\x0a此账号',',\x20开始!','shoppingActivityVos','trim','batteryValue','msg','UserName','application/x-www-form-urlencoded','getHours','dataFile','JD_USER_AGENT','&client=wh5&clientVersion=1.1.0','\x20发送提示通知\x0a','read','parse','join','好友互助码】','finally','remainScore','个京东账号将要助力的好友','421507PEsAVs','CookieJD','openUrl','*/*','jdfactory_addEnergy','\x0a当前总电量为：','open-url','cookie','setval','wait','../USER_AGENTS','USER_AGENT','object','env','factoryInfo','media-url','28uSjAKG','setValueForKey','forEach','\x0a当前数量为：','lodash_set','已选商品：暂无\x0a','，【满足】兑换此商品所需总电量：','statusCode','floor','couponCount','cktough','4169Qcitop','@chavy_boxjs_userCfgs.httpapi_timeout','undefined','gzip,\x20deflate,\x20br','electricityValue','functionId=','给商品投入电量：','newShareCodes','mediaUrl','CookiesJD','.$1','skuId','isLoon','logSeparator','body','split','catch','../sendNotify','getSeconds','\x20-\x20','https://api.m.jd.com/client.action','../jdCookie.js','keys','\x0a请点击弹窗直达活动页面\x0a更换成心仪商品并手动投入电量兑换','getMilliseconds','\x0a请点击弹窗直达活动页面\x0a选择此心仪商品并手动投入电量兑换','concat','\x20任务已错过时间','followShopVo','false','T0225KkcRkwZ_FDScRv8lPYJfACjVWnYaS5kRrb@T0225KkcRBce813VIh-mlPZfIACjVWnYaS5kRrbA@T026a0LolJWpId1v9Y95QVaYfByLCwCjVWnYaS5kRrbA@T0157awtFFdKqQuSdFkCjVWnYaS5kRrbA','已选商品：','taskToken','JDUA','1472224ULYXMb','name','substr','path','心仪商品所需电量：','opts','cwd','result','stack','为新用户暂未开启','get','，【不满足】兑换此商品所需总电量：','\x0a兑换所需电量为：','准备做此任务：','3bKdjcS','valueForKey','\x0a******开始【京东账号','助力机会已耗尽，跳出','jdfactory_makeProduct','test','BoxJs或环境变量暂未提供心仪商品\x0a如需兑换心仪商品，请提供心仪商品名称\x0a','exec','then','电量，当前蓄电池总电量：','jdfactory_getTaskDetail','\x20-\x20账号','\x0a请去活动页面更换成心仪商品并手动投入电量兑换','?functionId=','getMonth','您心仪商品','logs','此任务：','已选商品剩余量：','jdfactory_collectScore','\x0a所选商品','exit','send','东东工厂','异常：','已抢光','getjson','simpleRecordInfoVo','BoxJs或环境变量暂未提供心仪商品\x0a如需兑换心仪商品，请提供心仪商品名称，否则满足条件后会为您兑换当前所选商品：','url','https://bean.m.jd.com/bean/signIndex.action','5BAIZXd','taskName','null','box.dat','jdfactory_getHomeData','logErr','https://wqs.jd.com/my/jingdou/my.shtml?sceneval=2','toStr','exports','POST','reduce','productInfoVos','活动\x0a现在为您从库存里面现有数量中选择一商品','58501cbDHTS','【提示】请先获取京东账号一cookie\x0a直接使用京东签到获取','请去活动页面选择心仪商品并手动投入电量兑换\x0a','ckjar','1sxkplb','jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_3\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148;supportJDSHWK/1','【满足】兑换','match','isQuanX','215363WgeJOa','indexOf','readFileSync','index','https://h5.m.jd.com','cookieJar','FACTORAY_WANTPRODUCT_NAME','api.m.jd.com','got','601986UjKEhy','isNeedRewrite','1350457BWRtSG','writeFileSync','\x0a不满足兑换心仪商品的条件\x0a','\x0a【京东账号','BoxJs或环境变量提供的心仪商品：','fullScore','\x0a请重新登录获取cookie','stringify','method','resolve','兑换所需电量：',',\x20错误!','application/json,\x20text/plain,\x20*/*','produceScore','cookie已失效\x20-\x20','fetch','assistTaskDetailVo','BoxJs或环境变量暂未提供心仪商品，下面为您目前选的','adid=0E38E9F1-4B4C-40A4-A479-DD15E58A5623&area=19_1601_50258_51885&body={\x22componentId\x22:\x224f953e59a3af4b63b4d7c24f172db3c3\x22,\x22taskParam\x22:\x22{\x5c\x22actId\x5c\x22:\x5c\x228tHNdJLcqwqhkLNA8hqwNRaNu5f\x5c\x22}\x22,\x22cpUid\x22:\x228tHNdJLcqwqhkLNA8hqwNRaNu5f\x22,\x22taskSDKVersion\x22:\x221.0.3\x22,\x22businessId\x22:\x22babel\x22}&build=167436&client=apple&clientVersion=9.2.5&d_brand=apple&d_model=iPhone11,8&eid=eidIf12a8121eas2urxgGc+zS5+UYGu1Nbed7bq8YY+gPd0Q0t+iviZdQsxnK/HTA7AxZzZBrtu1ulwEviYSV3QUuw2XHHC+PFHdNYx1A/3Zt8xYR+d3&isBackground=N&joycious=228&lang=zh_CN&networkType=wifi&networklibtype=JDNetworkBaseAF&openudid=88732f840b77821b345bf07fd71f609e6ff12f43&osVersion=14.2&partner=TF&rfs=0000&scope=11&screen=828*1792&sign=792d92f78cc893f43c32a4f0b2203a41&st=1606533009673&sv=122&uts=0f31TVRjBSsqndu4/jgUPz6uymy50MQJFKw5SxNDrZGH4Sllq/CDN8uyMr2EAv+1xp60Q9gVAW42IfViu/SFHwjfGAvRI6iMot04FU965+8UfAPZTG6MDwxmIWN7YaTL1ACcfUTG3gtkru+D4w9yowDUIzSuB+u+eoLwM7uynPMJMmGspVGyFIgDXC/tmNibL2k6wYgS249Pa2w5xFnYHQ==&uuid=hjudwgohxzVu96krv/T6Hg==&wifiBssid=1b5809fb84adffec2a397007cc235c03','code','taskVos','\x0a请去活动页面选择此心仪商品并手动投入电量兑换','canMakeList','领取做完任务的奖励：','startTime','，且当前总电量为：','getMinutes','助力码\x0a','故不一次性投入电力，一直放到蓄电池累计\x0a','lodash_get','getTime','writedata','当前已投入电量/所需电量：',',不满足兑换\x20','当前完成度：','application/json,text/plain,\x20*/*','成功收集','threeMealInfoVos','haveProduct','log','tough-cookie','assign','toFixed',',\x20结束!\x20🕛\x20','map','status','write','taskType','电量\x0a','isMuteLog','Content-Length','\x0a您所选商品','getdata','initGotEnv','done','\x20API请求失败，请检查网路重试','您当前总电量：','@chavy_boxjs_userCfgs.httpapi','isSurge','\x0a【满足】兑换此商品所需总电量：','slice','redirect','http://share.turinglabs.net/api/v3/ddfactory/query/','京东账号','time','\x0a请点击弹窗直达活动页面查看','data','getval','set-cookie','isMute','post','\x0a您提供的心仪商品','&body=','GITHUB','getTimezoneOffset','【京东账号','getFullYear','暂未选购商品\x0a现在也能为您做任务和收集免费电力','所需总电量：','string','shareCodesArr','已完成','\x0a请速去活动页面查看','GET','\x0a请重新登录获取\x0ahttps://bean.m.jd.com/bean/signIndex.action','jdfactory_getProductList','push','nickName','请去活动页面更换成心仪商品并手动投入电量兑换\x0a','bizCode','http://','openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html%22%20%7D','existsSync','setdata','，跳过','Content-Type','replace','已做完','目前数量：','getScript','call','心仪商品数量：','retcode','\x0a您当前总电量为：'];const _0x571395=_0x34eb;(function(_0x37cf7d,_0x34653b){const _0x1a831c=_0x34eb;while(!![]){try{const _0xb62f51=parseInt(_0x1a831c(0x1be))*-parseInt(_0x1a831c(0x1ae))+parseInt(_0x1a831c(0x133))+parseInt(_0x1a831c(0x1b3))*parseInt(_0x1a831c(0x19d))+-parseInt(_0x1a831c(0x143))*-parseInt(_0x1a831c(0x1aa))+parseInt(_0x1a831c(0x14e))*parseInt(_0x1a831c(0x17e))+-parseInt(_0x1a831c(0x170))+parseInt(_0x1a831c(0x1bc));if(_0xb62f51===_0x34653b)break;else _0x37cf7d['push'](_0x37cf7d['shift']());}catch(_0x5d59c3){_0x37cf7d['push'](_0x37cf7d['shift']());}}}(_0x3883,0xe29a2));const $=new Env(_0x571395(0x195)),notify=$[_0x571395(0x108)]()?require(_0x571395(0x15f)):'',jdCookieNode=$[_0x571395(0x108)]()?require(_0x571395(0x163)):'';let jdNotify=!![];const randomCount=$[_0x571395(0x108)]()?0x14:0x5;let cookiesArr=[],cookie='',message;const inviteCodes=[_0x571395(0x16c)];if($[_0x571395(0x108)]()){Object[_0x571395(0x164)](jdCookieNode)[_0x571395(0x145)](_0x231cab=>{cookiesArr['push'](jdCookieNode[_0x231cab]);});if(process['env'][_0x571395(0x11a)]&&process['env'][_0x571395(0x11a)]===_0x571395(0x16b))console[_0x571395(0xc6)]=()=>{};if(process['env']['JDFACTORY_FORBID_ACCOUNT'])process[_0x571395(0x140)][_0x571395(0x118)]['split']('&')[_0x571395(0xcb)]((_0x3bcd9d,_0x4a440d)=>Number(_0x3bcd9d)===0x0?cookiesArr=[]:cookiesArr['splice'](Number(_0x3bcd9d)-0x1-_0x4a440d,0x1));}else cookiesArr=[$['getdata'](_0x571395(0x134)),$[_0x571395(0xd3)]('CookieJD2'),...jsonParse($['getdata'](_0x571395(0x157))||'[]')[_0x571395(0xcb)](_0x1565e3=>_0x1565e3[_0x571395(0x13a)])]['filter'](_0x3f942e=>!!_0x3f942e);let wantProduct='';const JD_API_HOST=_0x571395(0x162);function _0x34eb(_0x2c48b4,_0xfdc122){_0x2c48b4=_0x2c48b4-0xc5;let _0x38835a=_0x3883[_0x2c48b4];return _0x38835a;}!(async()=>{const _0x1b1986=_0x571395;await requireConfig();if(!cookiesArr[0x0]){$[_0x1b1986(0x124)]($['name'],_0x1b1986(0x1ab),_0x1b1986(0x19c),{'open-url':'https://bean.m.jd.com/bean/signIndex.action'});return;}for(let _0x15f6e3=0x0;_0x15f6e3<cookiesArr[_0x1b1986(0x114)];_0x15f6e3++){if(cookiesArr[_0x15f6e3]){cookie=cookiesArr[_0x15f6e3],$[_0x1b1986(0x125)]=decodeURIComponent(cookie['match'](/pt_pin=([^; ]+)(?=;?)/)&&cookie[_0x1b1986(0x1b1)](/pt_pin=([^; ]+)(?=;?)/)[0x1]),$[_0x1b1986(0x1b6)]=_0x15f6e3+0x1,$['isLogin']=!![],$['nickName']='',message='',await TotalBean(),console[_0x1b1986(0xc6)](_0x1b1986(0x180)+$['index']+'】'+($[_0x1b1986(0xf6)]||$[_0x1b1986(0x125)])+'*********\x0a');if(!$['isLogin']){$[_0x1b1986(0x124)]($[_0x1b1986(0x171)],'【提示】cookie已失效',_0x1b1986(0xde)+$[_0x1b1986(0x1b6)]+'\x20'+($['nickName']||$[_0x1b1986(0x125)])+_0x1b1986(0xf3),{'open-url':_0x1b1986(0x19c)});$[_0x1b1986(0x108)]()&&await notify[_0x1b1986(0x11c)]($[_0x1b1986(0x171)]+_0x1b1986(0x1cc)+$[_0x1b1986(0x125)],_0x1b1986(0xde)+$['index']+'\x20'+$[_0x1b1986(0x125)]+_0x1b1986(0x1c4));continue;}await shareCodesFormat(),await jdFactory();}}})()[_0x571395(0x15e)](_0x12b68c=>{const _0xf2581b=_0x571395;$[_0xf2581b(0xc6)]('','❌\x20'+$[_0xf2581b(0x171)]+',\x20失败!\x20原因:\x20'+_0x12b68c+'!','');})[_0x571395(0x130)](()=>{const _0x1d33d5=_0x571395;$[_0x1d33d5(0xd5)]();});async function jdFactory(){const _0x1f3932=_0x571395;try{await jdfactory_getHomeData(),await helpFriends();if($[_0x1f3932(0x112)]===0x1)return;await jdfactory_collectElectricity(),await jdfactory_getTaskDetail(),await doTask(),await algorithm(),await showMsg();}catch(_0x79ad30){$['logErr'](_0x79ad30);}}function showMsg(){return new Promise(_0x8d60d=>{const _0x4b3ece=_0x34eb;!jdNotify?$[_0x4b3ece(0x124)]($[_0x4b3ece(0x171)],'',''+message):$[_0x4b3ece(0xc6)](''+message),new Date()['getHours']()===0xc&&$[_0x4b3ece(0x124)]($[_0x4b3ece(0x171)],'',''+message),_0x8d60d();});}async function algorithm(){return new Promise(_0x67f852=>{const _0xd7704c=_0x34eb;$[_0xd7704c(0xe5)](taskPostUrl(_0xd7704c(0x1a1)),async(_0x1712c3,_0x456974,_0x3de7c7)=>{const _0x24955f=_0xd7704c;try{if(_0x1712c3)console[_0x24955f(0xc6)](''+JSON[_0x24955f(0x1c5)](_0x1712c3)),console['log']($[_0x24955f(0x171)]+_0x24955f(0xd6));else{if(safeGet(_0x3de7c7)){_0x3de7c7=JSON['parse'](_0x3de7c7);if(_0x3de7c7[_0x24955f(0xe1)]['bizCode']===0x0){$[_0x24955f(0xc5)]=_0x3de7c7[_0x24955f(0xe1)]['result'][_0x24955f(0xc5)],$[_0x24955f(0x11e)]=_0x3de7c7[_0x24955f(0xe1)][_0x24955f(0x177)][_0x24955f(0x11e)],$[_0x24955f(0x112)]=_0x3de7c7[_0x24955f(0xe1)][_0x24955f(0x177)]['newUser'],wantProduct=$[_0x24955f(0x108)]()?process[_0x24955f(0x140)]['FACTORAY_WANTPRODUCT_NAME']?process[_0x24955f(0x140)][_0x24955f(0x1b9)]:wantProduct:$[_0x24955f(0xd3)](_0x24955f(0x1b9))?$[_0x24955f(0xd3)](_0x24955f(0x1b9)):wantProduct;if(_0x3de7c7[_0x24955f(0xe1)][_0x24955f(0x177)][_0x24955f(0x141)]){let {totalScore:_0x5d28ea,useScore:_0x5835e3,produceScore:_0x476fa1,remainScore:_0x3af476,couponCount:_0x56d1a0,name:_0x47de02}=_0x3de7c7[_0x24955f(0xe1)][_0x24955f(0x177)]['factoryInfo'];console[_0x24955f(0xc6)]('\x0a已选商品：'+_0x47de02),console[_0x24955f(0xc6)](_0x24955f(0x1de)+_0x5835e3+'/'+_0x5d28ea),console[_0x24955f(0xc6)](_0x24955f(0x190)+_0x56d1a0),console[_0x24955f(0xc6)]('当前总电量：'+(_0x3af476*0x1+_0x5835e3*0x1)),console[_0x24955f(0xc6)](_0x24955f(0x1e0)+((_0x3af476*0x1+_0x5835e3*0x1)/(_0x5d28ea*0x1))[_0x24955f(0xc9)](0x2)*0x64+'%\x0a'),message+=_0x24955f(0xde)+$[_0x24955f(0x1b6)]+'\x20'+$[_0x24955f(0xf6)]+'\x0a',message+=_0x24955f(0x16d)+_0x47de02+'\x0a',message+=_0x24955f(0x1de)+_0x5835e3+'/'+_0x5d28ea+'\x0a',message+=_0x24955f(0x190)+_0x56d1a0+'\x0a',message+='当前总电量：'+(_0x3af476*0x1+_0x5835e3*0x1)+'\x0a',message+=_0x24955f(0x1e0)+((_0x3af476*0x1+_0x5835e3*0x1)/(_0x5d28ea*0x1))[_0x24955f(0xc9)](0x2)*0x64+'%\x0a';if(wantProduct){console[_0x24955f(0xc6)]('BoxJs或环境变量提供的心仪商品：'+wantProduct+'\x0a'),await jdfactory_getProductList(!![]);let _0x43f311='';for(let _0x5b73b0 of $[_0x24955f(0x1d4)]){_0x5b73b0[_0x24955f(0x171)][_0x24955f(0x1b4)](wantProduct)>-0x1&&(_0x5d28ea=_0x5b73b0[_0x24955f(0x1c3)]*0x1,_0x56d1a0=_0x5b73b0[_0x24955f(0x14c)],_0x47de02=_0x5b73b0['name']),_0x5b73b0[_0x24955f(0x171)][_0x24955f(0x1b4)](wantProduct)>-0x1&&_0x5b73b0[_0x24955f(0x14c)]>0x0&&(_0x43f311=_0x5b73b0[_0x24955f(0x159)]);}if(_0x43f311&&_0x3af476*0x1+_0x5835e3*0x1>=_0x5d28ea*0x1+0x186a0){console[_0x24955f(0xc6)]('\x0a提供的心仪商品'+_0x47de02+_0x24955f(0x101)+_0x56d1a0+'，且当前总电量为：'+(_0x3af476*0x1+_0x5835e3*0x1)+_0x24955f(0x149)+(_0x5d28ea+0x186a0)),console[_0x24955f(0xc6)](_0x24955f(0xf7)),$['msg']($['name'],'',_0x24955f(0xde)+$[_0x24955f(0x1b6)]+$[_0x24955f(0xf6)]+_0x24955f(0xe6)+_0x47de02+'目前数量：'+_0x56d1a0+_0x24955f(0x138)+(_0x3af476*0x1+_0x5835e3*0x1)+_0x24955f(0xda)+_0x5d28ea+_0x24955f(0x165),{'open-url':_0x24955f(0xfa)});if($[_0x24955f(0x108)]())await notify['sendNotify']($[_0x24955f(0x171)]+'\x20-\x20账号'+$[_0x24955f(0x1b6)]+_0x24955f(0x161)+$['nickName'],_0x24955f(0xea)+$[_0x24955f(0x1b6)]+'】'+$[_0x24955f(0xf6)]+_0x24955f(0xe6)+_0x47de02+_0x24955f(0x101)+_0x56d1a0+'\x0a当前总电量为：'+(_0x3af476*0x1+_0x5835e3*0x1)+'\x0a【满足】兑换此商品所需总电量：'+_0x5d28ea+_0x24955f(0x18a));}else console[_0x24955f(0xc6)](_0x24955f(0x18d)+_0x47de02+_0x24955f(0x146)+_0x56d1a0+_0x24955f(0x17c)+_0x5d28ea+_0x24955f(0x106)+(_0x3af476*0x1+_0x5835e3*0x1)+'\x0a不满足兑换心仪商品的条件\x0a');}else{console[_0x24955f(0xc6)](_0x24955f(0x19a)+_0x47de02+'\x0a');if(_0x3af476*0x1+_0x5835e3*0x1>=_0x5d28ea*0x1+0x186a0&&_0x56d1a0*0x1>0x0){console['log'](_0x24955f(0x192)+_0x47de02+_0x24955f(0x101)+_0x56d1a0+_0x24955f(0x1d7)+(_0x3af476*0x1+_0x5835e3*0x1)+_0x24955f(0x149)+_0x5d28ea),console[_0x24955f(0xc6)](_0x24955f(0x1cf)+_0x47de02+_0x24955f(0x12b)),$['msg']($[_0x24955f(0x171)],'',_0x24955f(0xde)+$[_0x24955f(0x1b6)]+$[_0x24955f(0xf6)]+_0x24955f(0xd2)+_0x47de02+_0x24955f(0x101)+_0x56d1a0+_0x24955f(0x138)+(_0x3af476*0x1+_0x5835e3*0x1)+_0x24955f(0xda)+_0x5d28ea+_0x24955f(0xe0),{'open-url':_0x24955f(0xfa)});if($[_0x24955f(0x108)]())await notify[_0x24955f(0x11c)]($['name']+_0x24955f(0x189)+$[_0x24955f(0x1b6)]+_0x24955f(0x161)+$[_0x24955f(0xf6)],_0x24955f(0xea)+$[_0x24955f(0x1b6)]+'】'+$[_0x24955f(0xf6)]+_0x24955f(0x192)+_0x47de02+_0x24955f(0x101)+_0x56d1a0+_0x24955f(0x138)+(_0x3af476*0x1+_0x5835e3*0x1)+_0x24955f(0xda)+_0x5d28ea+'\x0a请速去活动页面查看');}else console['log'](_0x24955f(0x192)+_0x47de02+_0x24955f(0x101)+_0x56d1a0+'，且当前总电量为：'+(_0x3af476*0x1+_0x5835e3*0x1)+_0x24955f(0x17b)+_0x5d28ea),console['log'](_0x24955f(0x1da));}}else{console['log'](_0x24955f(0x11f)+$['index']+$['nickName']+'暂未选择商品\x0a'),message+='京东账号'+$['index']+'\x20'+$[_0x24955f(0xf6)]+'\x0a',message+=_0x24955f(0x148),message+='心仪商品：'+(wantProduct?wantProduct:'暂无')+'\x0a';if(wantProduct){console[_0x24955f(0xc6)](_0x24955f(0x1c2)+wantProduct+'\x0a'),await jdfactory_getProductList(!![]);let _0x10f25c='',_0x56a383,_0x8022b3,_0x1d4e5a,_0x25872b;for(let _0xfb3ad2 of $[_0x24955f(0x1d4)]){_0xfb3ad2[_0x24955f(0x171)][_0x24955f(0x1b4)](wantProduct)>-0x1&&(_0x8022b3=_0xfb3ad2[_0x24955f(0x1c3)]*0x1,_0x1d4e5a=_0xfb3ad2[_0x24955f(0x14c)],_0x56a383=_0xfb3ad2[_0x24955f(0x171)]),_0xfb3ad2['name'][_0x24955f(0x1b4)](wantProduct)>-0x1&&_0xfb3ad2['couponCount']>0x0&&(_0x10f25c=_0xfb3ad2['skuId']);}if(_0x8022b3){message+=_0x24955f(0x104)+_0x1d4e5a+'\x0a',message+=_0x24955f(0x174)+_0x8022b3+'\x0a',message+=_0x24955f(0xd7)+$[_0x24955f(0x123)]*0x1+'\x0a';if(_0x10f25c&&$[_0x24955f(0x123)]*0x1>=_0x8022b3){console['log']('\x0a提供的心仪商品'+_0x56a383+_0x24955f(0x101)+_0x1d4e5a+_0x24955f(0x1d7)+$[_0x24955f(0x123)]*0x1+_0x24955f(0x149)+_0x8022b3),console['log'](_0x24955f(0x1ac)),$[_0x24955f(0x124)]($[_0x24955f(0x171)],'',_0x24955f(0xde)+$[_0x24955f(0x1b6)]+$[_0x24955f(0xf6)]+_0x24955f(0xe6)+_0x56a383+_0x24955f(0x101)+_0x1d4e5a+_0x24955f(0x138)+$['batteryValue']*0x1+_0x24955f(0xda)+_0x8022b3+'\x0a请点击弹窗直达活动页面\x0a选择此心仪商品并手动投入电量兑换',{'open-url':_0x24955f(0xfa)});if($[_0x24955f(0x108)]())await notify[_0x24955f(0x11c)]($[_0x24955f(0x171)]+'\x20-\x20账号'+$[_0x24955f(0x1b6)]+_0x24955f(0x161)+$[_0x24955f(0xf6)],'【京东账号'+$[_0x24955f(0x1b6)]+'】'+$[_0x24955f(0xf6)]+'\x0a您提供的心仪商品'+_0x56a383+_0x24955f(0x101)+_0x1d4e5a+_0x24955f(0x138)+$['batteryValue']*0x1+_0x24955f(0xda)+_0x8022b3+_0x24955f(0x1d3));}else console[_0x24955f(0xc6)](_0x24955f(0x18d)+_0x56a383+_0x24955f(0x146)+_0x1d4e5a+_0x24955f(0x17c)+_0x8022b3+_0x24955f(0x106)+$[_0x24955f(0x123)]*0x1+_0x24955f(0x1c0));}else message+='目前库存：暂无您设置的心仪商品\x0a';}else{console['log'](_0x24955f(0x184)),await jdfactory_getProductList(!![]),message+='当前剩余最多商品：'+($[_0x24955f(0x1d4)][0x0]&&$[_0x24955f(0x1d4)][0x0]['name'])+'\x0a',message+=_0x24955f(0x1c8)+($['canMakeList'][0x0]&&$[_0x24955f(0x1d4)][0x0][_0x24955f(0x1c3)])+'\x0a',message+=_0x24955f(0xd7)+$[_0x24955f(0x123)]*0x1+'\x0a';if($[_0x24955f(0x1d4)][0x0]&&$[_0x24955f(0x1d4)][0x0][_0x24955f(0x14c)]>0x0&&$[_0x24955f(0x123)]*0x1>=$['canMakeList'][0x0]&&$[_0x24955f(0x1d4)][0x0][_0x24955f(0x1c3)]){let _0x1675ea=new Date(new Date()[_0x24955f(0x1dc)]()+new Date()[_0x24955f(0xe9)]()*0x3c*0x3e8+0x8*0x3c*0x3c*0x3e8);if(new Date(_0x1675ea)[_0x24955f(0x127)]()===0xc){$[_0x24955f(0x124)]($[_0x24955f(0x171)],'',_0x24955f(0xde)+$[_0x24955f(0x1b6)]+$[_0x24955f(0xf6)]+'\x0a'+message+_0x24955f(0x1b0)+($[_0x24955f(0x1d4)][0x0]&&$['canMakeList'][0x0]&&[0x0]['name'])+'所需总电量：'+($['canMakeList'][0x0]&&$[_0x24955f(0x1d4)][0x0]['fullScore'])+_0x24955f(0x167),{'open-url':'openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html%22%20%7D'});if($[_0x24955f(0x108)]())await notify[_0x24955f(0x11c)]($[_0x24955f(0x171)]+_0x24955f(0x189)+$[_0x24955f(0x1b6)]+'\x20-\x20'+$[_0x24955f(0xf6)],_0x24955f(0xea)+$[_0x24955f(0x1b6)]+'】'+$[_0x24955f(0xf6)]+'\x0a'+message+_0x24955f(0x1b0)+($[_0x24955f(0x1d4)][0x0]&&$[_0x24955f(0x1d4)][0x0][_0x24955f(0x171)])+_0x24955f(0xed)+$['canMakeList'][0x0][_0x24955f(0x1c3)]+_0x24955f(0xf1));}}else console[_0x24955f(0xc6)]('\x0a目前电量'+$[_0x24955f(0x123)]*0x1+_0x24955f(0x1df)+($[_0x24955f(0x1d4)][0x0]&&$[_0x24955f(0x1d4)][0x0][_0x24955f(0x171)])+_0x24955f(0x115)+($[_0x24955f(0x1d4)][0x0]&&$['canMakeList'][0x0][_0x24955f(0x1c3)])+_0x24955f(0xcf));}}}else console[_0x24955f(0xc6)](_0x24955f(0x196)+JSON['stringify'](_0x3de7c7));}}}catch(_0x1e2fbb){$[_0x24955f(0x1a2)](_0x1e2fbb,_0x456974);}finally{_0x67f852();}});});}async function helpFriends(){const _0x4628ef=_0x571395;for(let _0x44b8b0 of $['newShareCodes']){if(!_0x44b8b0)continue;const _0x8909e1=await jdfactory_collectScore(_0x44b8b0);if(_0x8909e1[_0x4628ef(0x1d1)]===0x0&&_0x8909e1[_0x4628ef(0xe1)]['bizCode']===-0x7){console[_0x4628ef(0xc6)](_0x4628ef(0x181));break;}}}async function doTask(){const _0x1e7d10=_0x571395;if($['taskVos']&&$[_0x1e7d10(0x1d2)]['length']>0x0)for(let _0x596e57 of $[_0x1e7d10(0x1d2)]){if(_0x596e57[_0x1e7d10(0xce)]===0x1){if(_0x596e57['status']===0x1){console['log'](_0x1e7d10(0x17d)+_0x596e57[_0x1e7d10(0x19e)]);for(let _0xbd31ad of _0x596e57[_0x1e7d10(0x16a)]){_0xbd31ad['status']===0x1&&await jdfactory_collectScore(_0xbd31ad[_0x1e7d10(0x16e)]);}}else console[_0x1e7d10(0xc6)](_0x596e57[_0x1e7d10(0x19e)]+_0x1e7d10(0x100));}if(_0x596e57[_0x1e7d10(0xce)]===0x2){if(_0x596e57['status']===0x1){console[_0x1e7d10(0xc6)](_0x1e7d10(0x17d)+_0x596e57[_0x1e7d10(0x19e)]);for(let _0x23728d of _0x596e57[_0x1e7d10(0x1a8)]){_0x23728d[_0x1e7d10(0xcc)]===0x1&&await jdfactory_collectScore(_0x23728d[_0x1e7d10(0x16e)]);}}else console['log'](_0x596e57[_0x1e7d10(0x19e)]+'已做完');}if(_0x596e57[_0x1e7d10(0xce)]===0x3){if(_0x596e57[_0x1e7d10(0xcc)]===0x1){console['log'](_0x1e7d10(0x17d)+_0x596e57[_0x1e7d10(0x19e)]);for(let _0x33fab6 of _0x596e57[_0x1e7d10(0x121)]){_0x33fab6[_0x1e7d10(0xcc)]===0x1&&await jdfactory_collectScore(_0x33fab6[_0x1e7d10(0x16e)]);}}else console[_0x1e7d10(0xc6)](_0x596e57[_0x1e7d10(0x19e)]+'已做完');}if(_0x596e57[_0x1e7d10(0xce)]===0xa){if(_0x596e57[_0x1e7d10(0xcc)]===0x1){if(_0x596e57[_0x1e7d10(0x1e3)][0x0][_0x1e7d10(0xcc)]===0x1)console['log'](_0x1e7d10(0x17d)+_0x596e57['taskName']),await jdfactory_collectScore(_0x596e57[_0x1e7d10(0x1e3)][0x0]['taskToken']);else _0x596e57[_0x1e7d10(0x1e3)][0x0][_0x1e7d10(0xcc)]===0x0&&console[_0x1e7d10(0xc6)](_0x596e57['taskName']+_0x1e7d10(0x169));}else _0x596e57['status']===0x2&&console[_0x1e7d10(0xc6)](_0x596e57[_0x1e7d10(0x19e)]+_0x1e7d10(0xf0));}_0x596e57[_0x1e7d10(0xce)]===0x15&&(_0x596e57[_0x1e7d10(0xcc)]===0x1?console['log'](_0x1e7d10(0x18f)+_0x596e57['taskName']+_0x1e7d10(0xfd)):console[_0x1e7d10(0xc6)](_0x596e57['taskName']+_0x1e7d10(0x100))),_0x596e57[_0x1e7d10(0xce)]===0xd&&(_0x596e57['status']===0x1?(console['log'](_0x1e7d10(0x17d)+_0x596e57[_0x1e7d10(0x19e)]),await jdfactory_collectScore(_0x596e57[_0x1e7d10(0x199)][_0x1e7d10(0x16e)])):console[_0x1e7d10(0xc6)](_0x596e57[_0x1e7d10(0x19e)]+'已完成')),_0x596e57[_0x1e7d10(0xce)]===0xe&&(_0x596e57[_0x1e7d10(0xcc)]===0x1?console[_0x1e7d10(0xc6)](_0x1e7d10(0x17d)+_0x596e57['taskName']):console[_0x1e7d10(0xc6)](_0x596e57[_0x1e7d10(0x19e)]+_0x1e7d10(0xf0))),_0x596e57['taskType']===0x17&&(_0x596e57['status']===0x1?(console[_0x1e7d10(0xc6)]('准备做此任务：'+_0x596e57[_0x1e7d10(0x19e)]),await queryVkComponent(),await jdfactory_collectScore(_0x596e57[_0x1e7d10(0x199)][_0x1e7d10(0x16e)])):console[_0x1e7d10(0xc6)](_0x596e57['taskName']+_0x1e7d10(0xf0)));}}function jdfactory_collectScore(_0x1af35a){return new Promise(async _0x2e44f7=>{const _0x3d6205=_0x34eb;await $['wait'](0x3e8),$['post'](taskPostUrl('jdfactory_collectScore',{'taskToken':_0x1af35a},_0x3d6205(0x191)),async(_0x346072,_0x1d4676,_0x1abf2a)=>{const _0x1fc13b=_0x3d6205;try{_0x346072?(console[_0x1fc13b(0xc6)](''+JSON[_0x1fc13b(0x1c5)](_0x346072)),console[_0x1fc13b(0xc6)]($[_0x1fc13b(0x171)]+_0x1fc13b(0xd6))):safeGet(_0x1abf2a)&&(_0x1abf2a=JSON[_0x1fc13b(0x12d)](_0x1abf2a),_0x1abf2a[_0x1fc13b(0xe1)]['bizCode']===0x0?($['taskVos']=_0x1abf2a[_0x1fc13b(0xe1)][_0x1fc13b(0x177)][_0x1fc13b(0x1d2)],console[_0x1fc13b(0xc6)](_0x1fc13b(0x1d5)+JSON[_0x1fc13b(0x1c5)](_0x1abf2a[_0x1fc13b(0xe1)][_0x1fc13b(0x177)]))):console[_0x1fc13b(0xc6)](JSON[_0x1fc13b(0x1c5)](_0x1abf2a)));}catch(_0x4380fe){$['logErr'](_0x4380fe,_0x1d4676);}finally{_0x2e44f7(_0x1abf2a);}});});}function jdfactory_addEnergy(){return new Promise(_0x5cbaac=>{const _0x995a0a=_0x34eb;$[_0x995a0a(0xe5)](taskPostUrl(_0x995a0a(0x137)),async(_0x2fd409,_0x12ba30,_0x5afc7f)=>{const _0x32e823=_0x995a0a;try{_0x2fd409?(console[_0x32e823(0xc6)](''+JSON[_0x32e823(0x1c5)](_0x2fd409)),console[_0x32e823(0xc6)]($[_0x32e823(0x171)]+_0x32e823(0xd6))):safeGet(_0x5afc7f)&&(_0x5afc7f=JSON['parse'](_0x5afc7f),_0x5afc7f[_0x32e823(0xe1)]['bizCode']===0x0&&console[_0x32e823(0xc6)](_0x32e823(0x154)+JSON[_0x32e823(0x1c5)](_0x5afc7f[_0x32e823(0xe1)][_0x32e823(0x177)])));}catch(_0xf1c70f){$[_0x32e823(0x1a2)](_0xf1c70f,_0x12ba30);}finally{_0x5cbaac(_0x5afc7f);}});});}function jdfactory_collectElectricity(){return new Promise(_0xdc2be1=>{const _0x55508b=_0x34eb;$[_0x55508b(0xe5)](taskPostUrl('jdfactory_collectElectricity'),async(_0x32cec3,_0x2bb4e5,_0x1c60d4)=>{const _0x5d944a=_0x55508b;try{_0x32cec3?(console[_0x5d944a(0xc6)](''+JSON[_0x5d944a(0x1c5)](_0x32cec3)),console[_0x5d944a(0xc6)]($['name']+_0x5d944a(0xd6))):safeGet(_0x1c60d4)&&(_0x1c60d4=JSON[_0x5d944a(0x12d)](_0x1c60d4),_0x1c60d4[_0x5d944a(0xe1)][_0x5d944a(0xf8)]===0x0&&(console[_0x5d944a(0xc6)](_0x5d944a(0x1e2)+_0x1c60d4[_0x5d944a(0xe1)][_0x5d944a(0x177)][_0x5d944a(0x152)]+_0x5d944a(0x187)+_0x1c60d4[_0x5d944a(0xe1)]['result'][_0x5d944a(0x123)]+'\x0a'),$[_0x5d944a(0x123)]=_0x1c60d4[_0x5d944a(0xe1)][_0x5d944a(0x177)][_0x5d944a(0x123)]));}catch(_0x45da46){$[_0x5d944a(0x1a2)](_0x45da46,_0x2bb4e5);}finally{_0xdc2be1(_0x1c60d4);}});});}function jdfactory_getTaskDetail(){return new Promise(_0x3eee14=>{const _0x3ad3d3=_0x34eb;$[_0x3ad3d3(0xe5)](taskPostUrl('jdfactory_getTaskDetail',{},_0x3ad3d3(0x188)),async(_0x5ea26b,_0x17352b,_0x3a2cf8)=>{const _0x172995=_0x3ad3d3;try{_0x5ea26b?(console[_0x172995(0xc6)](''+JSON[_0x172995(0x1c5)](_0x5ea26b)),console[_0x172995(0xc6)]($[_0x172995(0x171)]+_0x172995(0xd6))):safeGet(_0x3a2cf8)&&(_0x3a2cf8=JSON[_0x172995(0x12d)](_0x3a2cf8),_0x3a2cf8['data']['bizCode']===0x0&&($['taskVos']=_0x3a2cf8[_0x172995(0xe1)][_0x172995(0x177)][_0x172995(0x1d2)],$[_0x172995(0x1d2)]['map'](_0x2fa612=>{const _0xe76de1=_0x172995;_0x2fa612[_0xe76de1(0xce)]===0xe&&console['log'](_0xe76de1(0x1c1)+$[_0xe76de1(0x1b6)]+'（'+$['UserName']+'）的'+$[_0xe76de1(0x171)]+_0xe76de1(0x12f)+_0x2fa612[_0xe76de1(0x1ce)][_0xe76de1(0x16e)]+'\x0a');})));}catch(_0x3fdc3f){$[_0x172995(0x1a2)](_0x3fdc3f,_0x17352b);}finally{_0x3eee14();}});});}function jdfactory_makeProduct(_0x490b9e){return new Promise(_0xe6c71f=>{const _0x3892db=_0x34eb;$[_0x3892db(0xe5)](taskPostUrl(_0x3892db(0x182),{'skuId':_0x490b9e}),async(_0x130855,_0x348f3d,_0x694c45)=>{const _0x227d4e=_0x3892db;try{_0x130855?(console[_0x227d4e(0xc6)](''+JSON[_0x227d4e(0x1c5)](_0x130855)),console[_0x227d4e(0xc6)]($[_0x227d4e(0x171)]+_0x227d4e(0xd6))):safeGet(_0x694c45)&&(_0x694c45=JSON['parse'](_0x694c45),_0x694c45[_0x227d4e(0xe1)]['bizCode']===0x0?console[_0x227d4e(0xc6)]('选购商品成功：'+JSON[_0x227d4e(0x1c5)](_0x694c45)):console['log'](_0x227d4e(0x196)+JSON[_0x227d4e(0x1c5)](_0x694c45)));}catch(_0x5915cc){$['logErr'](_0x5915cc,_0x348f3d);}finally{_0xe6c71f();}});});}function queryVkComponent(){return new Promise(_0x2b9ae5=>{const _0x2a3a3b=_0x34eb,_0x2eba86={'url':_0x2a3a3b(0x11d),'body':_0x2a3a3b(0x1d0),'headers':{'Cookie':cookie,'Accept':_0x2a3a3b(0x136),'Connection':'keep-alive','Content-Type':'application/x-www-form-urlencoded','Accept-Encoding':_0x2a3a3b(0x151),'Host':_0x2a3a3b(0x1ba),'User-Agent':_0x2a3a3b(0x119),'Accept-Language':'zh-Hans-CN;q=1,\x20en-CN;q=0.9'},'timeout':0x2710};$['post'](_0x2eba86,(_0x5cc121,_0x5881a9,_0x269268)=>{const _0xb5edb6=_0x2a3a3b;try{_0x5cc121?(console['log'](''+JSON[_0xb5edb6(0x1c5)](_0x5cc121)),console[_0xb5edb6(0xc6)]($[_0xb5edb6(0x171)]+'\x20API请求失败，请检查网路重试')):safeGet(_0x269268)&&(_0x269268=JSON[_0xb5edb6(0x12d)](_0x269268));}catch(_0x4f21af){$[_0xb5edb6(0x1a2)](_0x4f21af,_0x5881a9);}finally{_0x2b9ae5();}});});}function jdfactory_getProductList(_0x3db798=![]){return new Promise(_0x1e9c94=>{const _0x36a04d=_0x34eb;$[_0x36a04d(0xe5)](taskPostUrl(_0x36a04d(0xf4)),async(_0x4e949b,_0x5a3afe,_0x351a47)=>{const _0x56be7b=_0x36a04d;try{if(_0x4e949b)console[_0x56be7b(0xc6)](''+JSON[_0x56be7b(0x1c5)](_0x4e949b)),console['log']($[_0x56be7b(0x171)]+'\x20API请求失败，请检查网路重试');else{if(safeGet(_0x351a47)){_0x351a47=JSON['parse'](_0x351a47);if(_0x351a47['data'][_0x56be7b(0xf8)]===0x0){$['canMakeList']=[],$[_0x56be7b(0x1d4)]=_0x351a47[_0x56be7b(0xe1)][_0x56be7b(0x177)][_0x56be7b(0x1d4)];if($[_0x56be7b(0x1d4)]&&$[_0x56be7b(0x1d4)][_0x56be7b(0x114)]>0x0){$[_0x56be7b(0x1d4)][_0x56be7b(0x110)](sortCouponCount),console['log']('商品名称\x20\x20\x20\x20\x20\x20\x20可选状态\x20\x20\x20\x20剩余量');for(let _0x5fb61f of $[_0x56be7b(0x1d4)]){console[_0x56be7b(0xc6)](_0x5fb61f[_0x56be7b(0x171)][_0x56be7b(0xdb)](-0x4)+_0x56be7b(0x113)+(_0x5fb61f[_0x56be7b(0x10e)]===0x1?_0x56be7b(0x197):'可\x20选')+_0x56be7b(0x10c)+_0x5fb61f['couponCount']);}if(!_0x3db798)for(let _0x4b84fe of $['canMakeList']){if(_0x4b84fe[_0x56be7b(0x171)][_0x56be7b(0x1b4)](wantProduct)>-0x1&&_0x4b84fe[_0x56be7b(0x14c)]>0x0&&_0x4b84fe[_0x56be7b(0x10e)]===0x0){await jdfactory_makeProduct(_0x4b84fe[_0x56be7b(0x159)]);break;}}}}else console[_0x56be7b(0xc6)](_0x56be7b(0x196)+JSON['stringify'](_0x351a47));}}}catch(_0x2ec42b){$[_0x56be7b(0x1a2)](_0x2ec42b,_0x5a3afe);}finally{_0x1e9c94();}});});}function sortCouponCount(_0x55e5b2,_0x175f9f){const _0x58069e=_0x571395;return _0x175f9f['couponCount']-_0x55e5b2[_0x58069e(0x14c)];}function jdfactory_getHomeData(){return new Promise(_0x55df37=>{const _0x57e398=_0x34eb;$[_0x57e398(0xe5)](taskPostUrl('jdfactory_getHomeData'),async(_0x3d2da7,_0x46cfc9,_0x33e4a7)=>{const _0x47615f=_0x57e398;try{_0x3d2da7?(console[_0x47615f(0xc6)](''+JSON[_0x47615f(0x1c5)](_0x3d2da7)),console[_0x47615f(0xc6)]($['name']+_0x47615f(0xd6))):safeGet(_0x33e4a7)&&(_0x33e4a7=JSON[_0x47615f(0x12d)](_0x33e4a7),_0x33e4a7['data'][_0x47615f(0xf8)]===0x0?($[_0x47615f(0xc5)]=_0x33e4a7[_0x47615f(0xe1)][_0x47615f(0x177)][_0x47615f(0xc5)],$[_0x47615f(0x11e)]=_0x33e4a7[_0x47615f(0xe1)]['result'][_0x47615f(0x11e)],$[_0x47615f(0x112)]=_0x33e4a7[_0x47615f(0xe1)][_0x47615f(0x177)]['newUser'],_0x33e4a7[_0x47615f(0xe1)][_0x47615f(0x177)][_0x47615f(0x141)]&&($[_0x47615f(0x117)]=_0x33e4a7[_0x47615f(0xe1)][_0x47615f(0x177)][_0x47615f(0x141)][_0x47615f(0x117)],$['userScore']=_0x33e4a7[_0x47615f(0xe1)]['result'][_0x47615f(0x141)]['userScore'],$[_0x47615f(0x1cb)]=_0x33e4a7[_0x47615f(0xe1)][_0x47615f(0x177)][_0x47615f(0x141)][_0x47615f(0x1cb)],$[_0x47615f(0x131)]=_0x33e4a7[_0x47615f(0xe1)][_0x47615f(0x177)][_0x47615f(0x141)][_0x47615f(0x131)],$['couponCount']=_0x33e4a7[_0x47615f(0xe1)][_0x47615f(0x177)][_0x47615f(0x141)][_0x47615f(0x14c)],$[_0x47615f(0x10f)]=_0x33e4a7['data'][_0x47615f(0x177)][_0x47615f(0x141)][_0x47615f(0x171)]),$[_0x47615f(0x112)]===0x1&&(console[_0x47615f(0xc6)]('此京东账号'+$['index']+$[_0x47615f(0xf6)]+_0x47615f(0x179)+$[_0x47615f(0x171)]+_0x47615f(0x1a9)),$[_0x47615f(0xc5)]===0x2&&await jdfactory_getProductList()),$['newUser']!==0x1&&$['haveProduct']===0x2&&console[_0x47615f(0xc6)](_0x47615f(0x111)+$['index']+$['nickName']+_0x47615f(0xec))):console[_0x47615f(0xc6)](_0x47615f(0x196)+JSON[_0x47615f(0x1c5)](_0x33e4a7)));}catch(_0xbbcf0c){$[_0x47615f(0x1a2)](_0xbbcf0c,_0x46cfc9);}finally{_0x55df37();}});});}function readShareCode(){const _0x13ad99=_0x571395;return console[_0x13ad99(0xc6)]('开始'),new Promise(async _0x1257de=>{const _0x4ca69a=_0x13ad99;$[_0x4ca69a(0x17a)]({'url':_0x4ca69a(0xdd)+randomCount+'/','timeout':0x2710},(_0x4fb68d,_0x3f498e,_0x53fec0)=>{const _0x304b5b=_0x4ca69a;try{_0x4fb68d?(console[_0x304b5b(0xc6)](''+JSON[_0x304b5b(0x1c5)](_0x4fb68d)),console[_0x304b5b(0xc6)]($[_0x304b5b(0x171)]+_0x304b5b(0xd6))):_0x53fec0&&(console[_0x304b5b(0xc6)]('随机取'+randomCount+'个码放到您固定的互助码后面(不影响已有固定互助)'),_0x53fec0=JSON[_0x304b5b(0x12d)](_0x53fec0));}catch(_0x1accf5){$[_0x304b5b(0x1a2)](_0x1accf5,_0x3f498e);}finally{_0x1257de(_0x53fec0);}}),await $[_0x4ca69a(0x13c)](0x2710),_0x1257de();});}function shareCodesFormat(){return new Promise(async _0x3116c2=>{const _0x45873b=_0x34eb;$['newShareCodes']=[];if($[_0x45873b(0xef)][$[_0x45873b(0x1b6)]-0x1])$[_0x45873b(0x155)]=$['shareCodesArr'][$[_0x45873b(0x1b6)]-0x1][_0x45873b(0x15d)]('@');else{console['log'](_0x45873b(0x107)+$['index']+'个京东账号未提供shareCode,将采纳本脚本自带的助力码\x0a');const _0x4a6561=$[_0x45873b(0x1b6)]>inviteCodes[_0x45873b(0x114)]?inviteCodes['length']-0x1:$['index']-0x1;$[_0x45873b(0x155)]=inviteCodes[_0x4a6561][_0x45873b(0x15d)]('@');}console[_0x45873b(0xc6)]('第'+$['index']+_0x45873b(0x132)+JSON[_0x45873b(0x1c5)]($[_0x45873b(0x155)])),_0x3116c2();});}function requireConfig(){return new Promise(_0x58e92f=>{const _0x3247d3=_0x34eb;console[_0x3247d3(0xc6)]('开始获取'+$[_0x3247d3(0x171)]+'配置文件\x0a');const _0x5202e4=$[_0x3247d3(0x108)]()?require(_0x3247d3(0x116)):'';console[_0x3247d3(0xc6)]('共'+cookiesArr['length']+'个京东账号\x0a'),$[_0x3247d3(0xef)]=[],$[_0x3247d3(0x108)]()&&Object[_0x3247d3(0x164)](_0x5202e4)[_0x3247d3(0x145)](_0x34fa2f=>{const _0x169ef8=_0x3247d3;_0x5202e4[_0x34fa2f]&&$[_0x169ef8(0xef)]['push'](_0x5202e4[_0x34fa2f]);}),console[_0x3247d3(0xc6)]('您提供了'+$['shareCodesArr'][_0x3247d3(0x114)]+'个账号的'+$[_0x3247d3(0x171)]+_0x3247d3(0x1d9)),_0x58e92f();});}function taskPostUrl(_0x16a02b,_0x2430a6={},_0x31eb34){const _0x4fb739=_0x571395;let _0x4c6fe9=''+JD_API_HOST;return _0x31eb34&&(_0x4c6fe9+=_0x4fb739(0x18b)+_0x31eb34),{'url':_0x4c6fe9,'body':_0x4fb739(0x153)+_0x16a02b+_0x4fb739(0xe7)+escape(JSON[_0x4fb739(0x1c5)](_0x2430a6))+_0x4fb739(0x12a),'headers':{'Accept':_0x4fb739(0x1ca),'Accept-Encoding':_0x4fb739(0x151),'Accept-Language':_0x4fb739(0x109),'Connection':'keep-alive','Content-Type':_0x4fb739(0x126),'Cookie':cookie,'Host':_0x4fb739(0x1ba),'Origin':_0x4fb739(0x1b7),'Referer':'https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html','User-Agent':_0x4fb739(0x119)},'timeout':0x2710};}function TotalBean(){return new Promise(async _0x16be22=>{const _0x401b38=_0x34eb,_0x2f3cce={'url':'https://wq.jd.com/user/info/QueryJDUserInfo?sceneval=2','headers':{'Accept':_0x401b38(0x1e1),'Content-Type':_0x401b38(0x126),'Accept-Encoding':_0x401b38(0x151),'Accept-Language':_0x401b38(0x109),'Connection':'keep-alive','Cookie':cookie,'Referer':_0x401b38(0x1a3),'User-Agent':$['isNode']()?process[_0x401b38(0x140)][_0x401b38(0x129)]?process['env'][_0x401b38(0x129)]:require(_0x401b38(0x13d))[_0x401b38(0x13e)]:$[_0x401b38(0xd3)](_0x401b38(0x16f))?$[_0x401b38(0xd3)](_0x401b38(0x16f)):_0x401b38(0x1af)},'timeout':0x2710};$[_0x401b38(0xe5)](_0x2f3cce,(_0x2271fc,_0x54c42d,_0x37b1df)=>{const _0x2173c8=_0x401b38;try{if(_0x2271fc)console[_0x2173c8(0xc6)](''+JSON[_0x2173c8(0x1c5)](_0x2271fc)),console[_0x2173c8(0xc6)]($[_0x2173c8(0x171)]+'\x20API请求失败，请检查网路重试');else{if(_0x37b1df){_0x37b1df=JSON[_0x2173c8(0x12d)](_0x37b1df);if(_0x37b1df['retcode']===0xd){$['isLogin']=![];return;}_0x37b1df[_0x2173c8(0x105)]===0x0?$[_0x2173c8(0xf6)]=_0x37b1df['base']&&_0x37b1df['base']['nickname']||$['UserName']:$[_0x2173c8(0xf6)]=$[_0x2173c8(0x125)];}else console[_0x2173c8(0xc6)]('京东服务器返回空数据');}}catch(_0x29c50a){$['logErr'](_0x29c50a,_0x54c42d);}finally{_0x16be22();}});});}function safeGet(_0x48fe2e){const _0x153023=_0x571395;try{if(typeof JSON[_0x153023(0x12d)](_0x48fe2e)==_0x153023(0x13f))return!![];}catch(_0x299a35){return console[_0x153023(0xc6)](_0x299a35),console['log']('京东服务器访问数据为空，请检查自身设备网络情况'),![];}}function jsonParse(_0x6adf91){const _0x3d4be9=_0x571395;if(typeof _0x6adf91==_0x3d4be9(0xee))try{return JSON[_0x3d4be9(0x12d)](_0x6adf91);}catch(_0x2c5e54){return console[_0x3d4be9(0xc6)](_0x2c5e54),$[_0x3d4be9(0x124)]($[_0x3d4be9(0x171)],'','请勿随意在BoxJs输入框修改内容\x0a建议通过脚本去获取cookie'),[];}}function Env(_0x330ac5,_0x250626){const _0x3a0825=_0x571395;_0x3a0825(0x150)!=typeof process&&JSON['stringify'](process[_0x3a0825(0x140)])[_0x3a0825(0x1b4)](_0x3a0825(0xe8))>-0x1&&process[_0x3a0825(0x193)](0x0);class _0x622622{constructor(_0x43cae3){const _0x385414=_0x3a0825;this[_0x385414(0x140)]=_0x43cae3;}['send'](_0x3bd4b3,_0x24a6da=_0x3a0825(0xf2)){const _0x4fde5c=_0x3a0825;_0x3bd4b3='string'==typeof _0x3bd4b3?{'url':_0x3bd4b3}:_0x3bd4b3;let _0x20533c=this[_0x4fde5c(0x17a)];return _0x4fde5c(0x1a6)===_0x24a6da&&(_0x20533c=this[_0x4fde5c(0xe5)]),new Promise((_0x38226e,_0x1a115a)=>{const _0x1279da=_0x4fde5c;_0x20533c[_0x1279da(0x103)](this,_0x3bd4b3,(_0x37e555,_0x1c725d,_0x52d83f)=>{_0x37e555?_0x1a115a(_0x37e555):_0x38226e(_0x1c725d);});});}[_0x3a0825(0x17a)](_0x39b629){const _0x2e5517=_0x3a0825;return this[_0x2e5517(0x194)]['call'](this[_0x2e5517(0x140)],_0x39b629);}[_0x3a0825(0xe5)](_0x4e84a3){const _0x4d5ba3=_0x3a0825;return this[_0x4d5ba3(0x194)][_0x4d5ba3(0x103)](this['env'],_0x4e84a3,_0x4d5ba3(0x1a6));}}return new class{constructor(_0x25a1b0,_0x498a67){const _0x43330f=_0x3a0825;this[_0x43330f(0x171)]=_0x25a1b0,this[_0x43330f(0x11b)]=new _0x622622(this),this[_0x43330f(0xe1)]=null,this[_0x43330f(0x128)]=_0x43330f(0x1a0),this[_0x43330f(0x18e)]=[],this[_0x43330f(0xe4)]=!0x1,this[_0x43330f(0x1bd)]=!0x1,this[_0x43330f(0x15b)]='\x0a',this[_0x43330f(0x1d6)]=new Date()[_0x43330f(0x1dc)](),Object[_0x43330f(0xc8)](this,_0x498a67),this[_0x43330f(0xc6)]('','🔔'+this[_0x43330f(0x171)]+_0x43330f(0x120));}[_0x3a0825(0x108)](){const _0x5edd78=_0x3a0825;return _0x5edd78(0x150)!=typeof module&&!!module[_0x5edd78(0x1a5)];}['isQuanX'](){const _0xc3fcae=_0x3a0825;return _0xc3fcae(0x150)!=typeof $task;}[_0x3a0825(0xd9)](){const _0x38e84f=_0x3a0825;return _0x38e84f(0x150)!=typeof $httpClient&&_0x38e84f(0x150)==typeof $loon;}[_0x3a0825(0x15a)](){const _0x45b42c=_0x3a0825;return _0x45b42c(0x150)!=typeof $loon;}['toObj'](_0x570a49,_0x1be3b5=null){const _0x52fa03=_0x3a0825;try{return JSON[_0x52fa03(0x12d)](_0x570a49);}catch{return _0x1be3b5;}}[_0x3a0825(0x1a4)](_0x1953f1,_0x3db974=null){const _0x5409b4=_0x3a0825;try{return JSON[_0x5409b4(0x1c5)](_0x1953f1);}catch{return _0x3db974;}}[_0x3a0825(0x198)](_0x2b7377,_0x398e2f){const _0x101008=_0x3a0825;let _0x4ae2a1=_0x398e2f;const _0x2924c2=this[_0x101008(0xd3)](_0x2b7377);if(_0x2924c2)try{_0x4ae2a1=JSON[_0x101008(0x12d)](this[_0x101008(0xd3)](_0x2b7377));}catch{}return _0x4ae2a1;}['setjson'](_0x52a186,_0x2e1cd6){const _0xec54ed=_0x3a0825;try{return this[_0xec54ed(0xfc)](JSON[_0xec54ed(0x1c5)](_0x52a186),_0x2e1cd6);}catch{return!0x1;}}[_0x3a0825(0x102)](_0x6b5303){return new Promise(_0x569d3a=>{const _0xf6b63=_0x34eb;this[_0xf6b63(0x17a)]({'url':_0x6b5303},(_0x29e452,_0x38bf4f,_0xf58b5c)=>_0x569d3a(_0xf58b5c));});}['runScript'](_0x29bf99,_0x390ed4){const _0x346c8d=_0x3a0825;return new Promise(_0x555362=>{const _0x1b70b8=_0x34eb;let _0x424e4c=this[_0x1b70b8(0xd3)](_0x1b70b8(0xd8));_0x424e4c=_0x424e4c?_0x424e4c[_0x1b70b8(0xff)](/\n/g,'')[_0x1b70b8(0x122)]():_0x424e4c;let _0x5f1e62=this['getdata'](_0x1b70b8(0x14f));_0x5f1e62=_0x5f1e62?0x1*_0x5f1e62:0x14,_0x5f1e62=_0x390ed4&&_0x390ed4['timeout']?_0x390ed4[_0x1b70b8(0x10b)]:_0x5f1e62;const [_0xe68e70,_0x52c732]=_0x424e4c[_0x1b70b8(0x15d)]('@'),_0x104f0d={'url':_0x1b70b8(0xf9)+_0x52c732+'/v1/scripting/evaluate','body':{'script_text':_0x29bf99,'mock_type':'cron','timeout':_0x5f1e62},'headers':{'X-Key':_0xe68e70,'Accept':_0x1b70b8(0x136)}};this[_0x1b70b8(0xe5)](_0x104f0d,(_0x4d835a,_0x4f0b12,_0x38ffc8)=>_0x555362(_0x38ffc8));})[_0x346c8d(0x15e)](_0x186af8=>this[_0x346c8d(0x1a2)](_0x186af8));}['loaddata'](){const _0x1806a6=_0x3a0825;if(!this[_0x1806a6(0x108)]())return{};{this['fs']=this['fs']?this['fs']:require('fs'),this[_0x1806a6(0x173)]=this[_0x1806a6(0x173)]?this['path']:require(_0x1806a6(0x173));const _0x2b4c8c=this['path'][_0x1806a6(0x1c7)](this[_0x1806a6(0x128)]),_0x3cd5ee=this[_0x1806a6(0x173)]['resolve'](process['cwd'](),this[_0x1806a6(0x128)]),_0xe9e601=this['fs'][_0x1806a6(0xfb)](_0x2b4c8c),_0x1a6ace=!_0xe9e601&&this['fs'][_0x1806a6(0xfb)](_0x3cd5ee);if(!_0xe9e601&&!_0x1a6ace)return{};{const _0x26425b=_0xe9e601?_0x2b4c8c:_0x3cd5ee;try{return JSON[_0x1806a6(0x12d)](this['fs'][_0x1806a6(0x1b5)](_0x26425b));}catch(_0x17e94d){return{};}}}}['writedata'](){const _0x1f726c=_0x3a0825;if(this['isNode']()){this['fs']=this['fs']?this['fs']:require('fs'),this[_0x1f726c(0x173)]=this[_0x1f726c(0x173)]?this['path']:require(_0x1f726c(0x173));const _0x556e94=this[_0x1f726c(0x173)][_0x1f726c(0x1c7)](this[_0x1f726c(0x128)]),_0x455546=this['path'][_0x1f726c(0x1c7)](process[_0x1f726c(0x176)](),this['dataFile']),_0x4bc466=this['fs'][_0x1f726c(0xfb)](_0x556e94),_0x4679e6=!_0x4bc466&&this['fs'][_0x1f726c(0xfb)](_0x455546),_0x4020cc=JSON[_0x1f726c(0x1c5)](this[_0x1f726c(0xe1)]);_0x4bc466?this['fs']['writeFileSync'](_0x556e94,_0x4020cc):_0x4679e6?this['fs'][_0x1f726c(0x1bf)](_0x455546,_0x4020cc):this['fs']['writeFileSync'](_0x556e94,_0x4020cc);}}[_0x3a0825(0x1db)](_0x12f33d,_0x53deca,_0x3b68a3){const _0x476d38=_0x3a0825,_0x66bba4=_0x53deca[_0x476d38(0xff)](/\[(\d+)\]/g,_0x476d38(0x158))['split']('.');let _0x414819=_0x12f33d;for(const _0x1e3861 of _0x66bba4)if(_0x414819=Object(_0x414819)[_0x1e3861],void 0x0===_0x414819)return _0x3b68a3;return _0x414819;}[_0x3a0825(0x147)](_0x368764,_0x1c57f8,_0x285096){const _0x31a916=_0x3a0825;return Object(_0x368764)!==_0x368764?_0x368764:(Array['isArray'](_0x1c57f8)||(_0x1c57f8=_0x1c57f8[_0x31a916(0x10d)]()[_0x31a916(0x1b1)](/[^.[\]]+/g)||[]),_0x1c57f8[_0x31a916(0xdb)](0x0,-0x1)[_0x31a916(0x1a7)]((_0x452889,_0x33bdbb,_0x2fa0a1)=>Object(_0x452889[_0x33bdbb])===_0x452889[_0x33bdbb]?_0x452889[_0x33bdbb]:_0x452889[_0x33bdbb]=Math['abs'](_0x1c57f8[_0x2fa0a1+0x1])>>0x0==+_0x1c57f8[_0x2fa0a1+0x1]?[]:{},_0x368764)[_0x1c57f8[_0x1c57f8[_0x31a916(0x114)]-0x1]]=_0x285096,_0x368764);}[_0x3a0825(0xd3)](_0x4a17bb){const _0x49ed76=_0x3a0825;let _0x96f6ba=this['getval'](_0x4a17bb);if(/^@/['test'](_0x4a17bb)){const [,_0xd1580c,_0x31e5cf]=/^@(.*?)\.(.*?)$/[_0x49ed76(0x185)](_0x4a17bb),_0x36c25f=_0xd1580c?this[_0x49ed76(0xe2)](_0xd1580c):'';if(_0x36c25f)try{const _0x38dfab=JSON[_0x49ed76(0x12d)](_0x36c25f);_0x96f6ba=_0x38dfab?this[_0x49ed76(0x1db)](_0x38dfab,_0x31e5cf,''):_0x96f6ba;}catch(_0x1d18c7){_0x96f6ba='';}}return _0x96f6ba;}[_0x3a0825(0xfc)](_0x686388,_0x22df4b){const _0x2ede47=_0x3a0825;let _0xfefeff=!0x1;if(/^@/['test'](_0x22df4b)){const [,_0x10ff4a,_0x1c4102]=/^@(.*?)\.(.*?)$/['exec'](_0x22df4b),_0x4b2ead=this[_0x2ede47(0xe2)](_0x10ff4a),_0x32d017=_0x10ff4a?_0x2ede47(0x19f)===_0x4b2ead?null:_0x4b2ead||'{}':'{}';try{const _0x90a0db=JSON[_0x2ede47(0x12d)](_0x32d017);this[_0x2ede47(0x147)](_0x90a0db,_0x1c4102,_0x686388),_0xfefeff=this[_0x2ede47(0x13b)](JSON['stringify'](_0x90a0db),_0x10ff4a);}catch(_0x4125e7){const _0x368d51={};this['lodash_set'](_0x368d51,_0x1c4102,_0x686388),_0xfefeff=this[_0x2ede47(0x13b)](JSON['stringify'](_0x368d51),_0x10ff4a);}}else _0xfefeff=this[_0x2ede47(0x13b)](_0x686388,_0x22df4b);return _0xfefeff;}[_0x3a0825(0xe2)](_0x673514){const _0x3449c9=_0x3a0825;return this[_0x3449c9(0xd9)]()||this[_0x3449c9(0x15a)]()?$persistentStore[_0x3449c9(0x12c)](_0x673514):this[_0x3449c9(0x1b2)]()?$prefs[_0x3449c9(0x17f)](_0x673514):this[_0x3449c9(0x108)]()?(this[_0x3449c9(0xe1)]=this['loaddata'](),this['data'][_0x673514]):this[_0x3449c9(0xe1)]&&this[_0x3449c9(0xe1)][_0x673514]||null;}[_0x3a0825(0x13b)](_0x1ed2bb,_0x2758d4){const _0x1e55d0=_0x3a0825;return this[_0x1e55d0(0xd9)]()||this[_0x1e55d0(0x15a)]()?$persistentStore[_0x1e55d0(0xcd)](_0x1ed2bb,_0x2758d4):this['isQuanX']()?$prefs[_0x1e55d0(0x144)](_0x1ed2bb,_0x2758d4):this[_0x1e55d0(0x108)]()?(this['data']=this['loaddata'](),this[_0x1e55d0(0xe1)][_0x2758d4]=_0x1ed2bb,this[_0x1e55d0(0x1dd)](),!0x0):this[_0x1e55d0(0xe1)]&&this[_0x1e55d0(0xe1)][_0x2758d4]||null;}[_0x3a0825(0xd4)](_0x1a7049){const _0x2d6c11=_0x3a0825;this[_0x2d6c11(0x1bb)]=this[_0x2d6c11(0x1bb)]?this[_0x2d6c11(0x1bb)]:require(_0x2d6c11(0x1bb)),this[_0x2d6c11(0x14d)]=this[_0x2d6c11(0x14d)]?this['cktough']:require(_0x2d6c11(0xc7)),this['ckjar']=this[_0x2d6c11(0x1ad)]?this[_0x2d6c11(0x1ad)]:new this[(_0x2d6c11(0x14d))]['CookieJar'](),_0x1a7049&&(_0x1a7049['headers']=_0x1a7049[_0x2d6c11(0x10a)]?_0x1a7049[_0x2d6c11(0x10a)]:{},void 0x0===_0x1a7049[_0x2d6c11(0x10a)]['Cookie']&&void 0x0===_0x1a7049[_0x2d6c11(0x1b8)]&&(_0x1a7049[_0x2d6c11(0x1b8)]=this['ckjar']));}[_0x3a0825(0x17a)](_0x572593,_0x142850=()=>{}){const _0x16fc64=_0x3a0825;_0x572593[_0x16fc64(0x10a)]&&(delete _0x572593[_0x16fc64(0x10a)][_0x16fc64(0xfe)],delete _0x572593[_0x16fc64(0x10a)]['Content-Length']),this[_0x16fc64(0xd9)]()||this['isLoon']()?(this[_0x16fc64(0xd9)]()&&this[_0x16fc64(0x1bd)]&&(_0x572593[_0x16fc64(0x10a)]=_0x572593[_0x16fc64(0x10a)]||{},Object['assign'](_0x572593[_0x16fc64(0x10a)],{'X-Surge-Skip-Scripting':!0x1})),$httpClient['get'](_0x572593,(_0x504fa0,_0x423170,_0x5bddc7)=>{const _0x195c6d=_0x16fc64;!_0x504fa0&&_0x423170&&(_0x423170[_0x195c6d(0x15c)]=_0x5bddc7,_0x423170[_0x195c6d(0x14a)]=_0x423170[_0x195c6d(0xcc)]),_0x142850(_0x504fa0,_0x423170,_0x5bddc7);})):this[_0x16fc64(0x1b2)]()?(this['isNeedRewrite']&&(_0x572593[_0x16fc64(0x175)]=_0x572593['opts']||{},Object[_0x16fc64(0xc8)](_0x572593[_0x16fc64(0x175)],{'hints':!0x1})),$task[_0x16fc64(0x1cd)](_0x572593)['then'](_0x257b0c=>{const {statusCode:_0x9ede7c,statusCode:_0x382ebe,headers:_0x4450d6,body:_0x12e787}=_0x257b0c;_0x142850(null,{'status':_0x9ede7c,'statusCode':_0x382ebe,'headers':_0x4450d6,'body':_0x12e787},_0x12e787);},_0x44d020=>_0x142850(_0x44d020))):this[_0x16fc64(0x108)]()&&(this[_0x16fc64(0xd4)](_0x572593),this[_0x16fc64(0x1bb)](_0x572593)['on'](_0x16fc64(0xdc),(_0x2396b1,_0x51d10a)=>{const _0x5d8e54=_0x16fc64;try{if(_0x2396b1[_0x5d8e54(0x10a)]['set-cookie']){const _0x489f45=_0x2396b1[_0x5d8e54(0x10a)][_0x5d8e54(0xe3)][_0x5d8e54(0xcb)](this[_0x5d8e54(0x14d)]['Cookie'][_0x5d8e54(0x12d)])[_0x5d8e54(0x10d)]();_0x489f45&&this['ckjar']['setCookieSync'](_0x489f45,null),_0x51d10a[_0x5d8e54(0x1b8)]=this[_0x5d8e54(0x1ad)];}}catch(_0x525163){this['logErr'](_0x525163);}})[_0x16fc64(0x186)](_0xb9001b=>{const {statusCode:_0x196650,statusCode:_0x11600f,headers:_0x1f427f,body:_0x2902ae}=_0xb9001b;_0x142850(null,{'status':_0x196650,'statusCode':_0x11600f,'headers':_0x1f427f,'body':_0x2902ae},_0x2902ae);},_0x2b3ff1=>{const _0x6860b9=_0x16fc64,{message:_0x4942b7,response:_0x19f5af}=_0x2b3ff1;_0x142850(_0x4942b7,_0x19f5af,_0x19f5af&&_0x19f5af[_0x6860b9(0x15c)]);}));}[_0x3a0825(0xe5)](_0x4ef621,_0x1b2bf3=()=>{}){const _0x442548=_0x3a0825;if(_0x4ef621[_0x442548(0x15c)]&&_0x4ef621[_0x442548(0x10a)]&&!_0x4ef621['headers'][_0x442548(0xfe)]&&(_0x4ef621[_0x442548(0x10a)][_0x442548(0xfe)]='application/x-www-form-urlencoded'),_0x4ef621[_0x442548(0x10a)]&&delete _0x4ef621[_0x442548(0x10a)][_0x442548(0xd1)],this[_0x442548(0xd9)]()||this[_0x442548(0x15a)]())this['isSurge']()&&this[_0x442548(0x1bd)]&&(_0x4ef621[_0x442548(0x10a)]=_0x4ef621[_0x442548(0x10a)]||{},Object[_0x442548(0xc8)](_0x4ef621[_0x442548(0x10a)],{'X-Surge-Skip-Scripting':!0x1})),$httpClient[_0x442548(0xe5)](_0x4ef621,(_0x597a62,_0x35724b,_0x468bf8)=>{const _0x28d5dc=_0x442548;!_0x597a62&&_0x35724b&&(_0x35724b[_0x28d5dc(0x15c)]=_0x468bf8,_0x35724b[_0x28d5dc(0x14a)]=_0x35724b[_0x28d5dc(0xcc)]),_0x1b2bf3(_0x597a62,_0x35724b,_0x468bf8);});else{if(this[_0x442548(0x1b2)]())_0x4ef621[_0x442548(0x1c6)]=_0x442548(0x1a6),this['isNeedRewrite']&&(_0x4ef621[_0x442548(0x175)]=_0x4ef621[_0x442548(0x175)]||{},Object[_0x442548(0xc8)](_0x4ef621[_0x442548(0x175)],{'hints':!0x1})),$task[_0x442548(0x1cd)](_0x4ef621)[_0x442548(0x186)](_0x5b1162=>{const {statusCode:_0x421dd2,statusCode:_0x2e14c3,headers:_0x3a032f,body:_0xcff252}=_0x5b1162;_0x1b2bf3(null,{'status':_0x421dd2,'statusCode':_0x2e14c3,'headers':_0x3a032f,'body':_0xcff252},_0xcff252);},_0x4101be=>_0x1b2bf3(_0x4101be));else{if(this[_0x442548(0x108)]()){this[_0x442548(0xd4)](_0x4ef621);const {url:_0x3b96a9,..._0x2a53d8}=_0x4ef621;this['got']['post'](_0x3b96a9,_0x2a53d8)['then'](_0xa6148d=>{const {statusCode:_0x190566,statusCode:_0x21ad62,headers:_0x3cc899,body:_0x138b05}=_0xa6148d;_0x1b2bf3(null,{'status':_0x190566,'statusCode':_0x21ad62,'headers':_0x3cc899,'body':_0x138b05},_0x138b05);},_0x374e91=>{const _0x37e5b5=_0x442548,{message:_0x383b22,response:_0x590cd6}=_0x374e91;_0x1b2bf3(_0x383b22,_0x590cd6,_0x590cd6&&_0x590cd6[_0x37e5b5(0x15c)]);});}}}}[_0x3a0825(0xdf)](_0x571ea8,_0x4909eb=null){const _0x24b109=_0x3a0825,_0x5b0528=_0x4909eb?new Date(_0x4909eb):new Date();let _0x1f21ac={'M+':_0x5b0528[_0x24b109(0x18c)]()+0x1,'d+':_0x5b0528['getDate'](),'H+':_0x5b0528['getHours'](),'m+':_0x5b0528[_0x24b109(0x1d8)](),'s+':_0x5b0528[_0x24b109(0x160)](),'q+':Math[_0x24b109(0x14b)]((_0x5b0528[_0x24b109(0x18c)]()+0x3)/0x3),'S':_0x5b0528[_0x24b109(0x166)]()};/(y+)/['test'](_0x571ea8)&&(_0x571ea8=_0x571ea8[_0x24b109(0xff)](RegExp['$1'],(_0x5b0528[_0x24b109(0xeb)]()+'')['substr'](0x4-RegExp['$1'][_0x24b109(0x114)])));for(let _0x49460b in _0x1f21ac)new RegExp('('+_0x49460b+')')[_0x24b109(0x183)](_0x571ea8)&&(_0x571ea8=_0x571ea8[_0x24b109(0xff)](RegExp['$1'],0x1==RegExp['$1'][_0x24b109(0x114)]?_0x1f21ac[_0x49460b]:('00'+_0x1f21ac[_0x49460b])[_0x24b109(0x172)]((''+_0x1f21ac[_0x49460b])[_0x24b109(0x114)])));return _0x571ea8;}['msg'](_0x5c4cc5=_0x330ac5,_0x3be7c3='',_0x3f9c9f='',_0x96a8bb){const _0x5d88de=_0x3a0825,_0x3bea1f=_0x2979e5=>{const _0x1c512f=_0x34eb;if(!_0x2979e5)return _0x2979e5;if('string'==typeof _0x2979e5)return this['isLoon']()?_0x2979e5:this[_0x1c512f(0x1b2)]()?{'open-url':_0x2979e5}:this[_0x1c512f(0xd9)]()?{'url':_0x2979e5}:void 0x0;if('object'==typeof _0x2979e5){if(this['isLoon']()){let _0x2478eb=_0x2979e5[_0x1c512f(0x135)]||_0x2979e5[_0x1c512f(0x19b)]||_0x2979e5[_0x1c512f(0x139)],_0x2e6b75=_0x2979e5['mediaUrl']||_0x2979e5[_0x1c512f(0x142)];return{'openUrl':_0x2478eb,'mediaUrl':_0x2e6b75};}if(this[_0x1c512f(0x1b2)]()){let _0x4f07f7=_0x2979e5[_0x1c512f(0x139)]||_0x2979e5['url']||_0x2979e5['openUrl'],_0x569d46=_0x2979e5[_0x1c512f(0x142)]||_0x2979e5[_0x1c512f(0x156)];return{'open-url':_0x4f07f7,'media-url':_0x569d46};}if(this[_0x1c512f(0xd9)]()){let _0x220ce3=_0x2979e5[_0x1c512f(0x19b)]||_0x2979e5[_0x1c512f(0x135)]||_0x2979e5[_0x1c512f(0x139)];return{'url':_0x220ce3};}}};if(this[_0x5d88de(0xe4)]||(this[_0x5d88de(0xd9)]()||this[_0x5d88de(0x15a)]()?$notification['post'](_0x5c4cc5,_0x3be7c3,_0x3f9c9f,_0x3bea1f(_0x96a8bb)):this[_0x5d88de(0x1b2)]()&&$notify(_0x5c4cc5,_0x3be7c3,_0x3f9c9f,_0x3bea1f(_0x96a8bb))),!this[_0x5d88de(0xd0)]){let _0x731cf7=['','==============📣系统通知📣=============='];_0x731cf7[_0x5d88de(0xf5)](_0x5c4cc5),_0x3be7c3&&_0x731cf7[_0x5d88de(0xf5)](_0x3be7c3),_0x3f9c9f&&_0x731cf7[_0x5d88de(0xf5)](_0x3f9c9f),console[_0x5d88de(0xc6)](_0x731cf7[_0x5d88de(0x12e)]('\x0a')),this[_0x5d88de(0x18e)]=this[_0x5d88de(0x18e)][_0x5d88de(0x168)](_0x731cf7);}}['log'](..._0x34540f){const _0xb73cf7=_0x3a0825;_0x34540f[_0xb73cf7(0x114)]>0x0&&(this[_0xb73cf7(0x18e)]=[...this[_0xb73cf7(0x18e)],..._0x34540f]),console[_0xb73cf7(0xc6)](_0x34540f['join'](this[_0xb73cf7(0x15b)]));}[_0x3a0825(0x1a2)](_0x1d440f,_0x100e71){const _0x44242a=_0x3a0825,_0x4b7f4a=!this[_0x44242a(0xd9)]()&&!this[_0x44242a(0x1b2)]()&&!this[_0x44242a(0x15a)]();_0x4b7f4a?this[_0x44242a(0xc6)]('','❗️'+this['name']+_0x44242a(0x1c9),_0x1d440f[_0x44242a(0x178)]):this[_0x44242a(0xc6)]('','❗️'+this['name']+_0x44242a(0x1c9),_0x1d440f);}[_0x3a0825(0x13c)](_0x5a982e){return new Promise(_0x4d856d=>setTimeout(_0x4d856d,_0x5a982e));}['done'](_0x299cea={}){const _0x3a8ef2=_0x3a0825,_0x5c590a=new Date()[_0x3a8ef2(0x1dc)](),_0x18ec04=(_0x5c590a-this[_0x3a8ef2(0x1d6)])/0x3e8;this[_0x3a8ef2(0xc6)]('','🔔'+this[_0x3a8ef2(0x171)]+_0x3a8ef2(0xca)+_0x18ec04+'\x20秒'),this['log'](),(this['isSurge']()||this[_0x3a8ef2(0x1b2)]()||this[_0x3a8ef2(0x15a)]())&&$done(_0x299cea);}}(_0x330ac5,_0x250626);}
+const $ = new Env('东东工厂');
+const notify = $.isNode() ? require('../sendNotify') : '';
+//Node.js用户请在jdCookie.js处填写京东ck;
+const jdCookieNode = $.isNode() ? require('../jdCookie.js') : '';
+let jdNotify = true;//是否关闭通知，false打开通知推送，true关闭通知推送
+const randomCount = $.isNode() ? 20 : 5;
+//IOS等用户直接用NobyDa的jd cookie
+let cookiesArr = [], cookie = '', message;
+
+const inviteCodes = [
+  'T0225KkcRkwZ_FDScRv8lPYJfACjVWnYaS5kRrb@T0225KkcRBce813VIh-mlPZfIACjVWnYaS5kRrbA@T026a0LolJWpId1v9Y95QVaYfByLCwCjVWnYaS5kRrbA@T0157awtFFdKqQuSdFkCjVWnYaS5kRrbA'
+];
+
+if ($.isNode()) {
+  Object.keys(jdCookieNode).forEach((item) => {
+    cookiesArr.push(jdCookieNode[item])
+  })
+  if (process.env.JD_DEBUG && process.env.JD_DEBUG === 'false') console.log = () => {};
+  if (process.env.JDFACTORY_FORBID_ACCOUNT) process.env.JDFACTORY_FORBID_ACCOUNT.split('&').map((item, index) => Number(item) === 0 ? cookiesArr = [] : cookiesArr.splice(Number(item) - 1 - index, 1))
+} else {
+  cookiesArr = [$.getdata('CookieJD'), $.getdata('CookieJD2'), ...jsonParse($.getdata('CookiesJD') || "[]").map(item => item.cookie)].filter(item => !!item);
+}
+
+let wantProduct = ``;//心仪商品名称
+const JD_API_HOST = 'https://api.m.jd.com/client.action';
+!(async () => {
+  await requireConfig();
+  if (!cookiesArr[0]) {
+    $.msg($.name, '【提示】请先获取京东账号一cookie\n直接使用京东签到获取', 'https://bean.m.jd.com/bean/signIndex.action', {"open-url": "https://bean.m.jd.com/bean/signIndex.action"});
+    return;
+  }
+  for (let i = 0; i < cookiesArr.length; i++) {
+    if (cookiesArr[i]) {
+      cookie = cookiesArr[i];
+      $.UserName = decodeURIComponent(cookie.match(/pt_pin=([^; ]+)(?=;?)/) && cookie.match(/pt_pin=([^; ]+)(?=;?)/)[1])
+      $.index = i + 1;
+      $.isLogin = true;
+      $.nickName = '';
+      message = '';
+      await TotalBean();
+      console.log(`\n******开始【京东账号${$.index}】${$.nickName || $.UserName}*********\n`);
+      if (!$.isLogin) {
+        $.msg($.name, `【提示】cookie已失效`, `京东账号${$.index} ${$.nickName || $.UserName}\n请重新登录获取\nhttps://bean.m.jd.com/bean/signIndex.action`, {"open-url": "https://bean.m.jd.com/bean/signIndex.action"});
+
+        if ($.isNode()) {
+          await notify.sendNotify(`${$.name}cookie已失效 - ${$.UserName}`, `京东账号${$.index} ${$.UserName}\n请重新登录获取cookie`);
+        }
+        continue
+      }
+      await shareCodesFormat();
+      await jdFactory()
+    }
+  }
+})()
+    .catch((e) => {
+      $.log('', `❌ ${$.name}, 失败! 原因: ${e}!`, '')
+    })
+    .finally(() => {
+      $.done();
+    })
+async function jdFactory() {
+  try {
+    await jdfactory_getHomeData();
+    await helpFriends();
+    // $.newUser !==1 && $.haveProduct === 2，老用户但未选购商品
+    // $.newUser === 1新用户
+    if ($.newUser === 1) return
+    await jdfactory_collectElectricity();//收集产生的电量
+    await jdfactory_getTaskDetail();
+    await doTask();
+    await algorithm();//投入电力逻辑
+    await showMsg();
+  } catch (e) {
+    $.logErr(e)
+  }
+}
+function showMsg() {
+  return new Promise(resolve => {
+    if (!jdNotify) {
+      $.msg($.name, '', `${message}`);
+    } else {
+      $.log(`${message}`);
+    }
+    if (new Date().getHours() === 12) {
+      $.msg($.name, '', `${message}`);
+    }
+    resolve()
+  })
+}
+async function algorithm() {
+  // 当心仪的商品存在，并且收集起来的电量满足当前商品所需，就投入
+  return new Promise(resolve => {
+    $.post(taskPostUrl('jdfactory_getHomeData'), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.data.bizCode === 0) {
+              $.haveProduct = data.data.result.haveProduct;
+              $.userName = data.data.result.userName;
+              $.newUser = data.data.result.newUser;
+              wantProduct = $.isNode() ? (process.env.FACTORAY_WANTPRODUCT_NAME ? process.env.FACTORAY_WANTPRODUCT_NAME : wantProduct) : ($.getdata('FACTORAY_WANTPRODUCT_NAME') ? $.getdata('FACTORAY_WANTPRODUCT_NAME') : wantProduct);
+              if (data.data.result.factoryInfo) {
+                let { totalScore, useScore, produceScore, remainScore, couponCount, name } = data.data.result.factoryInfo
+                console.log(`\n已选商品：${name}`);
+                console.log(`当前已投入电量/所需电量：${useScore}/${totalScore}`);
+                console.log(`已选商品剩余量：${couponCount}`);
+                console.log(`当前总电量：${remainScore * 1 + useScore * 1}`);
+                console.log(`当前完成度：${((remainScore * 1 + useScore * 1)/(totalScore * 1)).toFixed(2) * 100}%\n`);
+                message += `京东账号${$.index} ${$.nickName}\n`;
+                message += `已选商品：${name}\n`;
+                message += `当前已投入电量/所需电量：${useScore}/${totalScore}\n`;
+                message += `已选商品剩余量：${couponCount}\n`;
+                message += `当前总电量：${remainScore * 1 + useScore * 1}\n`;
+                message += `当前完成度：${((remainScore * 1 + useScore * 1)/(totalScore * 1)).toFixed(2) * 100}%\n`;
+                if (wantProduct) {
+                  console.log(`BoxJs或环境变量提供的心仪商品：${wantProduct}\n`);
+                  await jdfactory_getProductList(true);
+                  let wantProductSkuId = '';
+                  for (let item of $.canMakeList) {
+                    if (item.name.indexOf(wantProduct) > - 1) {
+                      totalScore = item['fullScore'] * 1;
+                      couponCount = item.couponCount;
+                      name = item.name;
+                    }
+                    if (item.name.indexOf(wantProduct) > - 1 && item.couponCount > 0) {
+                      wantProductSkuId = item.skuId;
+                    }
+                  }
+                  // console.log(`\n您心仪商品${name}\n当前数量为：${couponCount}\n兑换所需电量为：${totalScore}\n您当前总电量为：${remainScore * 1 + useScore * 1}\n`);
+                  if (wantProductSkuId && ((remainScore * 1 + useScore * 1) >= (totalScore * 1 + 100000))) {
+                    console.log(`\n提供的心仪商品${name}目前数量：${couponCount}，且当前总电量为：${remainScore * 1 + useScore * 1}，【满足】兑换此商品所需总电量：${totalScore + 100000}`);
+                    console.log(`请去活动页面更换成心仪商品并手动投入电量兑换\n`);
+                    $.msg($.name, '', `京东账号${$.index}${$.nickName}\n您提供的心仪商品${name}目前数量：${couponCount}\n当前总电量为：${remainScore * 1 + useScore * 1}\n【满足】兑换此商品所需总电量：${totalScore}\n请点击弹窗直达活动页面\n更换成心仪商品并手动投入电量兑换`, {'open-url': 'openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html%22%20%7D'});
+                    if ($.isNode()) await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName}`, `【京东账号${$.index}】${$.nickName}\n您提供的心仪商品${name}目前数量：${couponCount}\n当前总电量为：${remainScore * 1 + useScore * 1}\n【满足】兑换此商品所需总电量：${totalScore}\n请去活动页面更换成心仪商品并手动投入电量兑换`);
+                  } else {
+                    console.log(`您心仪商品${name}\n当前数量为：${couponCount}\n兑换所需电量为：${totalScore}\n您当前总电量为：${remainScore * 1 + useScore * 1}\n不满足兑换心仪商品的条件\n`)
+                  }
+                } else {
+                  console.log(`BoxJs或环境变量暂未提供心仪商品\n如需兑换心仪商品，请提供心仪商品名称，否则满足条件后会为您兑换当前所选商品：${name}\n`);
+                  if (((remainScore * 1 + useScore * 1) >= totalScore * 1 + 100000) && (couponCount * 1 > 0)) {
+                    console.log(`\n所选商品${name}目前数量：${couponCount}，且当前总电量为：${remainScore * 1 + useScore * 1}，【满足】兑换此商品所需总电量：${totalScore}`);
+                    console.log(`BoxJs或环境变量暂未提供心仪商品，下面为您目前选的${name} 发送提示通知\n`);
+                    // await jdfactory_addEnergy();
+                    $.msg($.name, '', `京东账号${$.index}${$.nickName}\n您所选商品${name}目前数量：${couponCount}\n当前总电量为：${remainScore * 1 + useScore * 1}\n【满足】兑换此商品所需总电量：${totalScore}\n请点击弹窗直达活动页面查看`, {'open-url': 'openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html%22%20%7D'});
+                    if ($.isNode()) await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName}`, `【京东账号${$.index}】${$.nickName}\n所选商品${name}目前数量：${couponCount}\n当前总电量为：${remainScore * 1 + useScore * 1}\n【满足】兑换此商品所需总电量：${totalScore}\n请速去活动页面查看`);
+                  } else {
+                    console.log(`\n所选商品${name}目前数量：${couponCount}，且当前总电量为：${remainScore * 1 + useScore * 1}，【不满足】兑换此商品所需总电量：${totalScore}`)
+                    console.log(`故不一次性投入电力，一直放到蓄电池累计\n`);
+                  }
+                }
+              } else {
+                console.log(`\n此账号${$.index}${$.nickName}暂未选择商品\n`);
+                message += `京东账号${$.index} ${$.nickName}\n`;
+                message += `已选商品：暂无\n`;
+                message += `心仪商品：${wantProduct ? wantProduct : '暂无'}\n`;
+                if (wantProduct) {
+                  console.log(`BoxJs或环境变量提供的心仪商品：${wantProduct}\n`);
+                  await jdfactory_getProductList(true);
+                  let wantProductSkuId = '', name, totalScore, couponCount, remainScore;
+                  for (let item of $.canMakeList) {
+                    if (item.name.indexOf(wantProduct) > - 1) {
+                      totalScore = item['fullScore'] * 1;
+                      couponCount = item.couponCount;
+                      name = item.name;
+                    }
+                    if (item.name.indexOf(wantProduct) > - 1 && item.couponCount > 0) {
+                      wantProductSkuId = item.skuId;
+                    }
+                  }
+                  if (totalScore) {
+                    // 库存存在您设置的心仪商品
+                    message += `心仪商品数量：${couponCount}\n`;
+                    message += `心仪商品所需电量：${totalScore}\n`;
+                    message += `您当前总电量：${$.batteryValue * 1}\n`;
+                    if (wantProductSkuId && (($.batteryValue * 1) >= (totalScore))) {
+                      console.log(`\n提供的心仪商品${name}目前数量：${couponCount}，且当前总电量为：${$.batteryValue * 1}，【满足】兑换此商品所需总电量：${totalScore}`);
+                      console.log(`请去活动页面选择心仪商品并手动投入电量兑换\n`);
+                      $.msg($.name, '', `京东账号${$.index}${$.nickName}\n您提供的心仪商品${name}目前数量：${couponCount}\n当前总电量为：${$.batteryValue * 1}\n【满足】兑换此商品所需总电量：${totalScore}\n请点击弹窗直达活动页面\n选择此心仪商品并手动投入电量兑换`, {'open-url': 'openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html%22%20%7D'});
+                      if ($.isNode()) await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName}`, `【京东账号${$.index}】${$.nickName}\n您提供的心仪商品${name}目前数量：${couponCount}\n当前总电量为：${$.batteryValue * 1}\n【满足】兑换此商品所需总电量：${totalScore}\n请去活动页面选择此心仪商品并手动投入电量兑换`);
+                    } else {
+                      console.log(`您心仪商品${name}\n当前数量为：${couponCount}\n兑换所需电量为：${totalScore}\n您当前总电量为：${$.batteryValue * 1}\n不满足兑换心仪商品的条件\n`)
+                    }
+                  } else {
+                    message += `目前库存：暂无您设置的心仪商品\n`;
+                  }
+                } else {
+                  console.log(`BoxJs或环境变量暂未提供心仪商品\n如需兑换心仪商品，请提供心仪商品名称\n`);
+                  await jdfactory_getProductList(true);
+                  message += `当前剩余最多商品：${$.canMakeList[0] && $.canMakeList[0].name}\n`;
+                  message += `兑换所需电量：${$.canMakeList[0] && $.canMakeList[0].fullScore}\n`;
+                  message += `您当前总电量：${$.batteryValue * 1}\n`;
+                  if ($.canMakeList[0] && $.canMakeList[0].couponCount > 0 && $.batteryValue * 1 >= $.canMakeList[0] && $.canMakeList[0].fullScore) {
+                    let nowTimes = new Date(new Date().getTime() + new Date().getTimezoneOffset()*60*1000 + 8*60*60*1000);
+                    if (new Date(nowTimes).getHours() === 12) {
+                      $.msg($.name, '', `京东账号${$.index}${$.nickName}\n${message}【满足】兑换${$.canMakeList[0] && $.canMakeList[0] && [0].name}所需总电量：${$.canMakeList[0] && $.canMakeList[0].fullScore}\n请点击弹窗直达活动页面\n选择此心仪商品并手动投入电量兑换`, {'open-url': 'openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html%22%20%7D'});
+                      if ($.isNode()) await notify.sendNotify(`${$.name} - 账号${$.index} - ${$.nickName}`, `【京东账号${$.index}】${$.nickName}\n${message}【满足】兑换${$.canMakeList[0] && $.canMakeList[0].name}所需总电量：${$.canMakeList[0].fullScore}\n请速去活动页面查看`);
+                    }
+                  } else {
+                    console.log(`\n目前电量${$.batteryValue * 1},不满足兑换 ${$.canMakeList[0] && $.canMakeList[0].name}所需的 ${$.canMakeList[0] && $.canMakeList[0].fullScore}电量\n`)
+                  }
+                }
+              }
+            } else {
+              console.log(`异常：${JSON.stringify(data)}`)
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+async function helpFriends() {
+  for (let code of $.newShareCodes) {
+    if (!code) continue
+    const helpRes = await jdfactory_collectScore(code);
+    if (helpRes.code === 0 && helpRes.data.bizCode === -7) {
+      console.log(`助力机会已耗尽，跳出`);
+      break
+    }
+  }
+}
+async function doTask() {
+  if ($.taskVos && $.taskVos.length > 0) {
+    for (let item of $.taskVos) {
+      if (item.taskType === 1) {
+        //关注店铺任务
+        if (item.status === 1) {
+          console.log(`准备做此任务：${item.taskName}`);
+          for (let task of item.followShopVo) {
+            if (task.status === 1) {
+              await jdfactory_collectScore(task.taskToken);
+            }
+          }
+        } else {
+          console.log(`${item.taskName}已做完`)
+        }
+      }
+      if (item.taskType === 2) {
+        //看看商品任务
+        if (item.status === 1) {
+          console.log(`准备做此任务：${item.taskName}`);
+          for (let task of item.productInfoVos) {
+            if (task.status === 1) {
+              await jdfactory_collectScore(task.taskToken);
+            }
+          }
+        } else {
+          console.log(`${item.taskName}已做完`)
+        }
+      }
+      if (item.taskType === 3) {
+        //逛会场任务
+        if (item.status === 1) {
+          console.log(`准备做此任务：${item.taskName}`);
+          for (let task of item.shoppingActivityVos) {
+            if (task.status === 1) {
+              await jdfactory_collectScore(task.taskToken);
+            }
+          }
+        } else {
+          console.log(`${item.taskName}已做完`)
+        }
+      }
+      if (item.taskType === 10) {
+        if (item.status === 1) {
+          if (item.threeMealInfoVos[0].status === 1) {
+            //可以做此任务
+            console.log(`准备做此任务：${item.taskName}`);
+            await jdfactory_collectScore(item.threeMealInfoVos[0].taskToken);
+          } else if (item.threeMealInfoVos[0].status === 0) {
+            console.log(`${item.taskName} 任务已错过时间`)
+          }
+        } else if (item.status === 2){
+          console.log(`${item.taskName}已完成`);
+        }
+      }
+      if (item.taskType === 21) {
+        //开通会员任务
+        if (item.status === 1) {
+          console.log(`此任务：${item.taskName}，跳过`);
+          // for (let task of item.brandMemberVos) {
+          //   if (task.status === 1) {
+          //     await jdfactory_collectScore(task.taskToken);
+          //   }
+          // }
+        } else {
+          console.log(`${item.taskName}已做完`)
+        }
+      }
+      if (item.taskType === 13) {
+        //每日打卡
+        if (item.status === 1) {
+          console.log(`准备做此任务：${item.taskName}`);
+          await jdfactory_collectScore(item.simpleRecordInfoVo.taskToken);
+        } else {
+          console.log(`${item.taskName}已完成`);
+        }
+      }
+      if (item.taskType === 14) {
+        //好友助力
+        if (item.status === 1) {
+          console.log(`准备做此任务：${item.taskName}`);
+          // await jdfactory_collectScore(item.simpleRecordInfoVo.taskToken);
+        } else {
+          console.log(`${item.taskName}已完成`);
+        }
+      }
+      if (item.taskType === 23) {
+        //从数码电器首页进入
+        if (item.status === 1) {
+          console.log(`准备做此任务：${item.taskName}`);
+          await queryVkComponent();
+          await jdfactory_collectScore(item.simpleRecordInfoVo.taskToken);
+        } else {
+          console.log(`${item.taskName}已完成`);
+        }
+      }
+    }
+  }
+}
+
+//领取做完任务的奖励
+function jdfactory_collectScore(taskToken) {
+  return new Promise(async resolve => {
+    await $.wait(1000);
+    $.post(taskPostUrl("jdfactory_collectScore", { taskToken }, "jdfactory_collectScore"), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.data.bizCode === 0) {
+              $.taskVos = data.data.result.taskVos;//任务列表
+              console.log(`领取做完任务的奖励：${JSON.stringify(data.data.result)}`);
+            } else {
+              console.log(JSON.stringify(data))
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve(data);
+      }
+    })
+  })
+}
+//给商品投入电量
+function jdfactory_addEnergy() {
+  return new Promise(resolve => {
+    $.post(taskPostUrl("jdfactory_addEnergy"), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.data.bizCode === 0) {
+              console.log(`给商品投入电量：${JSON.stringify(data.data.result)}`)
+              // $.taskConfigVos = data.data.result.taskConfigVos;
+              // $.exchangeGiftConfigs = data.data.result.exchangeGiftConfigs;
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve(data);
+      }
+    })
+  })
+}
+
+//收集电量
+function jdfactory_collectElectricity() {
+  return new Promise(resolve => {
+    $.post(taskPostUrl("jdfactory_collectElectricity"), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.data.bizCode === 0) {
+              console.log(`成功收集${data.data.result.electricityValue}电量，当前蓄电池总电量：${data.data.result.batteryValue}\n`);
+              $.batteryValue = data.data.result.batteryValue;
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve(data);
+      }
+    })
+  })
+}
+//获取任务列表
+function jdfactory_getTaskDetail() {
+  return new Promise(resolve => {
+    $.post(taskPostUrl("jdfactory_getTaskDetail", {}, "jdfactory_getTaskDetail"), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.data.bizCode === 0) {
+              $.taskVos = data.data.result.taskVos;//任务列表
+              $.taskVos.map(item => {
+                if (item.taskType === 14) {
+                  console.log(`\n【京东账号${$.index}（${$.UserName}）的${$.name}好友互助码】${item.assistTaskDetailVo.taskToken}\n`)
+                }
+              })
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+//选择一件商品，只能在 $.newUser !== 1 && $.haveProduct === 2 并且 sellOut === 0的时候可用
+function jdfactory_makeProduct(skuId) {
+  return new Promise(resolve => {
+    $.post(taskPostUrl('jdfactory_makeProduct', { skuId }), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.data.bizCode === 0) {
+              console.log(`选购商品成功：${JSON.stringify(data)}`);
+            } else {
+              console.log(`异常：${JSON.stringify(data)}`)
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+function queryVkComponent() {
+  return new Promise(resolve => {
+    const options = {
+      "url": `https://api.m.jd.com/client.action?functionId=queryVkComponent`,
+      "body": `adid=0E38E9F1-4B4C-40A4-A479-DD15E58A5623&area=19_1601_50258_51885&body={"componentId":"4f953e59a3af4b63b4d7c24f172db3c3","taskParam":"{\\"actId\\":\\"8tHNdJLcqwqhkLNA8hqwNRaNu5f\\"}","cpUid":"8tHNdJLcqwqhkLNA8hqwNRaNu5f","taskSDKVersion":"1.0.3","businessId":"babel"}&build=167436&client=apple&clientVersion=9.2.5&d_brand=apple&d_model=iPhone11,8&eid=eidIf12a8121eas2urxgGc+zS5+UYGu1Nbed7bq8YY+gPd0Q0t+iviZdQsxnK/HTA7AxZzZBrtu1ulwEviYSV3QUuw2XHHC+PFHdNYx1A/3Zt8xYR+d3&isBackground=N&joycious=228&lang=zh_CN&networkType=wifi&networklibtype=JDNetworkBaseAF&openudid=88732f840b77821b345bf07fd71f609e6ff12f43&osVersion=14.2&partner=TF&rfs=0000&scope=11&screen=828*1792&sign=792d92f78cc893f43c32a4f0b2203a41&st=1606533009673&sv=122&uts=0f31TVRjBSsqndu4/jgUPz6uymy50MQJFKw5SxNDrZGH4Sllq/CDN8uyMr2EAv+1xp60Q9gVAW42IfViu/SFHwjfGAvRI6iMot04FU965+8UfAPZTG6MDwxmIWN7YaTL1ACcfUTG3gtkru+D4w9yowDUIzSuB+u+eoLwM7uynPMJMmGspVGyFIgDXC/tmNibL2k6wYgS249Pa2w5xFnYHQ==&uuid=hjudwgohxzVu96krv/T6Hg==&wifiBssid=1b5809fb84adffec2a397007cc235c03`,
+      "headers":  {
+        "Cookie": cookie,
+        "Accept": `*/*`,
+        "Connection": `keep-alive`,
+        "Content-Type": `application/x-www-form-urlencoded`,
+        "Accept-Encoding": `gzip, deflate, br`,
+        "Host": `api.m.jd.com`,
+        "User-Agent": "jdapp;iPhone;9.3.4;14.3;88732f840b77821b345bf07fd71f609e6ff12f43;network/4g;ADID/1C141FDD-C62F-425B-8033-9AAB7E4AE6A3;supportApplePay/0;hasUPPay/0;hasOCPay/0;model/iPhone11,8;addressid/2005183373;supportBestPay/0;appBuild/167502;jdSupportDarkMode/0;pv/414.19;apprpd/Babel_Native;ref/TTTChannelViewContoller;psq/5;ads/;psn/88732f840b77821b345bf07fd71f609e6ff12f43|1701;jdv/0|iosapp|t_335139774|appshare|CopyURL|1610885480412|1610885486;adk/;app_device/IOS;pap/JA2015_311210|9.3.4|IOS 14.3;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1",
+        "Accept-Language": `zh-Hans-CN;q=1, en-CN;q=0.9`,
+      },
+      "timeout": 10000,
+    }
+    $.post(options, (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          // console.log('queryVkComponent', data)
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+//查询当前商品列表
+function jdfactory_getProductList(flag = false) {
+  return new Promise(resolve => {
+    $.post(taskPostUrl('jdfactory_getProductList'), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.data.bizCode === 0) {
+              $.canMakeList = [];
+              $.canMakeList = data.data.result.canMakeList;//当前可选商品列表 sellOut:1为已抢光，0为目前可选择
+              if ($.canMakeList && $.canMakeList.length > 0) {
+                $.canMakeList.sort(sortCouponCount);
+                console.log(`商品名称       可选状态    剩余量`)
+                for (let item of $.canMakeList) {
+                  console.log(`${item.name.slice(-4)}         ${item.sellOut === 1 ? '已抢光':'可 选'}      ${item.couponCount}`);
+                }
+                if (!flag) {
+                  for (let item of $.canMakeList) {
+                    if (item.name.indexOf(wantProduct) > -1 && item.couponCount > 0 && item.sellOut === 0) {
+                      await jdfactory_makeProduct(item.skuId);
+                      break
+                    }
+                  }
+                }
+              }
+            } else {
+              console.log(`异常：${JSON.stringify(data)}`)
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+function sortCouponCount(a, b) {
+  return b['couponCount'] - a['couponCount']
+}
+function jdfactory_getHomeData() {
+  return new Promise(resolve => {
+    $.post(taskPostUrl('jdfactory_getHomeData'), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            // console.log(data);
+            data = JSON.parse(data);
+            if (data.data.bizCode === 0) {
+              $.haveProduct = data.data.result.haveProduct;
+              $.userName = data.data.result.userName;
+              $.newUser = data.data.result.newUser;
+              if (data.data.result.factoryInfo) {
+                $.totalScore = data.data.result.factoryInfo.totalScore;//选中的商品，一共需要的电量
+                $.userScore = data.data.result.factoryInfo.userScore;//已使用电量
+                $.produceScore = data.data.result.factoryInfo.produceScore;//此商品已投入电量
+                $.remainScore = data.data.result.factoryInfo.remainScore;//当前蓄电池电量
+                $.couponCount = data.data.result.factoryInfo.couponCount;//已选中商品当前剩余量
+                $.hasProduceName = data.data.result.factoryInfo.name;//已选中商品当前剩余量
+              }
+              if ($.newUser === 1) {
+                //新用户
+                console.log(`此京东账号${$.index}${$.nickName}为新用户暂未开启${$.name}活动\n现在为您从库存里面现有数量中选择一商品`);
+                if ($.haveProduct === 2) {
+                  await jdfactory_getProductList();//选购商品
+                }
+                // $.msg($.name, '暂未开启活动', `京东账号${$.index}${$.nickName}暂未开启${$.name}活动\n请去京东APP->搜索'玩一玩'->东东工厂->开启\n或点击弹窗即可到达${$.name}活动`, {'open-url': 'openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html%22%20%7D'});
+              }
+              if ($.newUser !== 1 && $.haveProduct === 2) {
+                console.log(`此京东账号${$.index}${$.nickName}暂未选购商品\n现在也能为您做任务和收集免费电力`);
+                // $.msg($.name, '暂未选购商品', `京东账号${$.index}${$.nickName}暂未选购商品\n请去京东APP->搜索'玩一玩'->东东工厂->选购一件商品\n或点击弹窗即可到达${$.name}活动`, {'open-url': 'openjd://virtual?params=%7B%20%22category%22:%20%22jump%22,%20%22des%22:%20%22m%22,%20%22url%22:%20%22https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html%22%20%7D'});
+                // await jdfactory_getProductList();//选购商品
+              }
+            } else {
+              console.log(`异常：${JSON.stringify(data)}`)
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+function readShareCode() {
+  console.log(`开始`)
+  return new Promise(async resolve => {
+    $.get({url: `http://share.turinglabs.net/api/v3/ddfactory/query/${randomCount}/`, timeout: 10000}, (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (data) {
+            console.log(`随机取${randomCount}个码放到您固定的互助码后面(不影响已有固定互助)`)
+            data = JSON.parse(data);
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve(data);
+      }
+    })
+    await $.wait(10000);
+    resolve()
+  })
+}
+//格式化助力码
+function shareCodesFormat() {
+  return new Promise(async resolve => {
+    // console.log(`第${$.index}个京东账号的助力码:::${$.shareCodesArr[$.index - 1]}`)
+    $.newShareCodes = [];
+    if ($.shareCodesArr[$.index - 1]) {
+      $.newShareCodes = $.shareCodesArr[$.index - 1].split('@');
+    } else {
+      console.log(`由于您第${$.index}个京东账号未提供shareCode,将采纳本脚本自带的助力码\n`)
+      const tempIndex = $.index > inviteCodes.length ? (inviteCodes.length - 1) : ($.index - 1);
+      $.newShareCodes = inviteCodes[tempIndex].split('@');
+    }
+    // const readShareCodeRes = await readShareCode();
+    // if (readShareCodeRes && readShareCodeRes.code === 200) {
+    //   $.newShareCodes = [...new Set([...$.newShareCodes, ...(readShareCodeRes.data || [])])];
+    // }
+    console.log(`第${$.index}个京东账号将要助力的好友${JSON.stringify($.newShareCodes)}`)
+    resolve();
+  })
+}
+function requireConfig() {
+  return new Promise(resolve => {
+    console.log(`开始获取${$.name}配置文件\n`);
+    //Node.js用户请在jdCookie.js处填写京东ck;
+    const shareCodes = $.isNode() ? require('./help/jdFactoryShareCodes.js') : '';
+    console.log(`共${cookiesArr.length}个京东账号\n`);
+    $.shareCodesArr = [];
+    if ($.isNode()) {
+      Object.keys(shareCodes).forEach((item) => {
+        if (shareCodes[item]) {
+          $.shareCodesArr.push(shareCodes[item])
+        }
+      })
+    }
+    // console.log(`\n种豆得豆助力码::${JSON.stringify($.shareCodesArr)}`);
+    console.log(`您提供了${$.shareCodesArr.length}个账号的${$.name}助力码\n`);
+    resolve()
+  })
+}
+function taskPostUrl(function_id, body = {}, function_id2) {
+  let url = `${JD_API_HOST}`;
+  if (function_id2) {
+    url += `?functionId=${function_id2}`;
+  }
+  return {
+    url,
+    body: `functionId=${function_id}&body=${escape(JSON.stringify(body))}&client=wh5&clientVersion=1.1.0`,
+    headers: {
+      "Accept": "application/json, text/plain, */*",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-cn",
+      "Connection": "keep-alive",
+      "Content-Type": "application/x-www-form-urlencoded",
+      "Cookie": cookie,
+      "Host": "api.m.jd.com",
+      "Origin": "https://h5.m.jd.com",
+      "Referer": "https://h5.m.jd.com/babelDiy/Zeus/2uSsV2wHEkySvompfjB43nuKkcHp/index.html",
+      "User-Agent": "jdapp;iPhone;9.3.4;14.3;88732f840b77821b345bf07fd71f609e6ff12f43;network/4g;ADID/1C141FDD-C62F-425B-8033-9AAB7E4AE6A3;supportApplePay/0;hasUPPay/0;hasOCPay/0;model/iPhone11,8;addressid/2005183373;supportBestPay/0;appBuild/167502;jdSupportDarkMode/0;pv/414.19;apprpd/Babel_Native;ref/TTTChannelViewContoller;psq/5;ads/;psn/88732f840b77821b345bf07fd71f609e6ff12f43|1701;jdv/0|iosapp|t_335139774|appshare|CopyURL|1610885480412|1610885486;adk/;app_device/IOS;pap/JA2015_311210|9.3.4|IOS 14.3;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1",
+    },
+    timeout: 10000,
+  }
+}
+function TotalBean() {
+  return new Promise(async resolve => {
+    const options = {
+      "url": `https://wq.jd.com/user/info/QueryJDUserInfo?sceneval=2`,
+      "headers": {
+        "Accept": "application/json,text/plain, */*",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "zh-cn",
+        "Connection": "keep-alive",
+        "Cookie": cookie,
+        "Referer": "https://wqs.jd.com/my/jingdou/my.shtml?sceneval=2",
+        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('../USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1")
+      },
+      "timeout": 10000,
+    }
+    $.post(options, (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (data) {
+            data = JSON.parse(data);
+            if (data['retcode'] === 13) {
+              $.isLogin = false; //cookie过期
+              return
+            }
+            if (data['retcode'] === 0) {
+              $.nickName = (data['base'] && data['base'].nickname) || $.UserName;
+            } else {
+              $.nickName = $.UserName
+            }
+          } else {
+            console.log(`京东服务器返回空数据`)
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+function safeGet(data) {
+  try {
+    if (typeof JSON.parse(data) == "object") {
+      return true;
+    }
+  } catch (e) {
+    console.log(e);
+    console.log(`京东服务器访问数据为空，请检查自身设备网络情况`);
+    return false;
+  }
+}
+function jsonParse(str) {
+  if (typeof str == "string") {
+    try {
+      return JSON.parse(str);
+    } catch (e) {
+      console.log(e);
+      $.msg($.name, '', '请勿随意在BoxJs输入框修改内容\n建议通过脚本去获取cookie')
+      return [];
+    }
+  }
+}
+// prettier-ignore
+function Env(t,e){"undefined"!=typeof process&&JSON.stringify(process.env).indexOf("GITHUB")>-1&&process.exit(0);class s{constructor(t){this.env=t}send(t,e="GET"){t="string"==typeof t?{url:t}:t;let s=this.get;return"POST"===e&&(s=this.post),new Promise((e,i)=>{s.call(this,t,(t,s,r)=>{t?i(t):e(s)})})}get(t){return this.send.call(this.env,t)}post(t){return this.send.call(this.env,t,"POST")}}return new class{constructor(t,e){this.name=t,this.http=new s(this),this.data=null,this.dataFile="box.dat",this.logs=[],this.isMute=!1,this.isNeedRewrite=!1,this.logSeparator="\n",this.startTime=(new Date).getTime(),Object.assign(this,e),this.log("",`🔔${this.name}, 开始!`)}isNode(){return"undefined"!=typeof module&&!!module.exports}isQuanX(){return"undefined"!=typeof $task}isSurge(){return"undefined"!=typeof $httpClient&&"undefined"==typeof $loon}isLoon(){return"undefined"!=typeof $loon}toObj(t,e=null){try{return JSON.parse(t)}catch{return e}}toStr(t,e=null){try{return JSON.stringify(t)}catch{return e}}getjson(t,e){let s=e;const i=this.getdata(t);if(i)try{s=JSON.parse(this.getdata(t))}catch{}return s}setjson(t,e){try{return this.setdata(JSON.stringify(t),e)}catch{return!1}}getScript(t){return new Promise(e=>{this.get({url:t},(t,s,i)=>e(i))})}runScript(t,e){return new Promise(s=>{let i=this.getdata("@chavy_boxjs_userCfgs.httpapi");i=i?i.replace(/\n/g,"").trim():i;let r=this.getdata("@chavy_boxjs_userCfgs.httpapi_timeout");r=r?1*r:20,r=e&&e.timeout?e.timeout:r;const[o,h]=i.split("@"),n={url:`http://${h}/v1/scripting/evaluate`,body:{script_text:t,mock_type:"cron",timeout:r},headers:{"X-Key":o,Accept:"*/*"}};this.post(n,(t,e,i)=>s(i))}).catch(t=>this.logErr(t))}loaddata(){if(!this.isNode())return{};{this.fs=this.fs?this.fs:require("fs"),this.path=this.path?this.path:require("path");const t=this.path.resolve(this.dataFile),e=this.path.resolve(process.cwd(),this.dataFile),s=this.fs.existsSync(t),i=!s&&this.fs.existsSync(e);if(!s&&!i)return{};{const i=s?t:e;try{return JSON.parse(this.fs.readFileSync(i))}catch(t){return{}}}}}writedata(){if(this.isNode()){this.fs=this.fs?this.fs:require("fs"),this.path=this.path?this.path:require("path");const t=this.path.resolve(this.dataFile),e=this.path.resolve(process.cwd(),this.dataFile),s=this.fs.existsSync(t),i=!s&&this.fs.existsSync(e),r=JSON.stringify(this.data);s?this.fs.writeFileSync(t,r):i?this.fs.writeFileSync(e,r):this.fs.writeFileSync(t,r)}}lodash_get(t,e,s){const i=e.replace(/\[(\d+)\]/g,".$1").split(".");let r=t;for(const t of i)if(r=Object(r)[t],void 0===r)return s;return r}lodash_set(t,e,s){return Object(t)!==t?t:(Array.isArray(e)||(e=e.toString().match(/[^.[\]]+/g)||[]),e.slice(0,-1).reduce((t,s,i)=>Object(t[s])===t[s]?t[s]:t[s]=Math.abs(e[i+1])>>0==+e[i+1]?[]:{},t)[e[e.length-1]]=s,t)}getdata(t){let e=this.getval(t);if(/^@/.test(t)){const[,s,i]=/^@(.*?)\.(.*?)$/.exec(t),r=s?this.getval(s):"";if(r)try{const t=JSON.parse(r);e=t?this.lodash_get(t,i,""):e}catch(t){e=""}}return e}setdata(t,e){let s=!1;if(/^@/.test(e)){const[,i,r]=/^@(.*?)\.(.*?)$/.exec(e),o=this.getval(i),h=i?"null"===o?null:o||"{}":"{}";try{const e=JSON.parse(h);this.lodash_set(e,r,t),s=this.setval(JSON.stringify(e),i)}catch(e){const o={};this.lodash_set(o,r,t),s=this.setval(JSON.stringify(o),i)}}else s=this.setval(t,e);return s}getval(t){return this.isSurge()||this.isLoon()?$persistentStore.read(t):this.isQuanX()?$prefs.valueForKey(t):this.isNode()?(this.data=this.loaddata(),this.data[t]):this.data&&this.data[t]||null}setval(t,e){return this.isSurge()||this.isLoon()?$persistentStore.write(t,e):this.isQuanX()?$prefs.setValueForKey(t,e):this.isNode()?(this.data=this.loaddata(),this.data[e]=t,this.writedata(),!0):this.data&&this.data[e]||null}initGotEnv(t){this.got=this.got?this.got:require("got"),this.cktough=this.cktough?this.cktough:require("tough-cookie"),this.ckjar=this.ckjar?this.ckjar:new this.cktough.CookieJar,t&&(t.headers=t.headers?t.headers:{},void 0===t.headers.Cookie&&void 0===t.cookieJar&&(t.cookieJar=this.ckjar))}get(t,e=(()=>{})){t.headers&&(delete t.headers["Content-Type"],delete t.headers["Content-Length"]),this.isSurge()||this.isLoon()?(this.isSurge()&&this.isNeedRewrite&&(t.headers=t.headers||{},Object.assign(t.headers,{"X-Surge-Skip-Scripting":!1})),$httpClient.get(t,(t,s,i)=>{!t&&s&&(s.body=i,s.statusCode=s.status),e(t,s,i)})):this.isQuanX()?(this.isNeedRewrite&&(t.opts=t.opts||{},Object.assign(t.opts,{hints:!1})),$task.fetch(t).then(t=>{const{statusCode:s,statusCode:i,headers:r,body:o}=t;e(null,{status:s,statusCode:i,headers:r,body:o},o)},t=>e(t))):this.isNode()&&(this.initGotEnv(t),this.got(t).on("redirect",(t,e)=>{try{if(t.headers["set-cookie"]){const s=t.headers["set-cookie"].map(this.cktough.Cookie.parse).toString();s&&this.ckjar.setCookieSync(s,null),e.cookieJar=this.ckjar}}catch(t){this.logErr(t)}}).then(t=>{const{statusCode:s,statusCode:i,headers:r,body:o}=t;e(null,{status:s,statusCode:i,headers:r,body:o},o)},t=>{const{message:s,response:i}=t;e(s,i,i&&i.body)}))}post(t,e=(()=>{})){if(t.body&&t.headers&&!t.headers["Content-Type"]&&(t.headers["Content-Type"]="application/x-www-form-urlencoded"),t.headers&&delete t.headers["Content-Length"],this.isSurge()||this.isLoon())this.isSurge()&&this.isNeedRewrite&&(t.headers=t.headers||{},Object.assign(t.headers,{"X-Surge-Skip-Scripting":!1})),$httpClient.post(t,(t,s,i)=>{!t&&s&&(s.body=i,s.statusCode=s.status),e(t,s,i)});else if(this.isQuanX())t.method="POST",this.isNeedRewrite&&(t.opts=t.opts||{},Object.assign(t.opts,{hints:!1})),$task.fetch(t).then(t=>{const{statusCode:s,statusCode:i,headers:r,body:o}=t;e(null,{status:s,statusCode:i,headers:r,body:o},o)},t=>e(t));else if(this.isNode()){this.initGotEnv(t);const{url:s,...i}=t;this.got.post(s,i).then(t=>{const{statusCode:s,statusCode:i,headers:r,body:o}=t;e(null,{status:s,statusCode:i,headers:r,body:o},o)},t=>{const{message:s,response:i}=t;e(s,i,i&&i.body)})}}time(t,e=null){const s=e?new Date(e):new Date;let i={"M+":s.getMonth()+1,"d+":s.getDate(),"H+":s.getHours(),"m+":s.getMinutes(),"s+":s.getSeconds(),"q+":Math.floor((s.getMonth()+3)/3),S:s.getMilliseconds()};/(y+)/.test(t)&&(t=t.replace(RegExp.$1,(s.getFullYear()+"").substr(4-RegExp.$1.length)));for(let e in i)new RegExp("("+e+")").test(t)&&(t=t.replace(RegExp.$1,1==RegExp.$1.length?i[e]:("00"+i[e]).substr((""+i[e]).length)));return t}msg(e=t,s="",i="",r){const o=t=>{if(!t)return t;if("string"==typeof t)return this.isLoon()?t:this.isQuanX()?{"open-url":t}:this.isSurge()?{url:t}:void 0;if("object"==typeof t){if(this.isLoon()){let e=t.openUrl||t.url||t["open-url"],s=t.mediaUrl||t["media-url"];return{openUrl:e,mediaUrl:s}}if(this.isQuanX()){let e=t["open-url"]||t.url||t.openUrl,s=t["media-url"]||t.mediaUrl;return{"open-url":e,"media-url":s}}if(this.isSurge()){let e=t.url||t.openUrl||t["open-url"];return{url:e}}}};if(this.isMute||(this.isSurge()||this.isLoon()?$notification.post(e,s,i,o(r)):this.isQuanX()&&$notify(e,s,i,o(r))),!this.isMuteLog){let t=["","==============📣系统通知📣=============="];t.push(e),s&&t.push(s),i&&t.push(i),console.log(t.join("\n")),this.logs=this.logs.concat(t)}}log(...t){t.length>0&&(this.logs=[...this.logs,...t]),console.log(t.join(this.logSeparator))}logErr(t,e){const s=!this.isSurge()&&!this.isQuanX()&&!this.isLoon();s?this.log("",`❗️${this.name}, 错误!`,t.stack):this.log("",`❗️${this.name}, 错误!`,t)}wait(t){return new Promise(e=>setTimeout(e,t))}done(t={}){const e=(new Date).getTime(),s=(e-this.startTime)/1e3;this.log("",`🔔${this.name}, 结束! 🕛 ${s} 秒`),this.log(),(this.isSurge()||this.isQuanX()||this.isLoon())&&$done(t)}}(t,e)}

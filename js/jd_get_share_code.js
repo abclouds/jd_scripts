@@ -20,4 +20,737 @@ cron "20 13 * * 6" script-path=https://raw.githubusercontent.com/abclouds/jd_scr
 ============小火箭=========
 获取互助码 = type=cron,script-path=https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_get_share_code.js, cronexpr="20 13 * * 6", timeout=3600, enable=true
  */
-const _0xd46f=['url','plantBeanIndex','post','functionId=interact_template_getHomeData&body={\x22appId\x22:\x221EFRXxg\x22,\x22taskToken\x22:\x22\x22}&client=wh5&clientVersion=1.0.0','&_ste=1&_=','GET','ret','/dreamfactory/','body=','joinnum','now','inviteCode','lodash_set','Content-Length','京喜农场\x20API请求失败，请检查网路重试','shareCode','）crazyJoy】','name','shelvesList','status','md5','resultCode','method','monitor_refer','getMilliseconds','cwd','6mRuYYT','length','stack','）京喜农场】','&appid=crazy_joy&functionId=','1ijYUvD','shareUrl','mediaUrl','map','message','slice','then','plant_app_plant_index','setval','?functionId=initForFarm','factoryId','https://wqsd.jd.com/pingou/dream_factory/index.html','京喜工厂\x20API请求失败，请检查网路重试','get','api.m.jd.com','type=1','）京东萌宠】','&sceneval=2&g_login_type=1&_time=','76412hSFBbx','got','parse','isMute','catch','concat','userStatus','redirect','getScript','taskVos','isNode','userinfo/GetUserInfo','data','&body=','）京东农场】','&g_ty=ls','join','stringify','null','jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_3\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148;supportJDSHWK/1','pin=&sharePin=&shareType=&materialTuanPin=&materialTuanId=','https://home.m.jd.com/myJd/newhome.action','$东东工厂\x20API请求失败，请检查网路重试','loaddata','valueForKey','cktough','https://st.jingxi.com/fortune_island/index.html?ptag=138631.26.55','getjson','env','version','lodash_get','）签到领现金】','assistTaskDetailVo','getval','东东萌宠:\x20API查询请求失败\x20‼️‼️','GITHUB','https://crazy-joy.jd.com','setdata','encryptPin','charAt','plantBeanIndexResult','toObj','body','&_=','myPlantUuid','602652DTHJDl','existsSync',']京喜工厂未选购商品请手动去京东APP->游戏与互动->查看更多->京喜工厂\x20选购','jwordShareInfo','getHours','&appid=ld&client=apple&area=5_274_49707_49973&build=167283&clientVersion=9.1.0','replace','jdpingou;iPhone;3.15.2;14.2.1;ea00763447803eb0f32045dcba629c248ea53bb3;network/wifi;model/iPhone13,2;appBuild/100365;ADID/00000000-0000-0000-0000-000000000000;supportApplePay/1;hasUPPay/0;pushNoticeIsOpen/0;hasOCPay/0;supportBestPay/0;session/','【提示】请先获取京东账号一cookie\x0a直接使用京东签到获取','logs','send','种豆得豆-初始失败:\x20\x20','application/json,text/plain,\x20*/*','isQuanX','functionId=','京喜农场返回值解析异常：','USER_AGENT','）京喜农场】未选择种子，请先去京喜农场选择种子','filter','code','logSeparator','plantUuid','toStr','getdata','random','getTime','注意：京喜农场\x20种植种子发生变化的时候，互助码也会变！！','获取互助码','itemId','cookie','0123456789abcdef','fromCharCode','taskDetailResList','https://h5.m.jd.com/babelDiy/Zeus/2WBcKYkn8viyxv7MoKKgfzmu7Dss/index.html','971WgnaoA','JD_DEBUG','unActive','京东服务器返回空数据','getMonth','.$1','statusCode','call','timeout','index','channel','https://home.m.jd.com','2582XLnYQU','?functionId=','success','finally','nickname','京东服务器访问数据为空，请检查自身设备网络情况','zh-CN,zh;q=0.9','gzip,\x20deflate,\x20br','open-url','push','不要在BoxJS手动复制粘贴修改cookie','../USER_AGENTS',',\x20错误!','zh-cn','userInviteCode','abs','base','initGotEnv','writeFileSync','@chavy_boxjs_userCfgs.httpapi',';pap/JA2015_311210;brand/apple;supportJDSHWK/1;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_2_1\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148','JDUA','commodityDimId','msg','cubeactive/farm/','getDate','farmInfo','https://wqs.jd.com/my/jingdou/my.shtml?sceneval=2','530466SBZzKz','charCodeAt',',\x20结束!\x20🕛\x20',',\x20失败!\x20原因:\x20','object','fetch','set-cookie','bizCode','?uts=','string','CookiesJD','getFullYear','log','app','split','POST','http://wq.jd.com/wxapp/pages/hd-interaction/index/index','https://st.jingxi.com/pingou/dream_factory/index.html','nickName','taskType','logErr','jdfactory_getTaskDetail','&t=','floor','741277ODTnnH','taskId','productionStage','user/QueryUserInfo','factoryList','【京东账号','forEach','toString','==============📣系统通知📣==============','aDvScBv$gGQvrXfva8dG!ZC@DA70Y%lX','setValueForKey','application/json','邀请好友助力','isSurge','box.dat','https://crazy-joy.jd.com/','Content-Type','）闪购盲盒】','result','dataFile','种豆得豆:\x20API查询请求失败\x20‼️‼️','*/*','startTime','UserName','GetUserInfo异常：','exec','https://bean.m.jd.com/bean/signIndex.action','JD_USER_AGENT','https://api.m.jd.com/client.action','match','keep-alive','CookieJar','productionList','headers','）京喜工厂】','m.jingxi.com','farmUserPro','cors','isLoon','user',']京喜工厂活动未开始请手动去京东APP->游戏与互动->查看更多->京喜工厂\x20开启活动','jdpingou;iPhone;3.14.4;14.0;ae75259f6ca8378672006fc41079cd8c90c53be8;network/wifi;model/iPhone10,2;appBuild/100351;ADID/00000000-0000-0000-0000-000000000000;supportApplePay/1;hasUPPay/0;pushNoticeIsOpen/1;hasOCPay/0;supportBestPay/0;session/62;pap/JA2015_311210;brand/apple;supportJDSHWK/1;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_0\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148','done','CookieJD2','petInfo','&appid=wh5&loginWQBiz=pet-town&clientVersion=9.0.4','opts','Cookie','&appid=CashRewardMiniH5Env&appid=9.1.0','http://','resolve','https://h5.m.jd.com/','smp','path','cookieJar','/v1/scripting/evaluate','active','(^|&)','indexOf','substr','assign','【提示】京东账号','?strZone=jxcfd&bizCode=jxcfd&source=jxcfd&dwEnv=7&_cfd_t=','application/json,\x20text/plain,\x20*/*','initPetTown','write','）的京东赚赚好友互助码】','crazyJoy_user_gameState','\x20API请求失败，请检查网路重试','352795RIjlUU','======账号','openUrl','cash_mob_home','https://h5.m.jd.com','writedata','taskList','application/x-www-form-urlencoded','taskName','https://wq.jd.com/','no-cache','exit','test','isMuteLog',',\x20开始!','&appid=wh5&clientVersion=9.1.0','isNeedRewrite','wq.jd.com','undefined','ckjar','media-url','）财富岛】','&client=wh5&clientVersion=9.1.0','）种豆得豆】','9.0.0.1','106783ncTqqs','productionId','cron','keys','?zone=dream_factory&','isLogin','东东农场:\x20API查询请求失败\x20‼️‼️'];const _0x23392c=_0xbe09;(function(_0x4a6b4f,_0x5321ea){const _0x132ea4=_0xbe09;while(!![]){try{const _0x208788=parseInt(_0x132ea4(0x233))+parseInt(_0x132ea4(0x19d))*-parseInt(_0x132ea4(0x221))+-parseInt(_0x132ea4(0x13b))+-parseInt(_0x132ea4(0x185))+-parseInt(_0x132ea4(0x21c))*parseInt(_0x132ea4(0x1fb))+parseInt(_0x132ea4(0x1e2))+parseInt(_0x132ea4(0x15d))*parseInt(_0x132ea4(0x169));if(_0x208788===_0x5321ea)break;else _0x4a6b4f['push'](_0x4a6b4f['shift']());}catch(_0xe53690){_0x4a6b4f['push'](_0x4a6b4f['shift']());}}}(_0xd46f,0x66d74));const $=new Env(_0x23392c(0x156)),JD_API_HOST=_0x23392c(0x1b9);let cookiesArr=[],cookie='',message;const jdCookieNode=$[_0x23392c(0x118)]()?require('../jdCookie.js'):'';!function(_0x435f9d){'use strict';function _0x4f0ef7(_0x680d38,_0x2fe43f){var _0x957a4f=(0xffff&_0x680d38)+(0xffff&_0x2fe43f);return(_0x680d38>>0x10)+(_0x2fe43f>>0x10)+(_0x957a4f>>0x10)<<0x10|0xffff&_0x957a4f;}function _0x278aca(_0x1b611d,_0x393213){return _0x1b611d<<_0x393213|_0x1b611d>>>0x20-_0x393213;}function _0x218a8f(_0x12fa23,_0x1af4cc,_0x397539,_0x26e4b3,_0x3ac250,_0x4e287d){return _0x4f0ef7(_0x278aca(_0x4f0ef7(_0x4f0ef7(_0x1af4cc,_0x12fa23),_0x4f0ef7(_0x26e4b3,_0x4e287d)),_0x3ac250),_0x397539);}function _0x146a11(_0x164eae,_0x2a1932,_0x34cc6f,_0xe603a6,_0x2e49d9,_0x537f79,_0x241fbe){return _0x218a8f(_0x2a1932&_0x34cc6f|~_0x2a1932&_0xe603a6,_0x164eae,_0x2a1932,_0x2e49d9,_0x537f79,_0x241fbe);}function _0x13667f(_0x286cc0,_0x480749,_0x61903b,_0x4f4feb,_0x52b494,_0x2f258c,_0x1eb14f){return _0x218a8f(_0x480749&_0x4f4feb|_0x61903b&~_0x4f4feb,_0x286cc0,_0x480749,_0x52b494,_0x2f258c,_0x1eb14f);}function _0x3c58de(_0x58bc6b,_0x4aaeb5,_0x5959c1,_0x170fb8,_0x29c164,_0x5e2fd1,_0x32f270){return _0x218a8f(_0x4aaeb5^_0x5959c1^_0x170fb8,_0x58bc6b,_0x4aaeb5,_0x29c164,_0x5e2fd1,_0x32f270);}function _0x5ed131(_0x4a2fd4,_0x1ae936,_0x1ba8cc,_0x1c7885,_0x5e35ba,_0x276a5c,_0x53f212){return _0x218a8f(_0x1ba8cc^(_0x1ae936|~_0x1c7885),_0x4a2fd4,_0x1ae936,_0x5e35ba,_0x276a5c,_0x53f212);}function _0x4ecf12(_0x3d0844,_0x3e0ebb){const _0x54220e=_0xbe09;_0x3d0844[_0x3e0ebb>>0x5]|=0x80<<_0x3e0ebb%0x20,_0x3d0844[0xe+(_0x3e0ebb+0x40>>>0x9<<0x4)]=_0x3e0ebb;var _0x270c6b,_0xdd7de0,_0x341287,_0x3b9c4e,_0x22562d,_0x1531a3=0x67452301,_0x341d14=-0x10325477,_0x236726=-0x67452302,_0x364d8d=0x10325476;for(_0x270c6b=0x0;_0x270c6b<_0x3d0844[_0x54220e(0x21d)];_0x270c6b+=0x10)_0xdd7de0=_0x1531a3,_0x341287=_0x341d14,_0x3b9c4e=_0x236726,_0x22562d=_0x364d8d,_0x341d14=_0x5ed131(_0x341d14=_0x5ed131(_0x341d14=_0x5ed131(_0x341d14=_0x5ed131(_0x341d14=_0x3c58de(_0x341d14=_0x3c58de(_0x341d14=_0x3c58de(_0x341d14=_0x3c58de(_0x341d14=_0x13667f(_0x341d14=_0x13667f(_0x341d14=_0x13667f(_0x341d14=_0x13667f(_0x341d14=_0x146a11(_0x341d14=_0x146a11(_0x341d14=_0x146a11(_0x341d14=_0x146a11(_0x341d14,_0x236726=_0x146a11(_0x236726,_0x364d8d=_0x146a11(_0x364d8d,_0x1531a3=_0x146a11(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b],0x7,-0x28955b88),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x1],0xc,-0x173848aa),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0x2],0x11,0x242070db),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x3],0x16,-0x3e423112),_0x236726=_0x146a11(_0x236726,_0x364d8d=_0x146a11(_0x364d8d,_0x1531a3=_0x146a11(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x4],0x7,-0xa83f051),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x5],0xc,0x4787c62a),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0x6],0x11,-0x57cfb9ed),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x7],0x16,-0x2b96aff),_0x236726=_0x146a11(_0x236726,_0x364d8d=_0x146a11(_0x364d8d,_0x1531a3=_0x146a11(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x8],0x7,0x698098d8),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x9],0xc,-0x74bb0851),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0xa],0x11,-0xa44f),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0xb],0x16,-0x76a32842),_0x236726=_0x146a11(_0x236726,_0x364d8d=_0x146a11(_0x364d8d,_0x1531a3=_0x146a11(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0xc],0x7,0x6b901122),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0xd],0xc,-0x2678e6d),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0xe],0x11,-0x5986bc72),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0xf],0x16,0x49b40821),_0x236726=_0x13667f(_0x236726,_0x364d8d=_0x13667f(_0x364d8d,_0x1531a3=_0x13667f(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x1],0x5,-0x9e1da9e),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x6],0x9,-0x3fbf4cc0),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0xb],0xe,0x265e5a51),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b],0x14,-0x16493856),_0x236726=_0x13667f(_0x236726,_0x364d8d=_0x13667f(_0x364d8d,_0x1531a3=_0x13667f(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x5],0x5,-0x29d0efa3),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0xa],0x9,0x2441453),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0xf],0xe,-0x275e197f),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x4],0x14,-0x182c0438),_0x236726=_0x13667f(_0x236726,_0x364d8d=_0x13667f(_0x364d8d,_0x1531a3=_0x13667f(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x9],0x5,0x21e1cde6),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0xe],0x9,-0x3cc8f82a),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0x3],0xe,-0xb2af279),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x8],0x14,0x455a14ed),_0x236726=_0x13667f(_0x236726,_0x364d8d=_0x13667f(_0x364d8d,_0x1531a3=_0x13667f(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0xd],0x5,-0x561c16fb),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x2],0x9,-0x3105c08),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0x7],0xe,0x676f02d9),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0xc],0x14,-0x72d5b376),_0x236726=_0x3c58de(_0x236726,_0x364d8d=_0x3c58de(_0x364d8d,_0x1531a3=_0x3c58de(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x5],0x4,-0x5c6be),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x8],0xb,-0x788e097f),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0xb],0x10,0x6d9d6122),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0xe],0x17,-0x21ac7f4),_0x236726=_0x3c58de(_0x236726,_0x364d8d=_0x3c58de(_0x364d8d,_0x1531a3=_0x3c58de(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x1],0x4,-0x5b4115bc),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x4],0xb,0x4bdecfa9),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0x7],0x10,-0x944b4a0),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0xa],0x17,-0x41404390),_0x236726=_0x3c58de(_0x236726,_0x364d8d=_0x3c58de(_0x364d8d,_0x1531a3=_0x3c58de(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0xd],0x4,0x289b7ec6),_0x341d14,_0x236726,_0x3d0844[_0x270c6b],0xb,-0x155ed806),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0x3],0x10,-0x2b10cf7b),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x6],0x17,0x4881d05),_0x236726=_0x3c58de(_0x236726,_0x364d8d=_0x3c58de(_0x364d8d,_0x1531a3=_0x3c58de(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x9],0x4,-0x262b2fc7),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0xc],0xb,-0x1924661b),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0xf],0x10,0x1fa27cf8),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x2],0x17,-0x3b53a99b),_0x236726=_0x5ed131(_0x236726,_0x364d8d=_0x5ed131(_0x364d8d,_0x1531a3=_0x5ed131(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b],0x6,-0xbd6ddbc),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x7],0xa,0x432aff97),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0xe],0xf,-0x546bdc59),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x5],0x15,-0x36c5fc7),_0x236726=_0x5ed131(_0x236726,_0x364d8d=_0x5ed131(_0x364d8d,_0x1531a3=_0x5ed131(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0xc],0x6,0x655b59c3),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0x3],0xa,-0x70f3336e),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0xa],0xf,-0x100b83),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x1],0x15,-0x7a7ba22f),_0x236726=_0x5ed131(_0x236726,_0x364d8d=_0x5ed131(_0x364d8d,_0x1531a3=_0x5ed131(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x8],0x6,0x6fa87e4f),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0xf],0xa,-0x1d31920),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0x6],0xf,-0x5cfebcec),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0xd],0x15,0x4e0811a1),_0x236726=_0x5ed131(_0x236726,_0x364d8d=_0x5ed131(_0x364d8d,_0x1531a3=_0x5ed131(_0x1531a3,_0x341d14,_0x236726,_0x364d8d,_0x3d0844[_0x270c6b+0x4],0x6,-0x8ac817e),_0x341d14,_0x236726,_0x3d0844[_0x270c6b+0xb],0xa,-0x42c50dcb),_0x1531a3,_0x341d14,_0x3d0844[_0x270c6b+0x2],0xf,0x2ad7d2bb),_0x364d8d,_0x1531a3,_0x3d0844[_0x270c6b+0x9],0x15,-0x14792c6f),_0x1531a3=_0x4f0ef7(_0x1531a3,_0xdd7de0),_0x341d14=_0x4f0ef7(_0x341d14,_0x341287),_0x236726=_0x4f0ef7(_0x236726,_0x3b9c4e),_0x364d8d=_0x4f0ef7(_0x364d8d,_0x22562d);return[_0x1531a3,_0x341d14,_0x236726,_0x364d8d];}function _0x370c72(_0x3af30b){const _0x10ac7d=_0xbe09;var _0xc88ed1,_0x22fa93='',_0x225927=0x20*_0x3af30b[_0x10ac7d(0x21d)];for(_0xc88ed1=0x0;_0xc88ed1<_0x225927;_0xc88ed1+=0x8)_0x22fa93+=String[_0x10ac7d(0x15a)](_0x3af30b[_0xc88ed1>>0x5]>>>_0xc88ed1%0x20&0xff);return _0x22fa93;}function _0x2f8957(_0x45a586){const _0x4f4d73=_0xbe09;var _0xe9f133,_0x425601=[];for(_0x425601[(_0x45a586['length']>>0x2)-0x1]=void 0x0,_0xe9f133=0x0;_0xe9f133<_0x425601['length'];_0xe9f133+=0x1)_0x425601[_0xe9f133]=0x0;var _0xb1b84a=0x8*_0x45a586[_0x4f4d73(0x21d)];for(_0xe9f133=0x0;_0xe9f133<_0xb1b84a;_0xe9f133+=0x8)_0x425601[_0xe9f133>>0x5]|=(0xff&_0x45a586[_0x4f4d73(0x186)](_0xe9f133/0x8))<<_0xe9f133%0x20;return _0x425601;}function _0x3189e4(_0xab1ec){const _0x327314=_0xbe09;return _0x370c72(_0x4ecf12(_0x2f8957(_0xab1ec),0x8*_0xab1ec[_0x327314(0x21d)]));}function _0x562d4c(_0x2ea1a7,_0x52514c){const _0x185ba2=_0xbe09;var _0x3844bf,_0x5173d7,_0x10e05b=_0x2f8957(_0x2ea1a7),_0x506687=[],_0x328269=[];for(_0x506687[0xf]=_0x328269[0xf]=void 0x0,_0x10e05b[_0x185ba2(0x21d)]>0x10&&(_0x10e05b=_0x4ecf12(_0x10e05b,0x8*_0x2ea1a7[_0x185ba2(0x21d)])),_0x3844bf=0x0;_0x3844bf<0x10;_0x3844bf+=0x1)_0x506687[_0x3844bf]=0x36363636^_0x10e05b[_0x3844bf],_0x328269[_0x3844bf]=0x5c5c5c5c^_0x10e05b[_0x3844bf];return _0x5173d7=_0x4ecf12(_0x506687['concat'](_0x2f8957(_0x52514c)),0x200+0x8*_0x52514c[_0x185ba2(0x21d)]),_0x370c72(_0x4ecf12(_0x328269[_0x185ba2(0x113)](_0x5173d7),0x280));}function _0x3cb4f0(_0x7e6b42){const _0x4c4b2f=_0xbe09;var _0x4f75f2,_0x5eb20c,_0x3e5253='';for(_0x5eb20c=0x0;_0x5eb20c<_0x7e6b42['length'];_0x5eb20c+=0x1)_0x4f75f2=_0x7e6b42[_0x4c4b2f(0x186)](_0x5eb20c),_0x3e5253+='0123456789abcdef'[_0x4c4b2f(0x135)](_0x4f75f2>>>0x4&0xf)+_0x4c4b2f(0x159)[_0x4c4b2f(0x135)](0xf&_0x4f75f2);return _0x3e5253;}function _0x5dc487(_0x4e1097){return unescape(encodeURIComponent(_0x4e1097));}function _0x22b162(_0x3d0be8){return _0x3189e4(_0x5dc487(_0x3d0be8));}function _0x350c7a(_0x94df82){return _0x3cb4f0(_0x22b162(_0x94df82));}function _0x3bf20c(_0x2a243c,_0x1531c6){return _0x562d4c(_0x5dc487(_0x2a243c),_0x5dc487(_0x1531c6));}function _0x4bb6e0(_0x3fbaac,_0x2ef6f6){return _0x3cb4f0(_0x3bf20c(_0x3fbaac,_0x2ef6f6));}function _0x575c55(_0x3c5e7b,_0x45070c,_0x415237){return _0x45070c?_0x415237?_0x3bf20c(_0x45070c,_0x3c5e7b):_0x4bb6e0(_0x45070c,_0x3c5e7b):_0x415237?_0x22b162(_0x3c5e7b):_0x350c7a(_0x3c5e7b);}$['md5']=_0x575c55;}();function _0xbe09(_0x20836e,_0x322bdc){_0x20836e=_0x20836e-0x110;let _0xd46fcf=_0xd46f[_0x20836e];return _0xd46fcf;}if($[_0x23392c(0x118)]()){Object[_0x23392c(0x1fe)](jdCookieNode)[_0x23392c(0x1a3)](_0x383668=>{cookiesArr['push'](jdCookieNode[_0x383668]);});if(process[_0x23392c(0x12a)][_0x23392c(0x15e)]&&process[_0x23392c(0x12a)][_0x23392c(0x15e)]==='false')console[_0x23392c(0x191)]=()=>{};}else cookiesArr=[$[_0x23392c(0x152)]('CookieJD'),$[_0x23392c(0x152)](_0x23392c(0x1c8)),...jsonParse($['getdata'](_0x23392c(0x18f))||'[]')['map'](_0x5be839=>_0x5be839[_0x23392c(0x158)])][_0x23392c(0x14d)](_0x1f5a6f=>!!_0x1f5a6f);!(async()=>{const _0x3d4bdc=_0x23392c;if(!cookiesArr[0x0]){$['msg']($[_0x3d4bdc(0x213)],_0x3d4bdc(0x143),_0x3d4bdc(0x1b7),{'open-url':_0x3d4bdc(0x1b7)});return;}$['log']('\x0a注：临时活动的互助码不添加到此处，如有需要请手动运行对应临时活动脚本\x0a');for(let _0x44a57e=0x0;_0x44a57e<cookiesArr['length'];_0x44a57e++){if(cookiesArr[_0x44a57e]){cookie=cookiesArr[_0x44a57e],$[_0x3d4bdc(0x1b4)]=decodeURIComponent(cookie[_0x3d4bdc(0x1ba)](/pt_pin=([^; ]+)(?=;?)/)&&cookie[_0x3d4bdc(0x1ba)](/pt_pin=([^; ]+)(?=;?)/)[0x1]),$[_0x3d4bdc(0x166)]=_0x44a57e+0x1,$[_0x3d4bdc(0x200)]=!![],$[_0x3d4bdc(0x197)]='',message='',await TotalBean();if(!$[_0x3d4bdc(0x200)])continue;await getShareCode();}}})()[_0x23392c(0x112)](_0xe744b8=>{const _0x321218=_0x23392c;$[_0x321218(0x191)]('','❌\x20'+$[_0x321218(0x213)]+_0x321218(0x188)+_0xe744b8+'!','');})[_0x23392c(0x16c)](()=>{$['done']();});function getJdFactory(){return new Promise(_0x1335dd=>{const _0x1f1763=_0xbe09;$[_0x1f1763(0x204)](taskPostUrl(_0x1f1763(0x19a),{},_0x1f1763(0x19a)),async(_0x58617,_0x509471,_0xf3e8aa)=>{const _0x496f67=_0x1f1763;try{_0x58617?(console[_0x496f67(0x191)](''+JSON[_0x496f67(0x11f)](_0x58617)),console[_0x496f67(0x191)](_0x496f67(0x124))):safeGet(_0xf3e8aa)&&(_0xf3e8aa=JSON['parse'](_0xf3e8aa),_0xf3e8aa['data'][_0x496f67(0x18c)]===0x0&&($[_0x496f67(0x117)]=_0xf3e8aa[_0x496f67(0x11a)][_0x496f67(0x1af)][_0x496f67(0x117)],$[_0x496f67(0x117)]['map'](_0x20dd89=>{const _0x123d80=_0x496f67;_0x20dd89[_0x123d80(0x198)]===0xe&&console[_0x123d80(0x191)](_0x123d80(0x1a2)+$[_0x123d80(0x166)]+'（'+$[_0x123d80(0x1b4)]+'）东东工厂】'+_0x20dd89[_0x123d80(0x12e)]['taskToken']);})));}catch(_0x8b1161){$[_0x496f67(0x199)](_0x8b1161,_0x509471);}finally{_0x1335dd();}});});}function getJxFactory(){const _0x108734='https://m.jingxi.com';function _0x579a11(_0xeb71f8,_0x237fed=''){const _0x1afefe=_0xbe09;return{'url':_0x108734+_0x1afefe(0x209)+_0xeb71f8+_0x1afefe(0x1ff)+_0x237fed+_0x1afefe(0x232)+Date['now']()+_0x1afefe(0x139)+Date[_0x1afefe(0x20c)](),'headers':{'Cookie':cookie,'Host':_0x1afefe(0x1c0),'Accept':_0x1afefe(0x1b2),'Connection':_0x1afefe(0x1bb),'User-Agent':_0x1afefe(0x1c6),'Accept-Language':_0x1afefe(0x176),'Referer':_0x1afefe(0x22c),'Accept-Encoding':_0x1afefe(0x170)}};}return new Promise(_0x132cf0=>{const _0x2044da=_0xbe09;$[_0x2044da(0x22e)](_0x579a11(_0x2044da(0x119),_0x2044da(0x122)),async(_0x44630b,_0x7dbce8,_0x5bd8ad)=>{const _0x3a1c36=_0x2044da;try{if(_0x44630b)console['log'](''+JSON['stringify'](_0x44630b)),console[_0x3a1c36(0x191)](_0x3a1c36(0x22d));else{if(safeGet(_0x5bd8ad)){_0x5bd8ad=JSON[_0x3a1c36(0x110)](_0x5bd8ad);if(_0x5bd8ad[_0x3a1c36(0x208)]===0x0){_0x5bd8ad=_0x5bd8ad[_0x3a1c36(0x11a)],$[_0x3a1c36(0x15f)]=!![],$[_0x3a1c36(0x134)]='',$[_0x3a1c36(0x214)]=[];if(_0x5bd8ad['factoryList']&&_0x5bd8ad[_0x3a1c36(0x1bd)]){const _0x3326a2=_0x5bd8ad[_0x3a1c36(0x1bd)][0x0],_0xfb69bb=_0x5bd8ad['factoryList'][0x0],_0x1a0b93=_0x5bd8ad[_0x3a1c36(0x19f)];$[_0x3a1c36(0x22b)]=_0xfb69bb[_0x3a1c36(0x22b)],$[_0x3a1c36(0x1fc)]=_0x3326a2[_0x3a1c36(0x1fc)],$[_0x3a1c36(0x17f)]=_0x3326a2[_0x3a1c36(0x17f)],$[_0x3a1c36(0x134)]=_0x5bd8ad[_0x3a1c36(0x1c4)][_0x3a1c36(0x134)],console[_0x3a1c36(0x191)](_0x3a1c36(0x1a2)+$[_0x3a1c36(0x166)]+'（'+$[_0x3a1c36(0x1b4)]+_0x3a1c36(0x1bf)+_0x5bd8ad[_0x3a1c36(0x1c4)][_0x3a1c36(0x134)]);}}else{$['unActive']=![];if(!_0x5bd8ad[_0x3a1c36(0x1a1)])console[_0x3a1c36(0x191)](_0x3a1c36(0x1da)+$['index']+'['+$[_0x3a1c36(0x197)]+_0x3a1c36(0x1c5));else _0x5bd8ad[_0x3a1c36(0x1a1)]&&!_0x5bd8ad[_0x3a1c36(0x1bd)]&&console[_0x3a1c36(0x191)]('【提示】京东账号'+$[_0x3a1c36(0x166)]+'['+$['nickName']+_0x3a1c36(0x13d));}}else console[_0x3a1c36(0x191)](_0x3a1c36(0x1b5)+JSON[_0x3a1c36(0x11f)](_0x5bd8ad));}}catch(_0x4b283b){$['logErr'](_0x4b283b,_0x7dbce8);}finally{_0x132cf0();}});});}function getJxNc(){const _0x3759e0=_0x23392c,_0x3a7f86=_0x3759e0(0x1eb);function _0x24af3f(_0x3e688c,_0x3e508b){const _0x54e53d=_0x3759e0;return{'url':_0x3a7f86+_0x54e53d(0x181)+_0x3e688c+'?'+_0x3e508b+'&farm_jstoken=&phoneid=&timestamp=&sceneval=2&g_login_type=1&_='+Date[_0x54e53d(0x20c)]()+_0x54e53d(0x11d),'headers':{'Cookie':cookie,'Accept':_0x54e53d(0x1b2),'Connection':_0x54e53d(0x1bb),'Referer':_0x54e53d(0x196),'Accept-Encoding':_0x54e53d(0x170),'Host':_0x54e53d(0x1f3),'Accept-Language':_0x54e53d(0x176),'User-Agent':$[_0x54e53d(0x118)]()?process[_0x54e53d(0x12a)][_0x54e53d(0x1b8)]?process[_0x54e53d(0x12a)][_0x54e53d(0x1b8)]:require(_0x54e53d(0x174))['USER_AGENT']:$['getdata'](_0x54e53d(0x17e))?$['getdata']('JDUA'):'jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_3\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148;supportJDSHWK/1'}};}return new Promise(_0x54571a=>{const _0x536eed=_0x3759e0;$[_0x536eed(0x22e)](_0x24af3f('query',_0x536eed(0x230)),async(_0x89aa0d,_0x73b5bd,_0x803050)=>{const _0x13163f=_0x536eed;try{if(_0x89aa0d)console[_0x13163f(0x191)](''+JSON[_0x13163f(0x11f)](_0x89aa0d)),console[_0x13163f(0x191)](_0x13163f(0x210));else{_0x803050=_0x803050[_0x13163f(0x1ba)](/try\{Query\(([\s\S]*)\)\;\}catch\(e\)\{\}/)[0x1];if(safeGet(_0x803050)){_0x803050=JSON['parse'](_0x803050);if(_0x803050[_0x13163f(0x208)]===0x0){if(_0x803050[_0x13163f(0x1d5)]){let _0x42cbaf={'smp':_0x803050[_0x13163f(0x1d1)],'active':_0x803050[_0x13163f(0x1d5)],'joinnum':_0x803050[_0x13163f(0x20b)]};console[_0x13163f(0x191)](_0x13163f(0x155)),console[_0x13163f(0x191)](_0x13163f(0x1a2)+$[_0x13163f(0x166)]+'（'+$['UserName']+_0x13163f(0x21f)+JSON['stringify'](_0x42cbaf));}else console[_0x13163f(0x191)](_0x13163f(0x1a2)+$[_0x13163f(0x166)]+'（'+$[_0x13163f(0x1b4)]+_0x13163f(0x14c));}}else console[_0x13163f(0x191)](_0x13163f(0x14a)+JSON[_0x13163f(0x11f)](_0x803050));}}catch(_0x298b27){$['logErr'](_0x298b27,_0x73b5bd);}finally{_0x54571a();}});});}function getJdPet(){const _0x8b068c='https://api.m.jd.com/client.action';function _0x5d802f(_0x44bf50,_0x7054b1={}){const _0x6fd9d2=_0xbe09;return _0x7054b1[_0x6fd9d2(0x12b)]=0x2,_0x7054b1[_0x6fd9d2(0x167)]=_0x6fd9d2(0x192),{'url':_0x8b068c+_0x6fd9d2(0x16a)+_0x44bf50,'body':_0x6fd9d2(0x20a)+escape(JSON['stringify'](_0x7054b1))+_0x6fd9d2(0x1ca),'headers':{'Cookie':cookie,'User-Agent':$[_0x6fd9d2(0x118)]()?process[_0x6fd9d2(0x12a)][_0x6fd9d2(0x1b8)]?process[_0x6fd9d2(0x12a)][_0x6fd9d2(0x1b8)]:_0x6fd9d2(0x121):$[_0x6fd9d2(0x152)](_0x6fd9d2(0x17e))?$[_0x6fd9d2(0x152)](_0x6fd9d2(0x17e)):'jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_3\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148;supportJDSHWK/1','Host':_0x6fd9d2(0x22f),'Content-Type':_0x6fd9d2(0x1e9)}};}return new Promise(_0x201a7f=>{const _0xfc80dd=_0xbe09;$['post'](_0x5d802f(_0xfc80dd(0x1dd)),async(_0x112770,_0x29ffb4,_0x56cbb3)=>{const _0x599e53=_0xfc80dd;try{if(_0x112770)console[_0x599e53(0x191)](_0x599e53(0x130)),console[_0x599e53(0x191)](JSON[_0x599e53(0x11f)](_0x112770)),$['logErr'](_0x112770);else{_0x56cbb3=JSON[_0x599e53(0x110)](_0x56cbb3);const _0x3a5afd=_0x56cbb3;message=_0x599e53(0x1a2)+$[_0x599e53(0x166)]+'】'+$[_0x599e53(0x197)];if(_0x3a5afd[_0x599e53(0x14e)]==='0'&&_0x3a5afd[_0x599e53(0x217)]==='0'&&_0x3a5afd[_0x599e53(0x225)]===_0x599e53(0x16b)){$['petInfo']=_0x3a5afd[_0x599e53(0x1af)];if($[_0x599e53(0x1c9)][_0x599e53(0x114)]===0x0)return;console[_0x599e53(0x191)](_0x599e53(0x1a2)+$['index']+'（'+$['UserName']+_0x599e53(0x231)+$[_0x599e53(0x1c9)][_0x599e53(0x211)]);}else _0x3a5afd[_0x599e53(0x14e)]==='0'?console[_0x599e53(0x191)]('初始化萌宠失败:\x20\x20'+_0x3a5afd[_0x599e53(0x225)]):console[_0x599e53(0x191)]('shit');}}catch(_0x5c3d77){$['logErr'](_0x5c3d77,_0x29ffb4);}finally{_0x201a7f(_0x56cbb3);}});});}async function getJdZZ(){const _0x56bb01='https://api.m.jd.com/client.action';function _0x23d245(){return new Promise(_0x30f83=>{const _0x15022b=_0xbe09;$[_0x15022b(0x22e)](_0xd1a789('interactTaskIndex'),async(_0x28f07e,_0x5a18ff,_0x300c8b)=>{const _0x143422=_0x15022b;try{_0x28f07e?(console[_0x143422(0x191)](''+JSON[_0x143422(0x11f)](_0x28f07e)),console[_0x143422(0x191)]($['name']+_0x143422(0x1e1))):safeGet(_0x300c8b)&&(_0x300c8b=JSON[_0x143422(0x110)](_0x300c8b),$[_0x143422(0x1e8)]=_0x300c8b['data'][_0x143422(0x15b)],$[_0x143422(0x1e8)][_0x143422(0x14d)](_0x59286d=>!!_0x59286d&&_0x59286d[_0x143422(0x19e)]===0x3)&&$[_0x143422(0x1e8)][_0x143422(0x14d)](_0x1bb51b=>!!_0x1bb51b&&_0x1bb51b['taskId']===0x3)[_0x143422(0x21d)]&&console['log'](_0x143422(0x1a2)+$['index']+'（'+$[_0x143422(0x1b4)]+_0x143422(0x1df)+$[_0x143422(0x1e8)][_0x143422(0x14d)](_0x22dc41=>!!_0x22dc41&&_0x22dc41[_0x143422(0x19e)]===0x3)[0x0][_0x143422(0x157)]));}catch(_0x518ba2){$['logErr'](_0x518ba2,_0x5a18ff);}finally{_0x30f83(_0x300c8b);}});});}function _0xd1a789(_0x25f6ca,_0x47cd9e={}){const _0x551d69=_0xbe09;return{'url':_0x56bb01+_0x551d69(0x16a)+_0x25f6ca+_0x551d69(0x11b)+escape(JSON['stringify'](_0x47cd9e))+_0x551d69(0x1f8),'headers':{'Cookie':cookie,'Host':'api.m.jd.com','Connection':_0x551d69(0x1bb),'Content-Type':_0x551d69(0x1a8),'Referer':_0x551d69(0x195),'User-Agent':$[_0x551d69(0x118)]()?process[_0x551d69(0x12a)][_0x551d69(0x1b8)]?process[_0x551d69(0x12a)]['JD_USER_AGENT']:require(_0x551d69(0x174))[_0x551d69(0x14b)]:$[_0x551d69(0x152)]('JDUA')?$[_0x551d69(0x152)]('JDUA'):_0x551d69(0x121),'Accept-Language':_0x551d69(0x176),'Accept-Encoding':_0x551d69(0x170)}};}await _0x23d245();}async function getPlantBean(){const _0x2a02c2=_0x23392c,_0x5f1365=_0x2a02c2(0x1b9);async function _0x250e42(){const _0x5d9301=_0x2a02c2;$[_0x5d9301(0x136)]=await _0x39fe03(_0x5d9301(0x203));}function _0x39fe03(_0x59484d,_0x2adf2f={}){return new Promise(async _0x5e8be2=>{const _0x55e488=_0xbe09;$[_0x55e488(0x204)](_0x238c18(_0x59484d,_0x2adf2f),(_0x2ccbfb,_0x4fcc67,_0x153e3c)=>{const _0x163d95=_0x55e488;try{_0x2ccbfb?(console[_0x163d95(0x191)](_0x163d95(0x1b1)),console[_0x163d95(0x191)]('function_id:'+_0x59484d),$[_0x163d95(0x199)](_0x2ccbfb)):_0x153e3c=JSON[_0x163d95(0x110)](_0x153e3c);}catch(_0xcedbfe){$['logErr'](_0xcedbfe,_0x4fcc67);}finally{_0x5e8be2(_0x153e3c);}});});}function _0x238c18(_0x344139,_0x3a79c8){const _0xfc1370=_0x2a02c2;return _0x3a79c8[_0xfc1370(0x12b)]=_0xfc1370(0x1fa),_0x3a79c8['monitor_source']=_0xfc1370(0x228),_0x3a79c8[_0xfc1370(0x219)]='',{'url':_0x5f1365,'body':_0xfc1370(0x149)+_0x344139+_0xfc1370(0x11b)+escape(JSON['stringify'](_0x3a79c8))+_0xfc1370(0x140),'headers':{'Cookie':cookie,'Host':'api.m.jd.com','Accept':_0xfc1370(0x1b2),'Connection':_0xfc1370(0x1bb),'User-Agent':$['isNode']()?process['env'][_0xfc1370(0x1b8)]?process[_0xfc1370(0x12a)][_0xfc1370(0x1b8)]:_0xfc1370(0x121):$[_0xfc1370(0x152)]('JDUA')?$[_0xfc1370(0x152)](_0xfc1370(0x17e)):_0xfc1370(0x121),'Accept-Language':'zh-Hans-CN;q=1,en-CN;q=0.9','Accept-Encoding':_0xfc1370(0x170),'Content-Type':_0xfc1370(0x1e9)}};}function _0x2b8165(_0x157f36,_0x3aa0c5){const _0x1b0c70=_0x2a02c2,_0x22afe5=new RegExp(_0x1b0c70(0x1d6)+_0x3aa0c5+'=([^&]*)(&|$)','i'),_0x5f2960=_0x157f36[_0x1b0c70(0x1ba)](_0x22afe5);if(_0x5f2960!=null)return unescape(_0x5f2960[0x2]);return null;}async function _0x5da05e(){const _0xc8dd94=_0x2a02c2;await _0x250e42();if($[_0xc8dd94(0x136)][_0xc8dd94(0x14e)]==='0'){const _0x6ceac0=$[_0xc8dd94(0x136)][_0xc8dd94(0x11a)][_0xc8dd94(0x13e)][_0xc8dd94(0x222)];$[_0xc8dd94(0x13a)]=_0x2b8165(_0x6ceac0,_0xc8dd94(0x150)),console[_0xc8dd94(0x191)](_0xc8dd94(0x1a2)+$[_0xc8dd94(0x166)]+'（'+$['UserName']+_0xc8dd94(0x1f9)+$[_0xc8dd94(0x13a)]);}else console['log'](_0xc8dd94(0x146)+JSON['stringify']($[_0xc8dd94(0x136)]));}await _0x5da05e();}async function getJDFruit(){async function _0x5cb3bb(){return new Promise(_0x35efdb=>{const _0x4f149e=_0xbe09,_0x17d952={'url':JD_API_HOST+_0x4f149e(0x22a),'body':_0x4f149e(0x20a)+escape(JSON[_0x4f149e(0x11f)]({'version':0x4}))+_0x4f149e(0x1f1),'headers':{'accept':_0x4f149e(0x1b2),'accept-encoding':'gzip,\x20deflate,\x20br','accept-language':_0x4f149e(0x16f),'cache-control':_0x4f149e(0x1ec),'cookie':cookie,'origin':_0x4f149e(0x168),'pragma':_0x4f149e(0x1ec),'referer':_0x4f149e(0x123),'sec-fetch-dest':'empty','sec-fetch-mode':_0x4f149e(0x1c2),'sec-fetch-site':'same-site','User-Agent':$[_0x4f149e(0x118)]()?process[_0x4f149e(0x12a)][_0x4f149e(0x1b8)]?process[_0x4f149e(0x12a)][_0x4f149e(0x1b8)]:'jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_3\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148;supportJDSHWK/1':$[_0x4f149e(0x152)](_0x4f149e(0x17e))?$['getdata'](_0x4f149e(0x17e)):_0x4f149e(0x121),'Content-Type':_0x4f149e(0x1e9)}};$[_0x4f149e(0x204)](_0x17d952,(_0x4d050f,_0x236e61,_0x2d03d5)=>{const _0x34bf40=_0x4f149e;try{_0x4d050f?(console[_0x34bf40(0x191)](_0x34bf40(0x201)),console[_0x34bf40(0x191)](JSON[_0x34bf40(0x11f)](_0x4d050f)),$[_0x34bf40(0x199)](_0x4d050f)):safeGet(_0x2d03d5)&&($['farmInfo']=JSON[_0x34bf40(0x110)](_0x2d03d5));}catch(_0x1d9d96){$[_0x34bf40(0x199)](_0x1d9d96,_0x236e61);}finally{_0x35efdb();}});});}async function _0x34903d(){const _0x21f2c6=_0xbe09;await _0x5cb3bb();if($[_0x21f2c6(0x183)][_0x21f2c6(0x1c1)])console['log'](_0x21f2c6(0x1a2)+$[_0x21f2c6(0x166)]+'（'+$[_0x21f2c6(0x1b4)]+_0x21f2c6(0x11c)+$[_0x21f2c6(0x183)][_0x21f2c6(0x1c1)][_0x21f2c6(0x211)]);else{}}await _0x34903d();}async function getJoy(){function _0x27a16f(_0x42f97c,_0x4389f7=''){const _0x2c8a2a=_0xbe09;let _0x36d3e5=Date[_0x2c8a2a(0x20c)]()[_0x2c8a2a(0x1a4)]()[_0x2c8a2a(0x1d8)](0x0,0xa),_0xe12564=_0x4389f7||'';return _0xe12564=$[_0x2c8a2a(0x216)](_0x2c8a2a(0x1a6)+_0xe12564+_0x36d3e5),_0xe12564=_0xe12564+Number(_0x36d3e5)[_0x2c8a2a(0x1a4)](0x10),{'url':JD_API_HOST+_0x2c8a2a(0x18d)+_0xe12564+_0x2c8a2a(0x220)+_0x42f97c+'&body='+escape(_0x4389f7)+_0x2c8a2a(0x19b)+_0x36d3e5,'headers':{'Cookie':cookie,'Host':_0x2c8a2a(0x22f),'Accept':_0x2c8a2a(0x1b2),'Connection':_0x2c8a2a(0x1bb),'User-Agent':$[_0x2c8a2a(0x118)]()?process[_0x2c8a2a(0x12a)]['JD_USER_AGENT']?process[_0x2c8a2a(0x12a)]['JD_USER_AGENT']:require('../USER_AGENTS')[_0x2c8a2a(0x14b)]:$[_0x2c8a2a(0x152)](_0x2c8a2a(0x17e))?$[_0x2c8a2a(0x152)]('JDUA'):_0x2c8a2a(0x121),'Accept-Language':_0x2c8a2a(0x176),'Referer':_0x2c8a2a(0x1ac),'origin':_0x2c8a2a(0x132),'Accept-Encoding':_0x2c8a2a(0x170)}};}let _0x1db78c={'paramData':{}};return new Promise(async _0x1717b0=>{const _0x4fddd1=_0xbe09;$[_0x4fddd1(0x22e)](_0x27a16f(_0x4fddd1(0x1e0),JSON[_0x4fddd1(0x11f)](_0x1db78c)),async(_0x3c24dd,_0x5522a6,_0x452437)=>{const _0x4d6f4f=_0x4fddd1;try{_0x3c24dd?(console[_0x4d6f4f(0x191)](''+JSON['stringify'](_0x3c24dd)),console[_0x4d6f4f(0x191)]($[_0x4d6f4f(0x213)]+'\x20API请求失败，请检查网路重试')):safeGet(_0x452437)&&(_0x452437=JSON[_0x4d6f4f(0x110)](_0x452437),_0x452437[_0x4d6f4f(0x16b)]&&_0x452437[_0x4d6f4f(0x11a)]&&_0x452437['data'][_0x4d6f4f(0x177)]&&console[_0x4d6f4f(0x191)](_0x4d6f4f(0x1a2)+$['index']+'（'+$[_0x4d6f4f(0x1b4)]+_0x4d6f4f(0x212)+_0x452437['data'][_0x4d6f4f(0x177)]));}catch(_0x15934e){$[_0x4d6f4f(0x199)](_0x15934e,_0x5522a6);}finally{_0x1717b0();}});});}async function getSgmh(_0x3071bb=0x0){return new Promise(_0x1f22ba=>{setTimeout(()=>{const _0x51a511=_0xbe09;let _0x29460a={'url':_0x51a511(0x1b9),'headers':{'Origin':'https://h5.m.jd.com','Cookie':cookie,'Connection':_0x51a511(0x1bb),'Accept':_0x51a511(0x1dc),'Referer':_0x51a511(0x15c),'Host':_0x51a511(0x22f),'Accept-Encoding':'gzip,\x20deflate,\x20br','Accept-Language':'zh-cn'},'body':_0x51a511(0x205)};$[_0x51a511(0x204)](_0x29460a,async(_0x1ec905,_0x3d91d7,_0x22f2da)=>{const _0x3c5b4b=_0x51a511;try{_0x22f2da=JSON[_0x3c5b4b(0x110)](_0x22f2da);if(_0x22f2da[_0x3c5b4b(0x11a)][_0x3c5b4b(0x18c)]===0x0){const _0xa643fc=_0x22f2da[_0x3c5b4b(0x11a)]['result'][_0x3c5b4b(0x117)][_0x3c5b4b(0x14d)](_0x37047f=>_0x37047f[_0x3c5b4b(0x1ea)]===_0x3c5b4b(0x1a9));console[_0x3c5b4b(0x191)](_0x3c5b4b(0x1a2)+$[_0x3c5b4b(0x166)]+'（'+$[_0x3c5b4b(0x1b4)]+_0x3c5b4b(0x1ae)+(_0xa643fc&&_0xa643fc[0x0][_0x3c5b4b(0x12e)]['taskToken']));}}catch(_0x52cac8){$[_0x3c5b4b(0x199)](_0x52cac8,_0x3d91d7);}finally{_0x1f22ba();}});},_0x3071bb);});}function getCFD(_0x22bd91=!![]){function _0x1a3d84(_0x6e3bde,_0x59087e){const _0x3d89ce=_0xbe09;return{'url':'https://m.jingxi.com/jxcfd/'+_0x6e3bde+_0x3d89ce(0x1db)+Date['now']()+'&ptag=138631.26.55&'+_0x59087e+_0x3d89ce(0x206)+Date[_0x3d89ce(0x20c)]()+'&sceneval=2&g_login_type=1&g_ty=ls','headers':{'Cookie':cookie,'Accept':_0x3d89ce(0x1b2),'Connection':_0x3d89ce(0x1bb),'Referer':_0x3d89ce(0x128),'Accept-Encoding':_0x3d89ce(0x170),'Host':_0x3d89ce(0x1c0),'User-Agent':_0x3d89ce(0x142)+(Math[_0x3d89ce(0x153)]*0x62+0x1)+_0x3d89ce(0x17d),'Accept-Language':'zh-cn'}};}return new Promise(async _0xa84313=>{const _0x293589=_0xbe09;$[_0x293589(0x22e)](_0x1a3d84(_0x293589(0x1a0)),(_0x275db4,_0x393ab5,_0x402670)=>{const _0x201780=_0x293589;try{const {iret:_0x3afb82,SceneList:SceneList={},XbStatus:{XBDetail:XBDetail=[],dwXBRemainCnt:_0x2b451b}={},ddwMoney:_0x19f303,dwIsNewUser:_0x49313d,sErrMsg:_0x159d4c,strMyShareId:_0x2bccea,strPin:_0x195cd6}=JSON[_0x201780(0x110)](_0x402670);console[_0x201780(0x191)](_0x201780(0x1a2)+$[_0x201780(0x166)]+'（'+$[_0x201780(0x1b4)]+_0x201780(0x1f7)+_0x2bccea);}catch(_0xdd2bad){$['logErr'](_0xdd2bad,_0x393ab5);}finally{_0xa84313();}});});}function getJdCash(){function _0x3fda60(_0x3fa3e5,_0x15f376={}){const _0xad4708=_0xbe09;return{'url':'https://api.m.jd.com/client.action?functionId='+_0x3fa3e5+_0xad4708(0x11b)+escape(JSON['stringify'](_0x15f376))+_0xad4708(0x1cd),'headers':{'Cookie':cookie,'Host':_0xad4708(0x22f),'Connection':_0xad4708(0x1bb),'Content-Type':_0xad4708(0x1a8),'Referer':'http://wq.jd.com/wxapp/pages/hd-interaction/index/index','User-Agent':$[_0xad4708(0x118)]()?process[_0xad4708(0x12a)][_0xad4708(0x1b8)]?process['env'][_0xad4708(0x1b8)]:require(_0xad4708(0x174))[_0xad4708(0x14b)]:$['getdata'](_0xad4708(0x17e))?$['getdata'](_0xad4708(0x17e)):'jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_3\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148;supportJDSHWK/1','Accept-Language':_0xad4708(0x176),'Accept-Encoding':_0xad4708(0x170)}};}return new Promise(_0x368c5=>{const _0x805f4b=_0xbe09;$[_0x805f4b(0x22e)](_0x3fda60(_0x805f4b(0x1e5)),async(_0x312117,_0x70a1b7,_0x5c0a62)=>{const _0x284eb5=_0x805f4b;try{_0x312117?(console[_0x284eb5(0x191)](''+JSON['stringify'](_0x312117)),console[_0x284eb5(0x191)]($[_0x284eb5(0x213)]+_0x284eb5(0x1e1))):safeGet(_0x5c0a62)&&(_0x5c0a62=JSON[_0x284eb5(0x110)](_0x5c0a62),_0x5c0a62[_0x284eb5(0x14e)]===0x0&&_0x5c0a62[_0x284eb5(0x11a)]['result']&&console[_0x284eb5(0x191)](_0x284eb5(0x1a2)+$['index']+'（'+$['UserName']+_0x284eb5(0x12d)+_0x5c0a62[_0x284eb5(0x11a)]['result'][_0x284eb5(0x20d)]));}catch(_0x1e3304){$['logErr'](_0x1e3304,_0x70a1b7);}finally{_0x368c5(_0x5c0a62);}});});}async function getShareCode(){const _0x571129=_0x23392c;console[_0x571129(0x191)](_0x571129(0x1e3)+$[_0x571129(0x166)]+'开始======'),await getJDFruit(),await getJdPet(),await getPlantBean(),await getJdFactory(),await getJxFactory(),await getJxNc(),await getJdZZ(),await getJoy(),await getSgmh(),await getCFD(),await getJdCash(),console[_0x571129(0x191)](_0x571129(0x1e3)+$[_0x571129(0x166)]+'结束======\x0a');}function safeGet(_0x3c868f){const _0x35aa3b=_0x23392c;try{if(typeof JSON[_0x35aa3b(0x110)](_0x3c868f)==_0x35aa3b(0x189))return!![];}catch(_0x1e97d9){return console[_0x35aa3b(0x191)](_0x1e97d9),console['log'](_0x35aa3b(0x16e)),![];}}function TotalBean(){return new Promise(async _0x1c7555=>{const _0x340a7b=_0xbe09,_0x49fd5f={'url':'https://wq.jd.com/user/info/QueryJDUserInfo?sceneval=2','headers':{'Accept':_0x340a7b(0x147),'Content-Type':_0x340a7b(0x1e9),'Accept-Encoding':_0x340a7b(0x170),'Accept-Language':_0x340a7b(0x176),'Connection':_0x340a7b(0x1bb),'Cookie':cookie,'Referer':_0x340a7b(0x184),'User-Agent':$['isNode']()?process[_0x340a7b(0x12a)][_0x340a7b(0x1b8)]?process[_0x340a7b(0x12a)][_0x340a7b(0x1b8)]:require('../USER_AGENTS')[_0x340a7b(0x14b)]:$[_0x340a7b(0x152)](_0x340a7b(0x17e))?$[_0x340a7b(0x152)]('JDUA'):_0x340a7b(0x121)}};$[_0x340a7b(0x204)](_0x49fd5f,(_0x5bbcb1,_0x119737,_0x3e22cc)=>{const _0x459e69=_0x340a7b;try{if(_0x5bbcb1)console[_0x459e69(0x191)](''+JSON[_0x459e69(0x11f)](_0x5bbcb1)),console[_0x459e69(0x191)]($['name']+_0x459e69(0x1e1));else{if(_0x3e22cc){_0x3e22cc=JSON['parse'](_0x3e22cc);if(_0x3e22cc['retcode']===0xd){$[_0x459e69(0x200)]=![];return;}_0x3e22cc['retcode']===0x0?$[_0x459e69(0x197)]=_0x3e22cc[_0x459e69(0x179)]&&_0x3e22cc[_0x459e69(0x179)][_0x459e69(0x16d)]||$[_0x459e69(0x1b4)]:$[_0x459e69(0x197)]=$[_0x459e69(0x1b4)];}else console['log'](_0x459e69(0x160));}}catch(_0xb11579){$[_0x459e69(0x199)](_0xb11579,_0x119737);}finally{_0x1c7555();}});});}function taskPostUrl(_0x304779,_0x145e11={},_0x34fd3e){const _0x411129=_0x23392c;let _0x5f4bc8=''+JD_API_HOST;return _0x34fd3e&&(_0x5f4bc8+=_0x411129(0x16a)+_0x34fd3e),{'url':_0x5f4bc8,'body':_0x411129(0x149)+_0x304779+_0x411129(0x11b)+escape(JSON['stringify'](_0x145e11))+_0x411129(0x1f8),'headers':{'Cookie':cookie,'origin':_0x411129(0x1e6),'referer':_0x411129(0x1d0),'Content-Type':_0x411129(0x1e9),'User-Agent':$[_0x411129(0x118)]()?process['env']['JD_USER_AGENT']?process[_0x411129(0x12a)][_0x411129(0x1b8)]:_0x411129(0x121):$['getdata'](_0x411129(0x17e))?$[_0x411129(0x152)](_0x411129(0x17e)):'jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2014_3\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148;supportJDSHWK/1'}};}function jsonParse(_0x4c4a71){const _0x2653b6=_0x23392c;if(typeof _0x4c4a71==_0x2653b6(0x18e))try{return JSON[_0x2653b6(0x110)](_0x4c4a71);}catch(_0x13845a){return console[_0x2653b6(0x191)](_0x13845a),$[_0x2653b6(0x180)]($['name'],'',_0x2653b6(0x173)),[];}}function Env(_0x713f05,_0x5f514d){const _0x17e467=_0x23392c;_0x17e467(0x1f4)!=typeof process&&JSON[_0x17e467(0x11f)](process[_0x17e467(0x12a)])[_0x17e467(0x1d7)](_0x17e467(0x131))>-0x1&&process[_0x17e467(0x1ed)](0x0);class _0xc67a92{constructor(_0x4bfccd){const _0x344cae=_0x17e467;this[_0x344cae(0x12a)]=_0x4bfccd;}[_0x17e467(0x145)](_0x5ebe0b,_0x4d5217=_0x17e467(0x207)){const _0xcf4ea5=_0x17e467;_0x5ebe0b=_0xcf4ea5(0x18e)==typeof _0x5ebe0b?{'url':_0x5ebe0b}:_0x5ebe0b;let _0x185d08=this[_0xcf4ea5(0x22e)];return'POST'===_0x4d5217&&(_0x185d08=this['post']),new Promise((_0x3aee24,_0xd5f1e1)=>{const _0x52f8c8=_0xcf4ea5;_0x185d08[_0x52f8c8(0x164)](this,_0x5ebe0b,(_0x59bd3e,_0x12bf2e,_0x403b89)=>{_0x59bd3e?_0xd5f1e1(_0x59bd3e):_0x3aee24(_0x12bf2e);});});}[_0x17e467(0x22e)](_0x1230c5){const _0x1b53d5=_0x17e467;return this['send'][_0x1b53d5(0x164)](this[_0x1b53d5(0x12a)],_0x1230c5);}[_0x17e467(0x204)](_0x1c64f6){const _0x1375a6=_0x17e467;return this[_0x1375a6(0x145)]['call'](this[_0x1375a6(0x12a)],_0x1c64f6,_0x1375a6(0x194));}}return new class{constructor(_0x3a678f,_0x5a1691){const _0x132e9e=_0x17e467;this[_0x132e9e(0x213)]=_0x3a678f,this['http']=new _0xc67a92(this),this['data']=null,this[_0x132e9e(0x1b0)]=_0x132e9e(0x1ab),this[_0x132e9e(0x144)]=[],this[_0x132e9e(0x111)]=!0x1,this['isNeedRewrite']=!0x1,this[_0x132e9e(0x14f)]='\x0a',this[_0x132e9e(0x1b3)]=new Date()[_0x132e9e(0x154)](),Object['assign'](this,_0x5a1691),this[_0x132e9e(0x191)]('','🔔'+this['name']+_0x132e9e(0x1f0));}[_0x17e467(0x118)](){const _0x58986b=_0x17e467;return _0x58986b(0x1f4)!=typeof module&&!!module['exports'];}[_0x17e467(0x148)](){const _0x46637e=_0x17e467;return _0x46637e(0x1f4)!=typeof $task;}[_0x17e467(0x1aa)](){const _0x44299c=_0x17e467;return'undefined'!=typeof $httpClient&&_0x44299c(0x1f4)==typeof $loon;}['isLoon'](){const _0x169974=_0x17e467;return _0x169974(0x1f4)!=typeof $loon;}[_0x17e467(0x137)](_0x105cc8,_0x270139=null){const _0x4c9dbb=_0x17e467;try{return JSON[_0x4c9dbb(0x110)](_0x105cc8);}catch{return _0x270139;}}[_0x17e467(0x151)](_0x21b1f7,_0x43b4ea=null){const _0x37d2d1=_0x17e467;try{return JSON[_0x37d2d1(0x11f)](_0x21b1f7);}catch{return _0x43b4ea;}}[_0x17e467(0x129)](_0x43e72e,_0x38a0f8){const _0x7d809f=_0x17e467;let _0x3bd35f=_0x38a0f8;const _0x34d670=this[_0x7d809f(0x152)](_0x43e72e);if(_0x34d670)try{_0x3bd35f=JSON[_0x7d809f(0x110)](this[_0x7d809f(0x152)](_0x43e72e));}catch{}return _0x3bd35f;}['setjson'](_0x265264,_0x16b0f9){try{return this['setdata'](JSON['stringify'](_0x265264),_0x16b0f9);}catch{return!0x1;}}[_0x17e467(0x116)](_0x11c49b){return new Promise(_0x405ce0=>{const _0x147861=_0xbe09;this[_0x147861(0x22e)]({'url':_0x11c49b},(_0x3b9a10,_0x7101f1,_0x31c46c)=>_0x405ce0(_0x31c46c));});}['runScript'](_0x32d40c,_0x5a0233){const _0x22cd3d=_0x17e467;return new Promise(_0x3d463d=>{const _0x58576d=_0xbe09;let _0xd06f29=this[_0x58576d(0x152)](_0x58576d(0x17c));_0xd06f29=_0xd06f29?_0xd06f29['replace'](/\n/g,'')['trim']():_0xd06f29;let _0x5c1f51=this[_0x58576d(0x152)]('@chavy_boxjs_userCfgs.httpapi_timeout');_0x5c1f51=_0x5c1f51?0x1*_0x5c1f51:0x14,_0x5c1f51=_0x5a0233&&_0x5a0233['timeout']?_0x5a0233[_0x58576d(0x165)]:_0x5c1f51;const [_0x25193a,_0x16577d]=_0xd06f29[_0x58576d(0x193)]('@'),_0x55340a={'url':_0x58576d(0x1ce)+_0x16577d+_0x58576d(0x1d4),'body':{'script_text':_0x32d40c,'mock_type':_0x58576d(0x1fd),'timeout':_0x5c1f51},'headers':{'X-Key':_0x25193a,'Accept':'*/*'}};this['post'](_0x55340a,(_0xc6c828,_0x36fa6b,_0x2bc5f6)=>_0x3d463d(_0x2bc5f6));})[_0x22cd3d(0x112)](_0x170d53=>this['logErr'](_0x170d53));}[_0x17e467(0x125)](){const _0x592c3a=_0x17e467;if(!this['isNode']())return{};{this['fs']=this['fs']?this['fs']:require('fs'),this['path']=this[_0x592c3a(0x1d2)]?this[_0x592c3a(0x1d2)]:require(_0x592c3a(0x1d2));const _0x2842f3=this[_0x592c3a(0x1d2)][_0x592c3a(0x1cf)](this[_0x592c3a(0x1b0)]),_0x3d29b5=this['path'][_0x592c3a(0x1cf)](process[_0x592c3a(0x21b)](),this[_0x592c3a(0x1b0)]),_0x101770=this['fs'][_0x592c3a(0x13c)](_0x2842f3),_0x1c37e7=!_0x101770&&this['fs'][_0x592c3a(0x13c)](_0x3d29b5);if(!_0x101770&&!_0x1c37e7)return{};{const _0x32e99f=_0x101770?_0x2842f3:_0x3d29b5;try{return JSON['parse'](this['fs']['readFileSync'](_0x32e99f));}catch(_0x2d5df1){return{};}}}}[_0x17e467(0x1e7)](){const _0x52766a=_0x17e467;if(this['isNode']()){this['fs']=this['fs']?this['fs']:require('fs'),this[_0x52766a(0x1d2)]=this[_0x52766a(0x1d2)]?this[_0x52766a(0x1d2)]:require(_0x52766a(0x1d2));const _0xdfd72c=this['path'][_0x52766a(0x1cf)](this['dataFile']),_0xf0898e=this[_0x52766a(0x1d2)][_0x52766a(0x1cf)](process[_0x52766a(0x21b)](),this[_0x52766a(0x1b0)]),_0x35e4c4=this['fs'][_0x52766a(0x13c)](_0xdfd72c),_0x37d762=!_0x35e4c4&&this['fs']['existsSync'](_0xf0898e),_0x2b1c31=JSON[_0x52766a(0x11f)](this[_0x52766a(0x11a)]);_0x35e4c4?this['fs'][_0x52766a(0x17b)](_0xdfd72c,_0x2b1c31):_0x37d762?this['fs'][_0x52766a(0x17b)](_0xf0898e,_0x2b1c31):this['fs']['writeFileSync'](_0xdfd72c,_0x2b1c31);}}[_0x17e467(0x12c)](_0x4da6e7,_0x5cd1e4,_0x5b1547){const _0x4ac98e=_0x17e467,_0x35f028=_0x5cd1e4['replace'](/\[(\d+)\]/g,_0x4ac98e(0x162))[_0x4ac98e(0x193)]('.');let _0x1994ef=_0x4da6e7;for(const _0x4b8381 of _0x35f028)if(_0x1994ef=Object(_0x1994ef)[_0x4b8381],void 0x0===_0x1994ef)return _0x5b1547;return _0x1994ef;}[_0x17e467(0x20e)](_0x30c94b,_0x2b2e25,_0x2f57d2){const _0x196140=_0x17e467;return Object(_0x30c94b)!==_0x30c94b?_0x30c94b:(Array['isArray'](_0x2b2e25)||(_0x2b2e25=_0x2b2e25[_0x196140(0x1a4)]()[_0x196140(0x1ba)](/[^.[\]]+/g)||[]),_0x2b2e25[_0x196140(0x226)](0x0,-0x1)['reduce']((_0x503108,_0x1f9409,_0x46cd53)=>Object(_0x503108[_0x1f9409])===_0x503108[_0x1f9409]?_0x503108[_0x1f9409]:_0x503108[_0x1f9409]=Math[_0x196140(0x178)](_0x2b2e25[_0x46cd53+0x1])>>0x0==+_0x2b2e25[_0x46cd53+0x1]?[]:{},_0x30c94b)[_0x2b2e25[_0x2b2e25[_0x196140(0x21d)]-0x1]]=_0x2f57d2,_0x30c94b);}['getdata'](_0x22eff0){const _0x255328=_0x17e467;let _0x196231=this[_0x255328(0x12f)](_0x22eff0);if(/^@/[_0x255328(0x1ee)](_0x22eff0)){const [,_0x51cb30,_0x495e1c]=/^@(.*?)\.(.*?)$/['exec'](_0x22eff0),_0x5af0f6=_0x51cb30?this['getval'](_0x51cb30):'';if(_0x5af0f6)try{const _0x3ddcd5=JSON[_0x255328(0x110)](_0x5af0f6);_0x196231=_0x3ddcd5?this['lodash_get'](_0x3ddcd5,_0x495e1c,''):_0x196231;}catch(_0x173b18){_0x196231='';}}return _0x196231;}[_0x17e467(0x133)](_0x24ba63,_0xb8291e){const _0x5dba71=_0x17e467;let _0x162648=!0x1;if(/^@/[_0x5dba71(0x1ee)](_0xb8291e)){const [,_0x3584aa,_0x41f115]=/^@(.*?)\.(.*?)$/[_0x5dba71(0x1b6)](_0xb8291e),_0x5dfb23=this[_0x5dba71(0x12f)](_0x3584aa),_0x5f42c6=_0x3584aa?_0x5dba71(0x120)===_0x5dfb23?null:_0x5dfb23||'{}':'{}';try{const _0x517dac=JSON['parse'](_0x5f42c6);this[_0x5dba71(0x20e)](_0x517dac,_0x41f115,_0x24ba63),_0x162648=this[_0x5dba71(0x229)](JSON['stringify'](_0x517dac),_0x3584aa);}catch(_0x1dfe25){const _0x3a706c={};this[_0x5dba71(0x20e)](_0x3a706c,_0x41f115,_0x24ba63),_0x162648=this[_0x5dba71(0x229)](JSON[_0x5dba71(0x11f)](_0x3a706c),_0x3584aa);}}else _0x162648=this['setval'](_0x24ba63,_0xb8291e);return _0x162648;}[_0x17e467(0x12f)](_0x50cd3f){const _0x1b74f4=_0x17e467;return this[_0x1b74f4(0x1aa)]()||this[_0x1b74f4(0x1c3)]()?$persistentStore['read'](_0x50cd3f):this[_0x1b74f4(0x148)]()?$prefs[_0x1b74f4(0x126)](_0x50cd3f):this['isNode']()?(this[_0x1b74f4(0x11a)]=this[_0x1b74f4(0x125)](),this[_0x1b74f4(0x11a)][_0x50cd3f]):this[_0x1b74f4(0x11a)]&&this['data'][_0x50cd3f]||null;}[_0x17e467(0x229)](_0x51be1e,_0x6d97fe){const _0x3eb6ea=_0x17e467;return this[_0x3eb6ea(0x1aa)]()||this['isLoon']()?$persistentStore[_0x3eb6ea(0x1de)](_0x51be1e,_0x6d97fe):this[_0x3eb6ea(0x148)]()?$prefs[_0x3eb6ea(0x1a7)](_0x51be1e,_0x6d97fe):this[_0x3eb6ea(0x118)]()?(this[_0x3eb6ea(0x11a)]=this[_0x3eb6ea(0x125)](),this[_0x3eb6ea(0x11a)][_0x6d97fe]=_0x51be1e,this[_0x3eb6ea(0x1e7)](),!0x0):this[_0x3eb6ea(0x11a)]&&this[_0x3eb6ea(0x11a)][_0x6d97fe]||null;}['initGotEnv'](_0x1e44ab){const _0x1c9568=_0x17e467;this[_0x1c9568(0x234)]=this[_0x1c9568(0x234)]?this[_0x1c9568(0x234)]:require('got'),this[_0x1c9568(0x127)]=this['cktough']?this[_0x1c9568(0x127)]:require('tough-cookie'),this[_0x1c9568(0x1f5)]=this['ckjar']?this[_0x1c9568(0x1f5)]:new this[(_0x1c9568(0x127))][(_0x1c9568(0x1bc))](),_0x1e44ab&&(_0x1e44ab[_0x1c9568(0x1be)]=_0x1e44ab['headers']?_0x1e44ab[_0x1c9568(0x1be)]:{},void 0x0===_0x1e44ab[_0x1c9568(0x1be)][_0x1c9568(0x1cc)]&&void 0x0===_0x1e44ab[_0x1c9568(0x1d3)]&&(_0x1e44ab['cookieJar']=this['ckjar']));}[_0x17e467(0x22e)](_0xf268c4,_0x21928e=()=>{}){const _0x1cb715=_0x17e467;_0xf268c4[_0x1cb715(0x1be)]&&(delete _0xf268c4[_0x1cb715(0x1be)][_0x1cb715(0x1ad)],delete _0xf268c4[_0x1cb715(0x1be)][_0x1cb715(0x20f)]),this['isSurge']()||this['isLoon']()?(this[_0x1cb715(0x1aa)]()&&this[_0x1cb715(0x1f2)]&&(_0xf268c4[_0x1cb715(0x1be)]=_0xf268c4[_0x1cb715(0x1be)]||{},Object[_0x1cb715(0x1d9)](_0xf268c4['headers'],{'X-Surge-Skip-Scripting':!0x1})),$httpClient[_0x1cb715(0x22e)](_0xf268c4,(_0x32b2bf,_0x598aa3,_0xf789a8)=>{const _0x52cb6e=_0x1cb715;!_0x32b2bf&&_0x598aa3&&(_0x598aa3['body']=_0xf789a8,_0x598aa3[_0x52cb6e(0x163)]=_0x598aa3[_0x52cb6e(0x215)]),_0x21928e(_0x32b2bf,_0x598aa3,_0xf789a8);})):this[_0x1cb715(0x148)]()?(this[_0x1cb715(0x1f2)]&&(_0xf268c4[_0x1cb715(0x1cb)]=_0xf268c4[_0x1cb715(0x1cb)]||{},Object[_0x1cb715(0x1d9)](_0xf268c4['opts'],{'hints':!0x1})),$task[_0x1cb715(0x18a)](_0xf268c4)[_0x1cb715(0x227)](_0x4035be=>{const {statusCode:_0x57cdb6,statusCode:_0x553419,headers:_0x4f6a57,body:_0x33c9eb}=_0x4035be;_0x21928e(null,{'status':_0x57cdb6,'statusCode':_0x553419,'headers':_0x4f6a57,'body':_0x33c9eb},_0x33c9eb);},_0x4c3056=>_0x21928e(_0x4c3056))):this[_0x1cb715(0x118)]()&&(this[_0x1cb715(0x17a)](_0xf268c4),this[_0x1cb715(0x234)](_0xf268c4)['on'](_0x1cb715(0x115),(_0x2141a5,_0x5a1ac9)=>{const _0x48a305=_0x1cb715;try{if(_0x2141a5['headers'][_0x48a305(0x18b)]){const _0x526685=_0x2141a5['headers'][_0x48a305(0x18b)][_0x48a305(0x224)](this['cktough'][_0x48a305(0x1cc)][_0x48a305(0x110)])[_0x48a305(0x1a4)]();_0x526685&&this[_0x48a305(0x1f5)]['setCookieSync'](_0x526685,null),_0x5a1ac9[_0x48a305(0x1d3)]=this['ckjar'];}}catch(_0x181f51){this[_0x48a305(0x199)](_0x181f51);}})[_0x1cb715(0x227)](_0xca6f7b=>{const {statusCode:_0x302681,statusCode:_0xcf704e,headers:_0x2b4bdd,body:_0x52b396}=_0xca6f7b;_0x21928e(null,{'status':_0x302681,'statusCode':_0xcf704e,'headers':_0x2b4bdd,'body':_0x52b396},_0x52b396);},_0xeec240=>{const _0x281254=_0x1cb715,{message:_0x4589eb,response:_0x1c73d2}=_0xeec240;_0x21928e(_0x4589eb,_0x1c73d2,_0x1c73d2&&_0x1c73d2[_0x281254(0x138)]);}));}[_0x17e467(0x204)](_0x96807a,_0x4f7bf0=()=>{}){const _0x34e34e=_0x17e467;if(_0x96807a[_0x34e34e(0x138)]&&_0x96807a[_0x34e34e(0x1be)]&&!_0x96807a[_0x34e34e(0x1be)][_0x34e34e(0x1ad)]&&(_0x96807a[_0x34e34e(0x1be)][_0x34e34e(0x1ad)]=_0x34e34e(0x1e9)),_0x96807a['headers']&&delete _0x96807a[_0x34e34e(0x1be)][_0x34e34e(0x20f)],this[_0x34e34e(0x1aa)]()||this[_0x34e34e(0x1c3)]())this[_0x34e34e(0x1aa)]()&&this[_0x34e34e(0x1f2)]&&(_0x96807a[_0x34e34e(0x1be)]=_0x96807a[_0x34e34e(0x1be)]||{},Object[_0x34e34e(0x1d9)](_0x96807a[_0x34e34e(0x1be)],{'X-Surge-Skip-Scripting':!0x1})),$httpClient[_0x34e34e(0x204)](_0x96807a,(_0x1b4e6b,_0x3a0e4c,_0x32b340)=>{const _0xdf9159=_0x34e34e;!_0x1b4e6b&&_0x3a0e4c&&(_0x3a0e4c['body']=_0x32b340,_0x3a0e4c[_0xdf9159(0x163)]=_0x3a0e4c['status']),_0x4f7bf0(_0x1b4e6b,_0x3a0e4c,_0x32b340);});else{if(this[_0x34e34e(0x148)]())_0x96807a[_0x34e34e(0x218)]=_0x34e34e(0x194),this[_0x34e34e(0x1f2)]&&(_0x96807a[_0x34e34e(0x1cb)]=_0x96807a[_0x34e34e(0x1cb)]||{},Object[_0x34e34e(0x1d9)](_0x96807a[_0x34e34e(0x1cb)],{'hints':!0x1})),$task['fetch'](_0x96807a)[_0x34e34e(0x227)](_0x3e5272=>{const {statusCode:_0x4f6dd2,statusCode:_0x22ebfa,headers:_0x518ea8,body:_0x1c87a5}=_0x3e5272;_0x4f7bf0(null,{'status':_0x4f6dd2,'statusCode':_0x22ebfa,'headers':_0x518ea8,'body':_0x1c87a5},_0x1c87a5);},_0x16d84d=>_0x4f7bf0(_0x16d84d));else{if(this[_0x34e34e(0x118)]()){this[_0x34e34e(0x17a)](_0x96807a);const {url:_0x1f3fa3,..._0x454fa1}=_0x96807a;this['got'][_0x34e34e(0x204)](_0x1f3fa3,_0x454fa1)[_0x34e34e(0x227)](_0x431082=>{const {statusCode:_0x2d8c0c,statusCode:_0x5231e7,headers:_0x40e7f7,body:_0x47e2b3}=_0x431082;_0x4f7bf0(null,{'status':_0x2d8c0c,'statusCode':_0x5231e7,'headers':_0x40e7f7,'body':_0x47e2b3},_0x47e2b3);},_0x24367e=>{const _0x3a0fb2=_0x34e34e,{message:_0x387fc6,response:_0x1b15a4}=_0x24367e;_0x4f7bf0(_0x387fc6,_0x1b15a4,_0x1b15a4&&_0x1b15a4[_0x3a0fb2(0x138)]);});}}}}['time'](_0x1d3082,_0x3919df=null){const _0x5b58cf=_0x17e467,_0x169fd0=_0x3919df?new Date(_0x3919df):new Date();let _0x224f13={'M+':_0x169fd0[_0x5b58cf(0x161)]()+0x1,'d+':_0x169fd0[_0x5b58cf(0x182)](),'H+':_0x169fd0[_0x5b58cf(0x13f)](),'m+':_0x169fd0['getMinutes'](),'s+':_0x169fd0['getSeconds'](),'q+':Math[_0x5b58cf(0x19c)]((_0x169fd0[_0x5b58cf(0x161)]()+0x3)/0x3),'S':_0x169fd0[_0x5b58cf(0x21a)]()};/(y+)/['test'](_0x1d3082)&&(_0x1d3082=_0x1d3082[_0x5b58cf(0x141)](RegExp['$1'],(_0x169fd0[_0x5b58cf(0x190)]()+'')[_0x5b58cf(0x1d8)](0x4-RegExp['$1'][_0x5b58cf(0x21d)])));for(let _0x43ede4 in _0x224f13)new RegExp('('+_0x43ede4+')')[_0x5b58cf(0x1ee)](_0x1d3082)&&(_0x1d3082=_0x1d3082[_0x5b58cf(0x141)](RegExp['$1'],0x1==RegExp['$1'][_0x5b58cf(0x21d)]?_0x224f13[_0x43ede4]:('00'+_0x224f13[_0x43ede4])['substr']((''+_0x224f13[_0x43ede4])[_0x5b58cf(0x21d)])));return _0x1d3082;}[_0x17e467(0x180)](_0x23828a=_0x713f05,_0x4159d6='',_0x36eac2='',_0x2c53e8){const _0x3aca0f=_0x17e467,_0x193d6d=_0x39ff79=>{const _0x3ff5c0=_0xbe09;if(!_0x39ff79)return _0x39ff79;if('string'==typeof _0x39ff79)return this[_0x3ff5c0(0x1c3)]()?_0x39ff79:this['isQuanX']()?{'open-url':_0x39ff79}:this['isSurge']()?{'url':_0x39ff79}:void 0x0;if(_0x3ff5c0(0x189)==typeof _0x39ff79){if(this[_0x3ff5c0(0x1c3)]()){let _0x212f17=_0x39ff79[_0x3ff5c0(0x1e4)]||_0x39ff79[_0x3ff5c0(0x202)]||_0x39ff79[_0x3ff5c0(0x171)],_0x5d627a=_0x39ff79[_0x3ff5c0(0x223)]||_0x39ff79[_0x3ff5c0(0x1f6)];return{'openUrl':_0x212f17,'mediaUrl':_0x5d627a};}if(this[_0x3ff5c0(0x148)]()){let _0x3105be=_0x39ff79['open-url']||_0x39ff79[_0x3ff5c0(0x202)]||_0x39ff79[_0x3ff5c0(0x1e4)],_0x37e5f0=_0x39ff79[_0x3ff5c0(0x1f6)]||_0x39ff79['mediaUrl'];return{'open-url':_0x3105be,'media-url':_0x37e5f0};}if(this['isSurge']()){let _0xe15e23=_0x39ff79[_0x3ff5c0(0x202)]||_0x39ff79[_0x3ff5c0(0x1e4)]||_0x39ff79[_0x3ff5c0(0x171)];return{'url':_0xe15e23};}}};if(this[_0x3aca0f(0x111)]||(this[_0x3aca0f(0x1aa)]()||this[_0x3aca0f(0x1c3)]()?$notification[_0x3aca0f(0x204)](_0x23828a,_0x4159d6,_0x36eac2,_0x193d6d(_0x2c53e8)):this[_0x3aca0f(0x148)]()&&$notify(_0x23828a,_0x4159d6,_0x36eac2,_0x193d6d(_0x2c53e8))),!this[_0x3aca0f(0x1ef)]){let _0x51d94d=['',_0x3aca0f(0x1a5)];_0x51d94d[_0x3aca0f(0x172)](_0x23828a),_0x4159d6&&_0x51d94d[_0x3aca0f(0x172)](_0x4159d6),_0x36eac2&&_0x51d94d[_0x3aca0f(0x172)](_0x36eac2),console[_0x3aca0f(0x191)](_0x51d94d[_0x3aca0f(0x11e)]('\x0a')),this[_0x3aca0f(0x144)]=this[_0x3aca0f(0x144)][_0x3aca0f(0x113)](_0x51d94d);}}[_0x17e467(0x191)](..._0x8ad340){const _0xdefb2a=_0x17e467;_0x8ad340[_0xdefb2a(0x21d)]>0x0&&(this[_0xdefb2a(0x144)]=[...this['logs'],..._0x8ad340]),console['log'](_0x8ad340['join'](this['logSeparator']));}[_0x17e467(0x199)](_0x4ad7cf,_0x274b4b){const _0x25d298=_0x17e467,_0x2b3aec=!this['isSurge']()&&!this[_0x25d298(0x148)]()&&!this[_0x25d298(0x1c3)]();_0x2b3aec?this['log']('','❗️'+this[_0x25d298(0x213)]+_0x25d298(0x175),_0x4ad7cf[_0x25d298(0x21e)]):this[_0x25d298(0x191)]('','❗️'+this['name']+_0x25d298(0x175),_0x4ad7cf);}['wait'](_0x3fc2ff){return new Promise(_0x4ca980=>setTimeout(_0x4ca980,_0x3fc2ff));}[_0x17e467(0x1c7)](_0x27aed9={}){const _0x56f62f=_0x17e467,_0x443800=new Date()[_0x56f62f(0x154)](),_0x2c79b3=(_0x443800-this['startTime'])/0x3e8;this[_0x56f62f(0x191)]('','🔔'+this[_0x56f62f(0x213)]+_0x56f62f(0x187)+_0x2c79b3+'\x20秒'),this['log'](),(this[_0x56f62f(0x1aa)]()||this[_0x56f62f(0x148)]()||this[_0x56f62f(0x1c3)]())&&$done(_0x27aed9);}}(_0x713f05,_0x5f514d);}
+const $ = new Env("获取互助码");
+const JD_API_HOST = "https://api.m.jd.com/client.action";
+let cookiesArr = [], cookie = '', message;
+const jdCookieNode = $.isNode() ? require('../jdCookie.js') : '';
+!function(n){"use strict";function r(n,r){var t=(65535&n)+(65535&r);return(n>>16)+(r>>16)+(t>>16)<<16|65535&t}function t(n,r){return n<<r|n>>>32-r}function u(n,u,e,o,c,f){return r(t(r(r(u,n),r(o,f)),c),e)}function e(n,r,t,e,o,c,f){return u(r&t|~r&e,n,r,o,c,f)}function o(n,r,t,e,o,c,f){return u(r&e|t&~e,n,r,o,c,f)}function c(n,r,t,e,o,c,f){return u(r^t^e,n,r,o,c,f)}function f(n,r,t,e,o,c,f){return u(t^(r|~e),n,r,o,c,f)}function i(n,t){n[t>>5]|=128<<t%32,n[14+(t+64>>>9<<4)]=t;var u,i,a,h,g,l=1732584193,d=-271733879,v=-1732584194,C=271733878;for(u=0;u<n.length;u+=16)i=l,a=d,h=v,g=C,d=f(d=f(d=f(d=f(d=c(d=c(d=c(d=c(d=o(d=o(d=o(d=o(d=e(d=e(d=e(d=e(d,v=e(v,C=e(C,l=e(l,d,v,C,n[u],7,-680876936),d,v,n[u+1],12,-389564586),l,d,n[u+2],17,606105819),C,l,n[u+3],22,-1044525330),v=e(v,C=e(C,l=e(l,d,v,C,n[u+4],7,-176418897),d,v,n[u+5],12,1200080426),l,d,n[u+6],17,-1473231341),C,l,n[u+7],22,-45705983),v=e(v,C=e(C,l=e(l,d,v,C,n[u+8],7,1770035416),d,v,n[u+9],12,-1958414417),l,d,n[u+10],17,-42063),C,l,n[u+11],22,-1990404162),v=e(v,C=e(C,l=e(l,d,v,C,n[u+12],7,1804603682),d,v,n[u+13],12,-40341101),l,d,n[u+14],17,-1502002290),C,l,n[u+15],22,1236535329),v=o(v,C=o(C,l=o(l,d,v,C,n[u+1],5,-165796510),d,v,n[u+6],9,-1069501632),l,d,n[u+11],14,643717713),C,l,n[u],20,-373897302),v=o(v,C=o(C,l=o(l,d,v,C,n[u+5],5,-701558691),d,v,n[u+10],9,38016083),l,d,n[u+15],14,-660478335),C,l,n[u+4],20,-405537848),v=o(v,C=o(C,l=o(l,d,v,C,n[u+9],5,568446438),d,v,n[u+14],9,-1019803690),l,d,n[u+3],14,-187363961),C,l,n[u+8],20,1163531501),v=o(v,C=o(C,l=o(l,d,v,C,n[u+13],5,-1444681467),d,v,n[u+2],9,-51403784),l,d,n[u+7],14,1735328473),C,l,n[u+12],20,-1926607734),v=c(v,C=c(C,l=c(l,d,v,C,n[u+5],4,-378558),d,v,n[u+8],11,-2022574463),l,d,n[u+11],16,1839030562),C,l,n[u+14],23,-35309556),v=c(v,C=c(C,l=c(l,d,v,C,n[u+1],4,-1530992060),d,v,n[u+4],11,1272893353),l,d,n[u+7],16,-155497632),C,l,n[u+10],23,-1094730640),v=c(v,C=c(C,l=c(l,d,v,C,n[u+13],4,681279174),d,v,n[u],11,-358537222),l,d,n[u+3],16,-722521979),C,l,n[u+6],23,76029189),v=c(v,C=c(C,l=c(l,d,v,C,n[u+9],4,-640364487),d,v,n[u+12],11,-421815835),l,d,n[u+15],16,530742520),C,l,n[u+2],23,-995338651),v=f(v,C=f(C,l=f(l,d,v,C,n[u],6,-198630844),d,v,n[u+7],10,1126891415),l,d,n[u+14],15,-1416354905),C,l,n[u+5],21,-57434055),v=f(v,C=f(C,l=f(l,d,v,C,n[u+12],6,1700485571),d,v,n[u+3],10,-1894986606),l,d,n[u+10],15,-1051523),C,l,n[u+1],21,-2054922799),v=f(v,C=f(C,l=f(l,d,v,C,n[u+8],6,1873313359),d,v,n[u+15],10,-30611744),l,d,n[u+6],15,-1560198380),C,l,n[u+13],21,1309151649),v=f(v,C=f(C,l=f(l,d,v,C,n[u+4],6,-145523070),d,v,n[u+11],10,-1120210379),l,d,n[u+2],15,718787259),C,l,n[u+9],21,-343485551),l=r(l,i),d=r(d,a),v=r(v,h),C=r(C,g);return[l,d,v,C]}function a(n){var r,t="",u=32*n.length;for(r=0;r<u;r+=8)t+=String.fromCharCode(n[r>>5]>>>r%32&255);return t}function h(n){var r,t=[];for(t[(n.length>>2)-1]=void 0,r=0;r<t.length;r+=1)t[r]=0;var u=8*n.length;for(r=0;r<u;r+=8)t[r>>5]|=(255&n.charCodeAt(r/8))<<r%32;return t}function g(n){return a(i(h(n),8*n.length))}function l(n,r){var t,u,e=h(n),o=[],c=[];for(o[15]=c[15]=void 0,e.length>16&&(e=i(e,8*n.length)),t=0;t<16;t+=1)o[t]=909522486^e[t],c[t]=1549556828^e[t];return u=i(o.concat(h(r)),512+8*r.length),a(i(c.concat(u),640))}function d(n){var r,t,u="";for(t=0;t<n.length;t+=1)r=n.charCodeAt(t),u+="0123456789abcdef".charAt(r>>>4&15)+"0123456789abcdef".charAt(15&r);return u}function v(n){return unescape(encodeURIComponent(n))}function C(n){return g(v(n))}function A(n){return d(C(n))}function m(n,r){return l(v(n),v(r))}function s(n,r){return d(m(n,r))}function b(n,r,t){return r?t?m(r,n):s(r,n):t?C(n):A(n)}$.md5=b}();
+if ($.isNode()) {
+  Object.keys(jdCookieNode).forEach((item) => {
+    cookiesArr.push(jdCookieNode[item])
+  })
+  if (process.env.JD_DEBUG && process.env.JD_DEBUG === 'false') console.log = () => {};
+} else {
+  cookiesArr = [$.getdata('CookieJD'), $.getdata('CookieJD2'), ...jsonParse($.getdata('CookiesJD') || "[]").map(item => item.cookie)].filter(item => !!item);
+}
+!(async () => {
+  if (!cookiesArr[0]) {
+    $.msg($.name, '【提示】请先获取京东账号一cookie\n直接使用京东签到获取', 'https://bean.m.jd.com/bean/signIndex.action', {"open-url": "https://bean.m.jd.com/bean/signIndex.action"});
+    return;
+  }
+  $.log('\n注：临时活动的互助码不添加到此处，如有需要请手动运行对应临时活动脚本\n')
+  for (let i = 0; i < cookiesArr.length; i++) {
+    if (cookiesArr[i]) {
+      cookie = cookiesArr[i];
+      $.UserName = decodeURIComponent(cookie.match(/pt_pin=([^; ]+)(?=;?)/) && cookie.match(/pt_pin=([^; ]+)(?=;?)/)[1])
+      $.index = i + 1;
+      $.isLogin = true;
+      $.nickName = '';
+      message = '';
+      await TotalBean();
+      if (!$.isLogin) {
+        continue
+      }
+      await getShareCode()
+    }
+  }
+})()
+    .catch((e) => {
+      $.log('', `❌ ${$.name}, 失败! 原因: ${e}!`, '')
+    })
+    .finally(() => {
+      $.done();
+    })
+function getJdFactory() {
+  return new Promise(resolve => {
+    $.post(
+        taskPostUrl("jdfactory_getTaskDetail", {}, "jdfactory_getTaskDetail"),
+        async (err, resp, data) => {
+          try {
+            if (err) {
+              console.log(`${JSON.stringify(err)}`);
+              console.log(`$东东工厂 API请求失败，请检查网路重试`);
+            } else {
+              if (safeGet(data)) {
+                data = JSON.parse(data);
+                if (data.data.bizCode === 0) {
+                  $.taskVos = data.data.result.taskVos; //任务列表
+                  $.taskVos.map((item) => {
+                    if (item.taskType === 14) {
+                      console.log(
+                          `【京东账号${$.index}（${$.UserName}）东东工厂】${item.assistTaskDetailVo.taskToken}`
+                      );
+                    }
+                  });
+                }
+              }
+            }
+          } catch (e) {
+            $.logErr(e, resp);
+          } finally {
+            resolve();
+          }
+        }
+    );
+  })
+}
+function getJxFactory(){
+  const JX_API_HOST = "https://m.jingxi.com";
+
+  function JXGC_taskurl(functionId, body = "") {
+    return {
+      url: `${JX_API_HOST}/dreamfactory/${functionId}?zone=dream_factory&${body}&sceneval=2&g_login_type=1&_time=${Date.now()}&_=${Date.now()}`,
+      headers: {
+        Cookie: cookie,
+        Host: "m.jingxi.com",
+        Accept: "*/*",
+        Connection: "keep-alive",
+        "User-Agent":
+            "jdpingou;iPhone;3.14.4;14.0;ae75259f6ca8378672006fc41079cd8c90c53be8;network/wifi;model/iPhone10,2;appBuild/100351;ADID/00000000-0000-0000-0000-000000000000;supportApplePay/1;hasUPPay/0;pushNoticeIsOpen/1;hasOCPay/0;supportBestPay/0;session/62;pap/JA2015_311210;brand/apple;supportJDSHWK/1;Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "Accept-Language": "zh-cn",
+        Referer: "https://wqsd.jd.com/pingou/dream_factory/index.html",
+        "Accept-Encoding": "gzip, deflate, br",
+      },
+    };
+  }
+
+  return new Promise(resolve => {
+    $.get(
+        JXGC_taskurl(
+            "userinfo/GetUserInfo",
+            `pin=&sharePin=&shareType=&materialTuanPin=&materialTuanId=`
+        ),
+        async (err, resp, data) => {
+          try {
+            if (err) {
+              console.log(`${JSON.stringify(err)}`);
+              console.log(`京喜工厂 API请求失败，请检查网路重试`);
+            } else {
+              if (safeGet(data)) {
+                data = JSON.parse(data);
+                if (data["ret"] === 0) {
+                  data = data["data"];
+                  $.unActive = true; //标记是否开启了京喜活动或者选购了商品进行生产
+                  $.encryptPin = "";
+                  $.shelvesList = [];
+                  if (data.factoryList && data.productionList) {
+                    const production = data.productionList[0];
+                    const factory = data.factoryList[0];
+                    const productionStage = data.productionStage;
+                    $.factoryId = factory.factoryId; //工厂ID
+                    $.productionId = production.productionId; //商品ID
+                    $.commodityDimId = production.commodityDimId;
+                    $.encryptPin = data.user.encryptPin;
+                    // subTitle = data.user.pin;
+                    console.log(`【京东账号${$.index}（${$.UserName}）京喜工厂】${data.user.encryptPin}`);
+                  }
+                } else {
+                  $.unActive = false; //标记是否开启了京喜活动或者选购了商品进行生产
+                  if (!data.factoryList) {
+                    console.log(
+                        `【提示】京东账号${$.index}[${$.nickName}]京喜工厂活动未开始请手动去京东APP->游戏与互动->查看更多->京喜工厂 开启活动`
+                    );
+                  } else if (data.factoryList && !data.productionList) {
+                    console.log(
+                        `【提示】京东账号${$.index}[${$.nickName}]京喜工厂未选购商品请手动去京东APP->游戏与互动->查看更多->京喜工厂 选购`
+                    );
+                  }
+                }
+              } else {
+                console.log(`GetUserInfo异常：${JSON.stringify(data)}`);
+              }
+            }
+          } catch (e) {
+            $.logErr(e, resp);
+          } finally {
+            resolve()
+          }
+        }
+    );
+  })
+}
+
+function getJxNc(){
+  const JXNC_API_HOST = "https://wq.jd.com/";
+
+  function JXNC_taskurl(function_path, body) {
+    return {
+      url: `${JXNC_API_HOST}cubeactive/farm/${function_path}?${body}&farm_jstoken=&phoneid=&timestamp=&sceneval=2&g_login_type=1&_=${Date.now()}&g_ty=ls`,
+      headers: {
+        Cookie: cookie,
+        Accept: `*/*`,
+        Connection: `keep-alive`,
+        Referer: `https://st.jingxi.com/pingou/dream_factory/index.html`,
+        'Accept-Encoding': `gzip, deflate, br`,
+        Host: `wq.jd.com`,
+        'Accept-Language': `zh-cn`,
+        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('../USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1")
+      },
+    };
+  }
+
+  return new Promise(resolve => {
+    $.get(
+        JXNC_taskurl('query', `type=1`),
+        async (err, resp, data) => {
+          try {
+            if (err) {
+              console.log(`${JSON.stringify(err)}`);
+              console.log(`京喜农场 API请求失败，请检查网路重试`);
+            } else {
+              data = data.match(/try\{Query\(([\s\S]*)\)\;\}catch\(e\)\{\}/)[1];
+              if (safeGet(data)) {
+                data = JSON.parse(data);
+                if (data["ret"] === 0) {
+                  if (data.active) {
+                    let shareCodeJson = {
+                      'smp': data.smp,
+                      'active': data.active,
+                      'joinnum': data.joinnum,
+                    };
+                    console.log(`注意：京喜农场 种植种子发生变化的时候，互助码也会变！！`);
+                    console.log(`【京东账号${$.index}（${$.UserName}）京喜农场】` + JSON.stringify(shareCodeJson));
+                  } else {
+                    console.log(`【京东账号${$.index}（${$.UserName}）京喜农场】未选择种子，请先去京喜农场选择种子`);
+                  }
+                }
+              } else {
+                console.log(`京喜农场返回值解析异常：${JSON.stringify(data)}`);
+              }
+            }
+          } catch (e) {
+            $.logErr(e, resp);
+          } finally {
+            resolve()
+          }
+        }
+    );
+  })
+}
+
+function getJdPet(){
+  const JDPet_API_HOST = "https://api.m.jd.com/client.action";
+
+  function jdPet_Url(function_id, body = {}) {
+    body["version"] = 2;
+    body["channel"] = "app";
+    return {
+      url: `${JDPet_API_HOST}?functionId=${function_id}`,
+      body: `body=${escape(
+          JSON.stringify(body)
+      )}&appid=wh5&loginWQBiz=pet-town&clientVersion=9.0.4`,
+      headers: {
+        Cookie: cookie,
+        "User-Agent": $.isNode()
+            ? process.env.JD_USER_AGENT
+                ? process.env.JD_USER_AGENT
+                : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"
+            : $.getdata("JDUA")
+                ? $.getdata("JDUA")
+                : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1",
+        Host: "api.m.jd.com",
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+    };
+  }
+  return new Promise(resolve => {
+    $.post(jdPet_Url("initPetTown"), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log("东东萌宠: API查询请求失败 ‼️‼️");
+          console.log(JSON.stringify(err));
+          $.logErr(err);
+        } else {
+          data = JSON.parse(data);
+
+          const initPetTownRes = data;
+
+          message = `【京东账号${$.index}】${$.nickName}`;
+          if (
+              initPetTownRes.code === "0" &&
+              initPetTownRes.resultCode === "0" &&
+              initPetTownRes.message === "success"
+          ) {
+            $.petInfo = initPetTownRes.result;
+            if ($.petInfo.userStatus === 0) {
+              /*console.log(
+                `【提示】京东账号${$.index}${$.nickName}萌宠活动未开启请手动去京东APP开启活动入口：我的->游戏与互动->查看更多开启`
+              );*/
+              return;
+            }
+
+            console.log(
+                `【京东账号${$.index}（${$.UserName}）京东萌宠】${$.petInfo.shareCode}`
+            );
+
+          } else if (initPetTownRes.code === "0") {
+            console.log(`初始化萌宠失败:  ${initPetTownRes.message}`);
+          } else {
+            console.log("shit");
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp);
+      } finally {
+        resolve(data);
+      }
+    });
+  })
+}
+async function getJdZZ() {
+  const JDZZ_API_HOST = "https://api.m.jd.com/client.action";
+  function getTaskList() {
+    return new Promise(resolve => {
+      $.get(taskZZUrl("interactTaskIndex"), async (err, resp, data) => {
+        try {
+          if (err) {
+            console.log(`${JSON.stringify(err)}`)
+            console.log(`${$.name} API请求失败，请检查网路重试`)
+          } else {
+            if (safeGet(data)) {
+              data = JSON.parse(data);
+              $.taskList = data.data.taskDetailResList;
+              if ($.taskList.filter(item => !!item && item['taskId']=== 3) && $.taskList.filter(item => !!item && item['taskId']=== 3).length) {
+                console.log(`【京东账号${$.index}（${$.UserName}）的京东赚赚好友互助码】${$.taskList.filter(item => !!item && item['taskId']=== 3)[0]['itemId']}`);
+              }
+            }
+          }
+        } catch (e) {
+          $.logErr(e, resp)
+        } finally {
+          resolve(data);
+        }
+      })
+    })
+  }
+
+  function taskZZUrl(functionId, body = {}) {
+    return {
+      url: `${JDZZ_API_HOST}?functionId=${functionId}&body=${escape(JSON.stringify(body))}&client=wh5&clientVersion=9.1.0`,
+      headers: {
+        'Cookie': cookie,
+        'Host': 'api.m.jd.com',
+        'Connection': 'keep-alive',
+        'Content-Type': 'application/json',
+        'Referer': 'http://wq.jd.com/wxapp/pages/hd-interaction/index/index',
+        'User-Agent': $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('../USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"),
+        'Accept-Language': 'zh-cn',
+        'Accept-Encoding': 'gzip, deflate, br',
+      }
+    }
+  }
+
+  await getTaskList()
+}
+async function getPlantBean() {
+  const JDplant_API_HOST = "https://api.m.jd.com/client.action";
+
+  async function plantBeanIndex() {
+    $.plantBeanIndexResult = await plant_request("plantBeanIndex"); //plantBeanIndexBody
+  }
+
+  function plant_request(function_id, body = {}) {
+    return new Promise(async (resolve) => {
+      $.post(plant_taskUrl(function_id, body), (err, resp, data) => {
+        try {
+          if (err) {
+            console.log("种豆得豆: API查询请求失败 ‼️‼️");
+            console.log(`function_id:${function_id}`);
+            $.logErr(err);
+          } else {
+            data = JSON.parse(data);
+          }
+        } catch (e) {
+          $.logErr(e, resp);
+        } finally {
+          resolve(data);
+        }
+      });
+    });
+  }
+
+  function plant_taskUrl(function_id, body) {
+    body["version"] = "9.0.0.1";
+    body["monitor_source"] = "plant_app_plant_index";
+    body["monitor_refer"] = "";
+    return {
+      url: JDplant_API_HOST,
+      body: `functionId=${function_id}&body=${escape(
+          JSON.stringify(body)
+      )}&appid=ld&client=apple&area=5_274_49707_49973&build=167283&clientVersion=9.1.0`,
+      headers: {
+        Cookie: cookie,
+        Host: "api.m.jd.com",
+        Accept: "*/*",
+        Connection: "keep-alive",
+        "User-Agent": $.isNode()
+            ? process.env.JD_USER_AGENT
+                ? process.env.JD_USER_AGENT
+                : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"
+            : $.getdata("JDUA")
+                ? $.getdata("JDUA")
+                : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1",
+        "Accept-Language": "zh-Hans-CN;q=1,en-CN;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+    };
+  }
+
+  function getParam(url, name) {
+    const reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+    const r = url.match(reg);
+    if (r != null) return unescape(r[2]);
+    return null;
+  }
+
+  async function jdPlantBean() {
+    await plantBeanIndex();
+    // console.log(plantBeanIndexResult.data.taskList);
+    if ($.plantBeanIndexResult.code === "0") {
+      const shareUrl = $.plantBeanIndexResult.data.jwordShareInfo.shareUrl;
+      $.myPlantUuid = getParam(shareUrl, "plantUuid");
+      console.log(`【京东账号${$.index}（${$.UserName}）种豆得豆】${$.myPlantUuid}`);
+
+    } else {
+      console.log(
+          `种豆得豆-初始失败:  ${JSON.stringify($.plantBeanIndexResult)}`
+      );
+    }
+  }
+
+  await jdPlantBean();
+}
+async function getJDFruit() {
+  async function initForFarm() {
+    return new Promise((resolve) => {
+      const option = {
+        url: `${JD_API_HOST}?functionId=initForFarm`,
+        body: `body=${escape(
+            JSON.stringify({version: 4})
+        )}&appid=wh5&clientVersion=9.1.0`,
+        headers: {
+          accept: "*/*",
+          "accept-encoding": "gzip, deflate, br",
+          "accept-language": "zh-CN,zh;q=0.9",
+          "cache-control": "no-cache",
+          cookie: cookie,
+          origin: "https://home.m.jd.com",
+          pragma: "no-cache",
+          referer: "https://home.m.jd.com/myJd/newhome.action",
+          "sec-fetch-dest": "empty",
+          "sec-fetch-mode": "cors",
+          "sec-fetch-site": "same-site",
+          "User-Agent": $.isNode()
+              ? process.env.JD_USER_AGENT
+                  ? process.env.JD_USER_AGENT
+                  : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"
+              : $.getdata("JDUA")
+                  ? $.getdata("JDUA")
+                  : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1",
+          "Content-Type": "application/x-www-form-urlencoded",
+        },
+      };
+      $.post(option, (err, resp, data) => {
+        try {
+          if (err) {
+            console.log("东东农场: API查询请求失败 ‼️‼️");
+            console.log(JSON.stringify(err));
+            $.logErr(err);
+          } else {
+            if (safeGet(data)) {
+              $.farmInfo = JSON.parse(data);
+            }
+          }
+        } catch (e) {
+          $.logErr(e, resp);
+        } finally {
+          resolve();
+        }
+      });
+    });
+  }
+
+  async function jdFruit() {
+    await initForFarm();
+    if ($.farmInfo.farmUserPro) {
+      console.log(
+          `【京东账号${$.index}（${$.UserName}）京东农场】${$.farmInfo.farmUserPro.shareCode}`
+      );
+
+    } else {
+      /*console.log(
+        `初始化农场数据异常, 请登录京东 app查看农场0元水果功能是否正常,农场初始化数据: ${JSON.stringify(
+          $.farmInfo
+        )}`
+      );*/
+    }
+  }
+
+  await jdFruit();
+}
+async function getJoy(){
+  function taskUrl(functionId, body = '') {
+    let t = Date.now().toString().substr(0, 10)
+    let e = body || ""
+    e = $.md5("aDvScBv$gGQvrXfva8dG!ZC@DA70Y%lX" + e + t)
+    e = e + Number(t).toString(16)
+    return {
+      url: `${JD_API_HOST}?uts=${e}&appid=crazy_joy&functionId=${functionId}&body=${escape(body)}&t=${t}`,
+      headers: {
+        'Cookie': cookie,
+        'Host': 'api.m.jd.com',
+        'Accept': '*/*',
+        'Connection': 'keep-alive',
+        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('../USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"),
+        'Accept-Language': 'zh-cn',
+        'Referer': 'https://crazy-joy.jd.com/',
+        'origin': 'https://crazy-joy.jd.com',
+        'Accept-Encoding': 'gzip, deflate, br',
+      }
+    }
+  }
+  let body = {"paramData": {}}
+  return new Promise(async resolve => {
+    $.get(taskUrl('crazyJoy_user_gameState', JSON.stringify(body)), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if (data.success && data.data && data.data.userInviteCode) {
+              console.log(`【京东账号${$.index}（${$.UserName}）crazyJoy】${data.data.userInviteCode}`)
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+//闪购盲盒
+async function getSgmh(timeout = 0) {
+  return new Promise((resolve) => {
+    setTimeout( ()=>{
+      let url = {
+        url : `https://api.m.jd.com/client.action`,
+        headers : {
+          'Origin' : `https://h5.m.jd.com`,
+          'Cookie' : cookie,
+          'Connection' : `keep-alive`,
+          'Accept' : `application/json, text/plain, */*`,
+          'Referer' : `https://h5.m.jd.com/babelDiy/Zeus/2WBcKYkn8viyxv7MoKKgfzmu7Dss/index.html`,
+          'Host' : `api.m.jd.com`,
+          'Accept-Encoding' : `gzip, deflate, br`,
+          'Accept-Language' : `zh-cn`
+        },
+        body : `functionId=interact_template_getHomeData&body={"appId":"1EFRXxg","taskToken":""}&client=wh5&clientVersion=1.0.0`
+      }
+      $.post(url, async (err, resp, data) => {
+        try {
+          data = JSON.parse(data);
+          if (data.data.bizCode === 0) {
+            const invites  = data.data.result.taskVos.filter(item => item['taskName'] === '邀请好友助力');
+            console.log(`【京东账号${$.index}（${$.UserName}）闪购盲盒】${invites && invites[0]['assistTaskDetailVo']['taskToken']}`)
+          }
+        } catch (e) {
+          $.logErr(e, resp);
+        } finally {
+          resolve()
+        }
+      })
+    },timeout)
+  })
+}
+//财富岛
+function getCFD(showInvite = true) {
+  function taskUrl(function_path, body) {
+    return {
+      url: `https://m.jingxi.com/jxcfd/${function_path}?strZone=jxcfd&bizCode=jxcfd&source=jxcfd&dwEnv=7&_cfd_t=${Date.now()}&ptag=138631.26.55&${body}&_ste=1&_=${Date.now()}&sceneval=2&g_login_type=1&g_ty=ls`,
+      headers: {
+        Cookie: cookie,
+        Accept: "*/*",
+        Connection: "keep-alive",
+        Referer:"https://st.jingxi.com/fortune_island/index.html?ptag=138631.26.55",
+        "Accept-Encoding": "gzip, deflate, br",
+        Host: "m.jingxi.com",
+        "User-Agent":`jdpingou;iPhone;3.15.2;14.2.1;ea00763447803eb0f32045dcba629c248ea53bb3;network/wifi;model/iPhone13,2;appBuild/100365;ADID/00000000-0000-0000-0000-000000000000;supportApplePay/1;hasUPPay/0;pushNoticeIsOpen/0;hasOCPay/0;supportBestPay/0;session/${Math.random * 98 + 1};pap/JA2015_311210;brand/apple;supportJDSHWK/1;Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148`,
+        "Accept-Language": "zh-cn",
+      },
+    };
+  }
+  return new Promise(async (resolve) => {
+    $.get(taskUrl(`user/QueryUserInfo`), (err, resp, data) => {
+      try {
+        const {
+          iret,
+          SceneList = {},
+          XbStatus: { XBDetail = [], dwXBRemainCnt } = {},
+          ddwMoney,
+          dwIsNewUser,
+          sErrMsg,
+          strMyShareId,
+          strPin,
+        } = JSON.parse(data);
+        console.log(`【京东账号${$.index}（${$.UserName}）财富岛】${strMyShareId}`)
+      } catch (e) {
+        $.logErr(e, resp);
+      } finally {
+        resolve();
+      }
+    });
+  });
+}
+//领现金
+function getJdCash() {
+  function taskUrl(functionId, body = {}) {
+    return {
+      url: `https://api.m.jd.com/client.action?functionId=${functionId}&body=${escape(JSON.stringify(body))}&appid=CashRewardMiniH5Env&appid=9.1.0`,
+      headers: {
+        'Cookie': cookie,
+        'Host': 'api.m.jd.com',
+        'Connection': 'keep-alive',
+        'Content-Type': 'application/json',
+        'Referer': 'http://wq.jd.com/wxapp/pages/hd-interaction/index/index',
+        'User-Agent': $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('../USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"),
+        'Accept-Language': 'zh-cn',
+        'Accept-Encoding': 'gzip, deflate, br',
+      }
+    }
+  }
+  return new Promise((resolve) => {
+    $.get(taskUrl("cash_mob_home",), async (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (safeGet(data)) {
+            data = JSON.parse(data);
+            if(data.code===0 && data.data.result){
+              console.log(`【京东账号${$.index}（${$.UserName}）签到领现金】${data.data.result.inviteCode}`);
+            }
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve(data);
+      }
+    })
+  })
+}
+async function getShareCode() {
+  console.log(`======账号${$.index}开始======`)
+  await getJDFruit()
+  await getJdPet()
+  await getPlantBean()
+  await getJdFactory()
+  await getJxFactory()
+  await getJxNc()
+  await getJdZZ()
+  await getJoy()
+  await getSgmh()
+  await getCFD()
+  await getJdCash()
+  console.log(`======账号${$.index}结束======\n`)
+}
+
+function safeGet(data) {
+  try {
+    if (typeof JSON.parse(data) == "object") {
+      return true;
+    }
+  } catch (e) {
+    console.log(e);
+    console.log(`京东服务器访问数据为空，请检查自身设备网络情况`);
+    return false;
+  }
+}
+function TotalBean() {
+  return new Promise(async resolve => {
+    const options = {
+      "url": `https://wq.jd.com/user/info/QueryJDUserInfo?sceneval=2`,
+      "headers": {
+        "Accept": "application/json,text/plain, */*",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "zh-cn",
+        "Connection": "keep-alive",
+        "Cookie": cookie,
+        "Referer": "https://wqs.jd.com/my/jingdou/my.shtml?sceneval=2",
+        "User-Agent": $.isNode() ? (process.env.JD_USER_AGENT ? process.env.JD_USER_AGENT : (require('../USER_AGENTS').USER_AGENT)) : ($.getdata('JDUA') ? $.getdata('JDUA') : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1")
+      }
+    }
+    $.post(options, (err, resp, data) => {
+      try {
+        if (err) {
+          console.log(`${JSON.stringify(err)}`)
+          console.log(`${$.name} API请求失败，请检查网路重试`)
+        } else {
+          if (data) {
+            data = JSON.parse(data);
+            if (data['retcode'] === 13) {
+              $.isLogin = false; //cookie过期
+              return
+            }
+            if (data['retcode'] === 0) {
+              $.nickName = (data['base'] && data['base'].nickname) || $.UserName;
+            } else {
+              $.nickName = $.UserName
+            }
+          } else {
+            console.log(`京东服务器返回空数据`)
+          }
+        }
+      } catch (e) {
+        $.logErr(e, resp)
+      } finally {
+        resolve();
+      }
+    })
+  })
+}
+function taskPostUrl(function_id, body = {}, function_id2) {
+  let url = `${JD_API_HOST}`;
+  if (function_id2) {
+    url += `?functionId=${function_id2}`;
+  }
+  return {
+    url,
+    body: `functionId=${function_id}&body=${escape(
+        JSON.stringify(body)
+    )}&client=wh5&clientVersion=9.1.0`,
+    headers: {
+      Cookie: cookie,
+      origin: "https://h5.m.jd.com",
+      referer: "https://h5.m.jd.com/",
+      "Content-Type": "application/x-www-form-urlencoded",
+      "User-Agent": $.isNode()
+          ? process.env.JD_USER_AGENT
+              ? process.env.JD_USER_AGENT
+              : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"
+          : $.getdata("JDUA")
+              ? $.getdata("JDUA")
+              : "jdapp;iPhone;9.4.4;14.3;network/4g;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1",
+    },
+  };
+}
+function jsonParse(str) {
+  if (typeof str == "string") {
+    try {
+      return JSON.parse(str);
+    } catch (e) {
+      console.log(e);
+      $.msg($.name, '', '不要在BoxJS手动复制粘贴修改cookie')
+      return [];
+    }
+  }
+}
+// prettier-ignore
+function Env(t,e){"undefined"!=typeof process&&JSON.stringify(process.env).indexOf("GITHUB")>-1&&process.exit(0);class s{constructor(t){this.env=t}send(t,e="GET"){t="string"==typeof t?{url:t}:t;let s=this.get;return"POST"===e&&(s=this.post),new Promise((e,i)=>{s.call(this,t,(t,s,r)=>{t?i(t):e(s)})})}get(t){return this.send.call(this.env,t)}post(t){return this.send.call(this.env,t,"POST")}}return new class{constructor(t,e){this.name=t,this.http=new s(this),this.data=null,this.dataFile="box.dat",this.logs=[],this.isMute=!1,this.isNeedRewrite=!1,this.logSeparator="\n",this.startTime=(new Date).getTime(),Object.assign(this,e),this.log("",`🔔${this.name}, 开始!`)}isNode(){return"undefined"!=typeof module&&!!module.exports}isQuanX(){return"undefined"!=typeof $task}isSurge(){return"undefined"!=typeof $httpClient&&"undefined"==typeof $loon}isLoon(){return"undefined"!=typeof $loon}toObj(t,e=null){try{return JSON.parse(t)}catch{return e}}toStr(t,e=null){try{return JSON.stringify(t)}catch{return e}}getjson(t,e){let s=e;const i=this.getdata(t);if(i)try{s=JSON.parse(this.getdata(t))}catch{}return s}setjson(t,e){try{return this.setdata(JSON.stringify(t),e)}catch{return!1}}getScript(t){return new Promise(e=>{this.get({url:t},(t,s,i)=>e(i))})}runScript(t,e){return new Promise(s=>{let i=this.getdata("@chavy_boxjs_userCfgs.httpapi");i=i?i.replace(/\n/g,"").trim():i;let r=this.getdata("@chavy_boxjs_userCfgs.httpapi_timeout");r=r?1*r:20,r=e&&e.timeout?e.timeout:r;const[o,h]=i.split("@"),n={url:`http://${h}/v1/scripting/evaluate`,body:{script_text:t,mock_type:"cron",timeout:r},headers:{"X-Key":o,Accept:"*/*"}};this.post(n,(t,e,i)=>s(i))}).catch(t=>this.logErr(t))}loaddata(){if(!this.isNode())return{};{this.fs=this.fs?this.fs:require("fs"),this.path=this.path?this.path:require("path");const t=this.path.resolve(this.dataFile),e=this.path.resolve(process.cwd(),this.dataFile),s=this.fs.existsSync(t),i=!s&&this.fs.existsSync(e);if(!s&&!i)return{};{const i=s?t:e;try{return JSON.parse(this.fs.readFileSync(i))}catch(t){return{}}}}}writedata(){if(this.isNode()){this.fs=this.fs?this.fs:require("fs"),this.path=this.path?this.path:require("path");const t=this.path.resolve(this.dataFile),e=this.path.resolve(process.cwd(),this.dataFile),s=this.fs.existsSync(t),i=!s&&this.fs.existsSync(e),r=JSON.stringify(this.data);s?this.fs.writeFileSync(t,r):i?this.fs.writeFileSync(e,r):this.fs.writeFileSync(t,r)}}lodash_get(t,e,s){const i=e.replace(/\[(\d+)\]/g,".$1").split(".");let r=t;for(const t of i)if(r=Object(r)[t],void 0===r)return s;return r}lodash_set(t,e,s){return Object(t)!==t?t:(Array.isArray(e)||(e=e.toString().match(/[^.[\]]+/g)||[]),e.slice(0,-1).reduce((t,s,i)=>Object(t[s])===t[s]?t[s]:t[s]=Math.abs(e[i+1])>>0==+e[i+1]?[]:{},t)[e[e.length-1]]=s,t)}getdata(t){let e=this.getval(t);if(/^@/.test(t)){const[,s,i]=/^@(.*?)\.(.*?)$/.exec(t),r=s?this.getval(s):"";if(r)try{const t=JSON.parse(r);e=t?this.lodash_get(t,i,""):e}catch(t){e=""}}return e}setdata(t,e){let s=!1;if(/^@/.test(e)){const[,i,r]=/^@(.*?)\.(.*?)$/.exec(e),o=this.getval(i),h=i?"null"===o?null:o||"{}":"{}";try{const e=JSON.parse(h);this.lodash_set(e,r,t),s=this.setval(JSON.stringify(e),i)}catch(e){const o={};this.lodash_set(o,r,t),s=this.setval(JSON.stringify(o),i)}}else s=this.setval(t,e);return s}getval(t){return this.isSurge()||this.isLoon()?$persistentStore.read(t):this.isQuanX()?$prefs.valueForKey(t):this.isNode()?(this.data=this.loaddata(),this.data[t]):this.data&&this.data[t]||null}setval(t,e){return this.isSurge()||this.isLoon()?$persistentStore.write(t,e):this.isQuanX()?$prefs.setValueForKey(t,e):this.isNode()?(this.data=this.loaddata(),this.data[e]=t,this.writedata(),!0):this.data&&this.data[e]||null}initGotEnv(t){this.got=this.got?this.got:require("got"),this.cktough=this.cktough?this.cktough:require("tough-cookie"),this.ckjar=this.ckjar?this.ckjar:new this.cktough.CookieJar,t&&(t.headers=t.headers?t.headers:{},void 0===t.headers.Cookie&&void 0===t.cookieJar&&(t.cookieJar=this.ckjar))}get(t,e=(()=>{})){t.headers&&(delete t.headers["Content-Type"],delete t.headers["Content-Length"]),this.isSurge()||this.isLoon()?(this.isSurge()&&this.isNeedRewrite&&(t.headers=t.headers||{},Object.assign(t.headers,{"X-Surge-Skip-Scripting":!1})),$httpClient.get(t,(t,s,i)=>{!t&&s&&(s.body=i,s.statusCode=s.status),e(t,s,i)})):this.isQuanX()?(this.isNeedRewrite&&(t.opts=t.opts||{},Object.assign(t.opts,{hints:!1})),$task.fetch(t).then(t=>{const{statusCode:s,statusCode:i,headers:r,body:o}=t;e(null,{status:s,statusCode:i,headers:r,body:o},o)},t=>e(t))):this.isNode()&&(this.initGotEnv(t),this.got(t).on("redirect",(t,e)=>{try{if(t.headers["set-cookie"]){const s=t.headers["set-cookie"].map(this.cktough.Cookie.parse).toString();s&&this.ckjar.setCookieSync(s,null),e.cookieJar=this.ckjar}}catch(t){this.logErr(t)}}).then(t=>{const{statusCode:s,statusCode:i,headers:r,body:o}=t;e(null,{status:s,statusCode:i,headers:r,body:o},o)},t=>{const{message:s,response:i}=t;e(s,i,i&&i.body)}))}post(t,e=(()=>{})){if(t.body&&t.headers&&!t.headers["Content-Type"]&&(t.headers["Content-Type"]="application/x-www-form-urlencoded"),t.headers&&delete t.headers["Content-Length"],this.isSurge()||this.isLoon())this.isSurge()&&this.isNeedRewrite&&(t.headers=t.headers||{},Object.assign(t.headers,{"X-Surge-Skip-Scripting":!1})),$httpClient.post(t,(t,s,i)=>{!t&&s&&(s.body=i,s.statusCode=s.status),e(t,s,i)});else if(this.isQuanX())t.method="POST",this.isNeedRewrite&&(t.opts=t.opts||{},Object.assign(t.opts,{hints:!1})),$task.fetch(t).then(t=>{const{statusCode:s,statusCode:i,headers:r,body:o}=t;e(null,{status:s,statusCode:i,headers:r,body:o},o)},t=>e(t));else if(this.isNode()){this.initGotEnv(t);const{url:s,...i}=t;this.got.post(s,i).then(t=>{const{statusCode:s,statusCode:i,headers:r,body:o}=t;e(null,{status:s,statusCode:i,headers:r,body:o},o)},t=>{const{message:s,response:i}=t;e(s,i,i&&i.body)})}}time(t,e=null){const s=e?new Date(e):new Date;let i={"M+":s.getMonth()+1,"d+":s.getDate(),"H+":s.getHours(),"m+":s.getMinutes(),"s+":s.getSeconds(),"q+":Math.floor((s.getMonth()+3)/3),S:s.getMilliseconds()};/(y+)/.test(t)&&(t=t.replace(RegExp.$1,(s.getFullYear()+"").substr(4-RegExp.$1.length)));for(let e in i)new RegExp("("+e+")").test(t)&&(t=t.replace(RegExp.$1,1==RegExp.$1.length?i[e]:("00"+i[e]).substr((""+i[e]).length)));return t}msg(e=t,s="",i="",r){const o=t=>{if(!t)return t;if("string"==typeof t)return this.isLoon()?t:this.isQuanX()?{"open-url":t}:this.isSurge()?{url:t}:void 0;if("object"==typeof t){if(this.isLoon()){let e=t.openUrl||t.url||t["open-url"],s=t.mediaUrl||t["media-url"];return{openUrl:e,mediaUrl:s}}if(this.isQuanX()){let e=t["open-url"]||t.url||t.openUrl,s=t["media-url"]||t.mediaUrl;return{"open-url":e,"media-url":s}}if(this.isSurge()){let e=t.url||t.openUrl||t["open-url"];return{url:e}}}};if(this.isMute||(this.isSurge()||this.isLoon()?$notification.post(e,s,i,o(r)):this.isQuanX()&&$notify(e,s,i,o(r))),!this.isMuteLog){let t=["","==============📣系统通知📣=============="];t.push(e),s&&t.push(s),i&&t.push(i),console.log(t.join("\n")),this.logs=this.logs.concat(t)}}log(...t){t.length>0&&(this.logs=[...this.logs,...t]),console.log(t.join(this.logSeparator))}logErr(t,e){const s=!this.isSurge()&&!this.isQuanX()&&!this.isLoon();s?this.log("",`❗️${this.name}, 错误!`,t.stack):this.log("",`❗️${this.name}, 错误!`,t)}wait(t){return new Promise(e=>setTimeout(e,t))}done(t={}){const e=(new Date).getTime(),s=(e-this.startTime)/1e3;this.log("",`🔔${this.name}, 结束! 🕛 ${s} 秒`),this.log(),(this.isSurge()||this.isQuanX()||this.isLoon())&&$done(t)}}(t,e)}
