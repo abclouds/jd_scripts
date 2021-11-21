@@ -52,7 +52,7 @@
     "13 1,22 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_gold_creator.js, tag=金榜创造营, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "0 9,12,20,21 2-22 2 * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_global.js, tag=环球挑战赛2021-02-22, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global.png, enabled=true",
     "0 9,12,20,21 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_global_mh.js, tag=京东国际盲盒2021-03-31, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global_mh.png, enabled=true",
-    "0 7 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_goodMorning.js, tag=早起福利, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global_mh.png, enabled=true"
+    "0 7 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_goodMorning.js, tag=早起福利, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global_mh.png, enabled=true",
 
     "13 1,6,22 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "5-45/20 * * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
