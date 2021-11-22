@@ -102,7 +102,8 @@
     "12 * * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_pigPet.js, tag=京东金融养猪猪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=true",
     "1 7-21/2 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
     "0 2 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_price.js, tag=京东保价, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-   
+    "23 8,9 * * * https://raw.githubusercontent.com/star261/jd/main/scripts/jd_productZ4Brand.js, tag=特务Z, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+		
     "11 9 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
     "1 1,2,23 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
     
