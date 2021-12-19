@@ -82,10 +82,13 @@
     "4 10 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_mcxhd.js, tag=新潮品牌狂欢, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "8 8,13 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_mdou.js, tag=升级赚京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "31 2,8 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_mf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-    "1 7 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_mh.js, tag=盲盒抽京豆2021-02-05, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_mh.jpg, enabled=true",
+    "31 2,8 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_mofang_ex.js, tag=京东小魔方2, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+	"1 7 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_mh.js, tag=盲盒抽京豆2021-02-05, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_mh.jpg, enabled=true",
     "0 0,1-23/3 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_mohe.js, tag=5G超级盲盒2021-04-30, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "3 0-23/2 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_moneyTree.js, tag=京东摇钱树, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyqs.png, enabled=true",
     "10 7 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_ms.js, tag=京东秒秒币, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_ms.jpg, enabled=true",
+
+
 
     "10 0,20 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "20 8,12 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_newYearMoney.js, tag=京东压岁钱2021-2-11, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
@@ -122,6 +125,8 @@
     "55 6 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_unsubscriLive.js, tag=取关所有主播, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 
     "10 10 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_wish.js, tag=众筹许愿池, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    "0 8,22 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_wyw.js, tag=玩一玩成就, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+
 
     "5 7 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_xg.js, tag=小鸽有礼, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_xg.jpg, enabled=true",
     "30 7 * * * https://raw.githubusercontent.com/abclouds/jd_scripts/master/js/jd_xgyl.js, tag=小鸽有礼2, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_xgyl.png, enabled=true",
