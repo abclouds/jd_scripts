@@ -31,7 +31,7 @@ let cookiesArr = [], cookie = '', jdPetShareArr = [], isBox = false, notify, new
 //下面给出两个账号的填写示例（iOS只支持2个京东账号）
 let shareCodes = [ // IOS本地脚本用户这个列表填入你要助力的好友的shareCode
   //账号一的好友shareCode,不同好友的shareCode中间用@符号隔开
-  'MTE1NDQ5OTIwMDAwMDAwNDA0MTQyMjU=@MTEzMzI0OTE0NTAwMDAwMDA0MDg2NjkzMQ=@MTE0MDkyMjIwMDAwMDAwNDcyNDk2Mzc=@MTEzMzI1MTE4NDAwMDAwMDA0OTY5Nzc0Mw==@MTEyOTEzNzMzMDAwMDAwMDc3NDA3MTc3'
+  'MTE1NDQ5OTIwMDAwMDAwNDA0MTQyMjU=@MTEzMzI0OTE0NTAwMDAwMDA0MDg2NjkzMQ==@MTE0MDkyMjIwMDAwMDAwNDcyNDk2Mzc=@MTEzMzI1MTE4NDAwMDAwMDA0OTY5Nzc0Mw==@MTEzMzI1MTE4NDAwMDAwMDA1NDQyMTk3NQ=='
 ]
 let message = '', subTitle = '', option = {};
 let jdNotify = false;//是否关闭通知，false打开通知推送，true关闭通知推送
