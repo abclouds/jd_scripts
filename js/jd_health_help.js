@@ -20,8 +20,8 @@ cron "5 4,14 * * *" script-path=https://raw.githubusercontent.com/KingRan/KR/mai
 东东健康社区 = type=cron,script-path=https://raw.githubusercontent.com/KingRan/KR/main/jd_health_help.js, cronexpr="5 4,14 * * *", timeout=3600, enable=true
  */
 const $ = new Env("东东健康社区内部互助");
-const jdCookieNode = $.isNode() ? require("./jdCookie.js") : "";
-const notify = $.isNode() ? require('./sendNotify') : "";
+const jdCookieNode = $.isNode() ? require("../jdCookie.js") : "";
+const notify = $.isNode() ? require('../sendNotify') : "";
 let cookiesArr = [], cookie = "", allMessage = "", message;
 let reward = process.env.JD_HEALTH_REWARD_NAME ? process.env.JD_HEALTH_REWARD_NAME : '';
 const randomCount = $.isNode() ? 20 : 5;

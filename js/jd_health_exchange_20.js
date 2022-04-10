@@ -21,9 +21,9 @@ cron "0 0 * * *" script-path=https://raw.githubusercontent.com/qqsdff/script/mai
 const $ = new Env('健康社区兑换');
 let commodityId = $.getdata('commodityId') || 4;//兑换商品编号
 
-const notify = $.isNode() ? require('./sendNotify') : '';
+const notify = $.isNode() ? require('../sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
-const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
+const jdCookieNode = $.isNode() ? require('../jdCookie.js') : '';
 
 let cookiesArr = [],
     cookie = '',
